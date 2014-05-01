@@ -4,7 +4,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img width="350" alt="Martin Elsman" align="right" src="/images/elsman.jpg">
+<img width="200" alt="Martin Elsman" align="right" src="/images/elsman.jpg">
 Associate Professor
 
 Department of Computer Science
