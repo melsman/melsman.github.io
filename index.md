@@ -9,21 +9,14 @@ layout: front
      <img width="150" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
   </div>
   <div class="span6">
-     Associate Professor
-
-     Department of Computer Science
-
-     University of Copenhagen, Denmark
-
-     Universitetsparken 5, Building B, gr.
-
-     2100 Copenhagen Ø
-
-     mobile: +45 26122212
-
-     email: mael at di.ku.dk
-
-     office: 01-0-015
+     Associate Professor<br />
+     Department of Computer Science<br />
+     University of Copenhagen, Denmark<br />
+     Universitetsparken 5, Building B, gr.<br />
+     2100 Copenhagen Ø<br />
+     mobile: +45 26122212<br />
+     email: mael at di.ku.dk<br />
+     office: 01-0-015<br />
 
      [HIPERFIT](http://www.hiperfit.dk) Center Manager.
   </div>
