@@ -1,0 +1,22 @@
+@TECHREPORT{GlenstrupEtAl:2006:BDNFBasedMatchingBigraphs,
+  AUTHOR = {Arne John Glenstrup and Troels Christoffer Damgaard
+                  and Lars Birkedal and Martin Elsman},
+  TITLE = {{BDNF}-Based Matching of Bigraphs},
+  INSTITUTION = {IT University of Copenhagen},
+  YEAR = 2006,
+  NUMBER = {TR-2006-93},
+  MONTH = OCT,
+  PDF = {http://www1.itu.dk/graphics/ITU-library/Internet/Forskning/Technical_Reports/ITU-TR-2006-93.pdf},
+  PS = {http://www1.itu.dk/graphics/ITU-library/Internet/Forskning/Technical_Reports/ITU-TR-2006-93.ps.gz},
+  ABSTRACT = {We analyze the matching problem for bigraphs. In
+                  particular, we present an axiomatization of the
+                  static theory of \emph{binding bigraphs}, a
+                  non-trivial extension of the axiomatization of pure
+                  bigraphs developed by Milner. Based directly on the
+                  term language resulting from the axiomatization we
+                  present a sound and complete inductive
+                  characterization of matching of binding bigraphs.
+                  Our results pave the way for an actual matching
+                  algorithm, as needed for an implementation of
+                  bigraphical reactive systems.}
+}

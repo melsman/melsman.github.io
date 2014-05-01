@@ -1,0 +1,9 @@
+@Manual
+{ carillon_manual,
+  author      = {Martin Elsman and Jeffrey S. Foster and Alexander Aiken},
+  title       = {Carillon---A System to Find Y2K Problems in C Programs},
+  note        = {User's Manual},
+  institution = {Computer Science Division, University of California, Berkeley},
+  month       = {July},
+  year        = {1999}
+}
