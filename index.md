@@ -4,25 +4,18 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img width="200" alt="Martin Elsman" align="right" src="/images/elsman.jpg">
-Associate Professor
-
-Department of Computer Science
-
-University of Copenhagen, Denmark
-
-Universitetsparken 5, Building B, gr.
-
-2100 Copenhagen Ø
-
-mobile: +45 26122212
-
-email: mael at di.ku.dk
-
-office: 01-0-015
-
+<img width="150" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
+Associate Professor</br>
+Department of Computer Science</br>
+University of Copenhagen, Denmark</br>
+Universitetsparken 5, Building B, gr.</br>
+2100 Copenhagen Ø</br>
+mobile: +45 26122212</br>
+email: mael at di.ku.dk</br>
+office: 01-0-015</br>
 [HIPERFIT](http://www.hiperfit.dk) Center Manager.
-    
+
+
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
