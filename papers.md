@@ -56,44 +56,44 @@ Japan. March 1998. pdf, bibtex.
 
 ### Theses
 
-Martin Elsman. __Program Modules, Separate Compilation, and Intermodule
+* Martin Elsman. __Program Modules, Separate Compilation, and Intermodule
 Optimisation__. PhD thesis. Revised. Department of Computer Science,
 University of Copenhagen. January 1999. pdf, bibtex.
 
-Martin Elsman. __A Portable Standard ML Implementation__. Master's
+* Martin Elsman. __A Portable Standard ML Implementation__. Master's
 Thesis. Technical University of Denmark. August 1994. pdf, bibtex.
 
 ### Technical Reports
 
-Martin Elsman. __A Framework for Cut-Off Incremental Recompilation and
+* Martin Elsman. __A Framework for Cut-Off Incremental Recompilation and
 Inter-Module Optimization__. IT University of Copenhagen, Denmark. IT
 University Technical Report. April 2008. pdf, bibtex.
 
-Martin Elsman. __Fault-Tolerant Voting in a Simply-Typed Lambda
+* Martin Elsman. __Fault-Tolerant Voting in a Simply-Typed Lambda
 Calculus__. IT University of Copenhagen, Denmark. IT University
 Technical Report Series. TR-2007-99. June 2007. pdf, bibtex.
 
-Martin Elsman, Niels Hallenberg, and Carsten Varming. __SMLserver — A
+* Martin Elsman, Niels Hallenberg, and Carsten Varming. __SMLserver — A
 Functional Approach to Web Publishing (Second Edition)__. IT University
 of Copenhagen, Denmark. April, 2007. pdf, bibtex. 
 
-Glenstrup, A. J., Damgaard, T. C., Birkedal, L., and Elsman,
+* Glenstrup, A. J., Damgaard, T. C., Birkedal, L., and Elsman,
 M. __BDNF-based Matching of Bigraphs__. IT University of Copenhagen. IT
 University Technical Report Series. TR-2006-93. 2006. pdf, bibtex.
 
-Martin Elsman. __Type-Specialized Serialization with Sharing__. IT
+* Martin Elsman. __Type-Specialized Serialization with Sharing__. IT
 University of Copenhagen. IT University Technical Report
 Series. TR-2004-43. February, 2004. pdf, bibtex, gzipped code.
 
-Martin Elsman and Ken Friis Larsen. __Typing XHTML Web Applications in
+* Martin Elsman and Ken Friis Larsen. __Typing XHTML Web Applications in
 SMLserver__. IT University of Copenhagen. IT University Technical Report
 Series. TR-2003-34. October, 2003. pdf, bibtex.
 
-Martin Elsman. __Typed Regions for Tag-Free Garbage Collection__. IT
+* Martin Elsman. __Typed Regions for Tag-Free Garbage Collection__. IT
 University of Copenhagen. IT University Technical Report. October
 2002. pdf.
 
-Martin Elsman and Niels Hallenberg. __A Region-Based Abstract Machine
+* Martin Elsman and Niels Hallenberg. __A Region-Based Abstract Machine
 for the ML Kit__. Royal Veterinary and Agricultural University of
 Denmark and IT University of Copenhagen. IT University Technical
 Report Series. TR-2002-18. August, 2002. pdf, bibtex.
