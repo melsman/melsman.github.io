@@ -1,25 +1,27 @@
 ---
+title: Home Page
 layout: page
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<img width="350" alt="Martin Elsman" align="right" src="/images/elsman.jpg">
+Associate Professor
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Department of Computer Science
 
-## Update Author Attributes
+University of Copenhagen, Denmark
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+Universitetsparken 5, Building B, gr.
 
-The theme should reference these variables whenever needed.
+2100 Copenhagen Ø
+
+mobile: +45 26122212
+
+email: mael at di.ku.dk
+
+office: 01-0-015
+
+[HIPERFIT](http://www.hiperfit.dk) Center Manager.
     
 ## Sample Posts
 
