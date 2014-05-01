@@ -28,8 +28,8 @@ Languages (PADL'04)_. Dallas, USA. June 2004. pdf, bibtex.
 
 * Mads Tofte, Lars Birkedal, Martin Elsman, and Niels Hallenberg. __A
 Retrospective on Region-Based Memory Management__. Higher-Order and
-Symbolic Computation (HOSC). 17(3): 245-265, September 2004, Copyright
-© 2004 Kluwer Academic Publishers. pdf, bibtex.
+Symbolic Computation (HOSC). 17(3): 245-265, September 2004, Copyright © 2004
+Kluwer Academic Publishers. pdf, bibtex.
 
 * Martin Elsman. __Garbage Collection Safety for Region-based Memory
 Management__. In _Proceedings of ACM SIGPLAN Workshop on Types in
@@ -90,8 +90,7 @@ SMLserver__. IT University of Copenhagen. IT University Technical Report
 Series. TR-2003-34. October, 2003. pdf, bibtex.
 
 * Martin Elsman. __Typed Regions for Tag-Free Garbage Collection__. IT
-University of Copenhagen. IT University Technical Report. October
-2002. pdf.
+University of Copenhagen. IT University Technical Report. October 2002. pdf.
 
 * Martin Elsman and Niels Hallenberg. __A Region-Based Abstract Machine
 for the ML Kit__. Royal Veterinary and Agricultural University of
@@ -115,8 +114,8 @@ bibtex.
 
 * Mads Tofte, Lars Birkedal, Martin Elsman, Niels Hallenberg, Tommy
 Højfeld Olesen, Peter Sestoft and Peter Bertelsen. __Programming with
-Regions in the ML Kit (for Version 3)__. Technical Report
-98/25. Department of Computer Science, University of
+Regions in the ML Kit (for Version 3)__. Technical Report 98/25.
+Department of Computer Science, University of
 Copenhagen. December 1998. pdf, bibtex.
 
 * Mads Tofte, Lars Birkedal, Martin Elsman, Niels Hallenberg, Tommy
@@ -137,8 +136,7 @@ Zecure.com. July 2006. pdf.
 
 * Martin Elsman. __User Authorization for a Hierarchical Account
 System__. Note on implementing an authorization procedure for a
-hierarchical account system. Work done while at Zecure,com. August
-2006. pdf.
+hierarchical account system. Work done while at Zecure,com. August 2006. pdf.
 
 * Martin Elsman. __Polymorphism and Unification of Cyclic Terms__. Note on
 unification of terms. Computer Science Division, University of
@@ -147,8 +145,7 @@ California, Berkeley. July 1999. pdf.
 * Martin Elsman. __Separate Compilation and Cut-off Incremental
 Recompilation__. Note on implementing separate compilation and cut-off
 incremental recompilation in the TIL Standard ML compiler. Work done
-while at Department of Computer Science, University of Copenhagen. May
-1997. pdf.
+while at Department of Computer Science, University of Copenhagen. May 1997. pdf.
 
 * Martin Elsman. __Optimising Typed Programs__. Department of Computer
 Science, University of Copenhagen (DIKU). January 1998. Note on
