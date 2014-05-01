@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About
+title: Background
 group: navigation
 ---
 {% include JB/setup %}
 
+I'm Associate Professor at the Department of Computer Science at the
+University of Copenhagen and manager for the [HIPERFIT Research
+Center](http://www.hiperfit.dk). Here is my background at a glance:
+ 
 * From April 2008 to May 2012, Chief System Development Consultant and
 Team Leader in [SimCorp](http://www.simcorp.com) - a Danish company
 specializing in software for the financial industry.

@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Martin Elsman's Home Page
-tagline: 
 ---
 {% include JB/setup %}
 
