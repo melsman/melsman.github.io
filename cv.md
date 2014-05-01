@@ -1,7 +1,7 @@
 ---
 title: CV
-group: navigation
 layout: page
+group: navigation
 ---
 {% include JB/setup %}
 
@@ -71,7 +71,7 @@ From February 2006 until August 2006, I was on leave from ITU and
 served as CTO at Zecure, a small company focussing on solutions for
 Internet payment processing and e-commerce fraud detection.
 
-I am a (co-)developer of the following tools:
+#### I am a (co-)developer of the following tools:
 
 * SMLtoJs. A compiler from Standard ML to JavaScript. SMLtoJs allows
 for building AJAX applications using a statically typed language. It
@@ -81,20 +81,20 @@ type safe integration with SMLserver using, for instance, XML-RPC; see
 below. SMLtoJs may compile itself - the result is [a Standard ML
 compiler running in a browser](http://www.smlserver.org/ide) [2011].
 
-* SMLserver. An efficient multi-threaded Web server platform for
-Standard ML programs [2004,2003b,2002,2002b]. The aim of the SMLserver
-project has been to push advanced programming concepts, such as
-higher-order functions and polymorphic type systems, to the context of
-Web applications. The development of SMLserver has been driven by
-practical needs. SMLserver is used as the basic Web platform for a
-series of Web services at the IT University of Copenhagen, including a
-course evaluation system, an online course registration system, an
-alumni database, and the employee and student database and search
-facility (more than 250.000 lines of Standard ML). SMLserver has been
-built as a Web server module (for Apache or AOLserver) and has support
-for efficient pooling of database connections for Oracle (based on
-OCI), Postgres, and MySQL databases. See http://www.smlserver.org for
-more information about SMLserver.
+* [SMLserver](http://www.smlserver.org). An efficient multi-threaded
+Web server platform for Standard ML programs
+[2004,2003b,2002,2002b]. The aim of the SMLserver project has been to
+push advanced programming concepts, such as higher-order functions and
+polymorphic type systems, to the context of Web applications. The
+development of SMLserver has been driven by practical needs. SMLserver
+is used as the basic Web platform for a series of Web services at the
+IT University of Copenhagen, including a course evaluation system, an
+online course registration system, an alumni database, and the
+employee and student database and search facility (more than 250.000
+lines of Standard ML). SMLserver has been built as a Web server module
+(for Apache or AOLserver) and has support for efficient pooling of
+database connections for Oracle (based on OCI), Postgres, and MySQL
+databases.
 
 * [MLKit](http://sourceforge.net/apps/mediawiki/mlkit). An optimizing
 compiler for the programming language Standard ML [2002c]. In the
