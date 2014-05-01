@@ -1,6 +1,6 @@
 ---
-title: Curriculum Vitae
-navigation: cv
+title: CV
+group: navigation
 layout: page
 ---
 {% include JB/setup %}
