@@ -21,7 +21,7 @@ __Mobile phone:__ +45 2612 2212
 
 __Date of Birth:__ 1969-12-22	
 
-<table border="0" width="100%" padding="5%">
+<table border="0" width="100%" padding="5%" spacing="0">
 <tr valign="top">
 <td width="35%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
 </tr>
