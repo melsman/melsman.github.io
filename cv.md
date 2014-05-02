@@ -29,7 +29,7 @@ Research Center Manager.
 <td width="35%"><b>Date of Birth:</b></td><td>1969-12-22</td>
 </tr>
 </table>
-
+<br/>
 __Previous positions:__
 
 <table border="0" width="100%" padding="5%" spacing="0">
