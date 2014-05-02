@@ -21,27 +21,27 @@ __Mobile phone:__ +45 2612 2212
 
 __Date of Birth:__ 1969-12-22	
 
-<table border="0" width="100%" padding="5%">
-<tr valign="top">
-<th width="35%">May 2012 -</th><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
+<table border="0" width="100%" padding="5%" valign="top">
+<tr>
+<td width="35%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
 </tr>
 <tr>
-<th>May 2008 - April 2012</th><td>Chief System Development Consultant, Team Leader, [SimCorp](http://www.simcorp.com).</td>
+<td>May 2008 - April 2012</td><td>Chief System Development Consultant, Team Leader, [SimCorp](http://www.simcorp.com).</td>
 </tr>
 <tr>
-<th>April 2003 - April 2008</th><td>Associate Professor at The IT University of Copenhagen (ITU). From March 2004 to August 2005, Vice Head of the Department of Innovation, ITU. From August 2005 to January 2006, Head of the Department of Innovation, ITU. From August 2007 - April 2008, Head of the SDT study programme.</td>
+<td>April 2003 - April 2008</td><td>Associate Professor at The IT University of Copenhagen (ITU). From March 2004 to August 2005, Vice Head of the Department of Innovation, ITU. From August 2005 to January 2006, Head of the Department of Innovation, ITU. From August 2007 - April 2008, Head of the SDT study programme.</td>
 </tr>
 <tr>
-<th>February 2006 - August 2006</th><td>On leave from ITU: CTO at Zecure.</td>
+<td>February 2006 - August 2006</td><td>On leave from ITU: CTO at Zecure.</td>
 </tr>
 <tr>
-<th>January 2000 - March 2003</th><td>Assistant Professor at The Royal Veterinary and Agricultural University of Denmark (part time at ITU).</td>
+<td>January 2000 - March 2003</td><td>Assistant Professor at The Royal Veterinary and Agricultural University of Denmark (part time at ITU).</td>
 </tr>
 <tr>
-<th>January 1999 - December 1999</th><td>Postdoctoral research position at University of California, Berkeley.</td>
+<td>January 1999 - December 1999</td><td>Postdoctoral research position at University of California, Berkeley.</td>
 </tr>
 <tr>
-<th>May 1995 - December 1998</th><td>Ph.D. student at the Department of Computer Science, University of Copenhagen (DIKU).</td>
+<td>May 1995 - December 1998</td><td>Ph.D. student at the Department of Computer Science, University of Copenhagen (DIKU).</td>
 </tr>
 </table>
 
