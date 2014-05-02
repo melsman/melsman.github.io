@@ -13,23 +13,18 @@ group: navigation
 University of Copenhagen, Denmark. <a href="http://www.hiperfit.dk">HIPERFIT</a>
 Research Center Manager.
 </td></tr>
-
 <tr valign="top">
 <td width="35%"><b>Email:</b></td><td>mael at elsman.com</td>
 </tr>
-
 <tr valign="top">
 <td width="35%"><b>Home page:</b></td><td><a href="http://www.elsman.com">http://www.elsman.com</a></td>
 </tr>
-
 <tr valign="top">
 <td width="35%"><b>Private address:</b></td><td>Peter Rørdams Vej 24, 2800 Lyngby, Denmark</td>
 </tr>
-
 <tr valign="top">
 <td width="35%"><b>Mobile phone:</b></td><td>+45 2612 2212</td>
 </tr>
-
 <tr valign="top">
 <td width="35%"><b>Date of Birth:</b></td><td>1969-12-22</td>
 </tr>
