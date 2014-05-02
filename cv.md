@@ -21,9 +21,9 @@ Mobile phone:	+45 2612 2212
 
 Date of Birth:	1969-12-22	
 
-<table border="0" width="100%">
+<table border="0" width="100%" spacing="2%">
 <tr>
-<td>May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
+<td width="20%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
 </tr>
 <tr>
 <td>May 2008 - April 2012</td><td>Chief System Development Consultant, Team Leader, SimCorp.</td>
@@ -73,7 +73,7 @@ From February 2006 until August 2006, I was on leave from ITU and
 served as CTO at Zecure, a small company focussing on solutions for
 Internet payment processing and e-commerce fraud detection.
 
-#### I am a (co-)developer of the following tools:
+I am a (co-)developer of the following tools:
 
 * [SMLtoJs](http://www.smlserver.org/smltojs). A compiler from
 Standard ML to JavaScript. SMLtoJs allows for building AJAX
