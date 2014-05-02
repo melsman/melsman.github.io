@@ -7,19 +7,35 @@ group: navigation
 
 #### Background Information
 
-__Position:__ Associate Professor, Department of Computer Science,
-University of Copenhagen, Denmark. [HIPERFIT](http://www.hiperfit.dk)
+<table border="0" width="100%" padding="5%" spacing="0">
+<tr valign="top">
+<td width="35%"><b>Position:</b></td><td>Associate Professor, Department of Computer Science,
+University of Copenhagen, Denmark. <a href="http://www.hiperfit.dk">HIPERFIT</a>
 Research Center Manager.
+</td></tr>
 
-__Email:__ mael at elsman.com
+<tr valign="top">
+<td width="35%"><b>Email:</b></td><td>mael at elsman.com</td>
+</tr>
 
-__Home page:__ [www.elsman.com](http://www.elsman.com)
+<tr valign="top">
+<td width="35%"><b>Home page:</b></td><td><a href="http://www.elsman.com">http://www.elsman.com</a></td>
+</tr>
 
-__Private address:__ Peter Rørdams Vej 24, 2800 Lyngby, Denmark
+<tr valign="top">
+<td width="35%"><b>Private address:</b></td><td>Peter Rørdams Vej 24, 2800 Lyngby, Denmark</td>
+</tr>
 
-__Mobile phone:__ +45 2612 2212
+<tr valign="top">
+<td width="35%"><b>Mobile phone:</b></td><td>+45 2612 2212</td>
+</tr>
 
-__Date of Birth:__ 1969-12-22	
+<tr valign="top">
+<td width="35%"><b>Date of Birth:</b></td><td>1969-12-22</td>
+</tr>
+</table>
+
+__Previous positions:__
 
 <table border="0" width="100%" padding="5%" spacing="0">
 <tr valign="top">
