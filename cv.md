@@ -108,14 +108,15 @@ higher degree of control over memory resources
 written in C and assembler, the MLKit compiler itself is written in
 Standard ML.
 
-* Carillon. A tool to find Y2K problems in C programs [1999a].  I have
-also participated in a research project on bigraphical programming
-languages, which aims at modeling and controling connectivity and
-locality for mobile and distributed systems [2006]. Moreover, I have
-recently done work in the area of code generation for transient fault
-tolerance [2007].
+* Carillon. A tool to find Y2K problems in C programs [1999a]. 
 
-To ease administration of teaching, I have also developed an advanced
+I have also participated in a research project on bigraphical
+programming languages, which aims at modeling and controling
+connectivity and locality for mobile and distributed systems
+[2006]. Moreover, I have done work in the area of code generation for
+transient fault tolerance [2007].
+
+To ease administration of teaching, I have developed an advanced
 generic Web-based system, called
 [CourseGrader](https://sourceforge.net/projects/coursegrader/), for
 managing course home work assignments and grades. The system is based
