@@ -21,9 +21,9 @@ Mobile phone:	+45 2612 2212
 
 Date of Birth:	1969-12-22	
 
-<table border="0" width="100%" spacing="2%">
+<table border="0" width="100%" padding="5%">
 <tr>
-<td width="20%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
+<td width="35%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
 </tr>
 <tr>
 <td>May 2008 - April 2012</td><td>Chief System Development Consultant, Team Leader, [SimCorp](http://www.simcorp.com).</td>
