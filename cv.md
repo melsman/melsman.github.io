@@ -13,7 +13,7 @@ Research Center Manager.
 
 Email:	mael at elsman.com
 
-Home page:	www.elsman.com
+Home page:	[www.elsman.com](http://www.elsman.com)
 
 Address:	Peter Rørdams Vej 24, 2800 Lyngby, Denmark
 
@@ -26,7 +26,7 @@ Date of Birth:	1969-12-22
 <td width="20%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
 </tr>
 <tr>
-<td>May 2008 - April 2012</td><td>Chief System Development Consultant, Team Leader, SimCorp.</td>
+<td>May 2008 - April 2012</td><td>Chief System Development Consultant, Team Leader, [SimCorp](http://www.simcorp.com).</td>
 </tr>
 <tr>
 <td>April 2003 - April 2008</td><td>Associate Professor at The IT University of Copenhagen (ITU). From March 2004 to August 2005, Vice Head of the Department of Innovation, ITU. From August 2005 to January 2006, Head of the Department of Innovation, ITU. From August 2007 - April 2008, Head of the SDT study programme.</td>
