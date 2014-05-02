@@ -5,20 +5,21 @@ layout: front
 {% include JB/setup %}
 
 <div class="row-fluid">
-  <div class="span6">
+  <div class="span4">
      <img width="150" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
   </div>
   <div class="span6">
      Associate Professor<br />
      Department of Computer Science<br />
-     University of Copenhagen, Denmark<br />
-     Universitetsparken 5, Building B, gr.<br />
+     University of Copenhagen<br />
+     Universitetsparken 5, Building B<br />
      2100 Copenhagen Ø<br />
+     Denmark<br /><br />
      mobile: +45 26122212<br />
      email: mael at di.ku.dk<br />
-     office: 01-0-015<br />
+     office: 01-0-015<br /><br />
 
-     [HIPERFIT](http://www.hiperfit.dk) Center Manager.
+     <a href="http://www.hiperfit.dk">HIPERFIT</a> Center Manager.
   </div>
 </div>
 
