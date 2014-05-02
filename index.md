@@ -5,10 +5,10 @@ layout: front
 {% include JB/setup %}
 
 <div class="row-fluid">
-  <div class="span4">
-     <img width="150" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
+  <div class="span5">
+     <img width="170" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
   </div>
-  <div class="span6">
+  <div class="span7">
      Associate Professor<br />
      Department of Computer Science<br />
      University of Copenhagen<br />
