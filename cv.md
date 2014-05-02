@@ -7,7 +7,9 @@ group: navigation
 
 #### Background Information
 
-Position: Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. [HIPERFIT](http://www.hiperfit.dk) Research Center Manager.
+Position: Associate Professor, Department of Computer Science,
+University of Copenhagen, Denmark. [HIPERFIT](http://www.hiperfit.dk)
+Research Center Manager.
 
 Email:	mael at elsman.com
 
@@ -73,11 +75,12 @@ Internet payment processing and e-commerce fraud detection.
 
 #### I am a (co-)developer of the following tools:
 
-* SMLtoJs. A compiler from Standard ML to JavaScript. SMLtoJs allows
-for building AJAX applications using a statically typed language. It
-compiles all of Standard ML and has support for calling JavaScript
-functions and for executing JavaScript statements. It also allows for
-type safe integration with SMLserver using, for instance, XML-RPC; see
+* [SMLtoJs](http://www.smlserver.org/smltojs). A compiler from
+Standard ML to JavaScript. SMLtoJs allows for building AJAX
+applications using a statically typed language. It compiles all of
+Standard ML and has support for calling JavaScript functions and for
+executing JavaScript statements. It also allows for type safe
+integration with SMLserver using, for instance, XML-RPC; see
 below. SMLtoJs may compile itself - the result is [a Standard ML
 compiler running in a browser](http://www.smlserver.org/ide) [2011].
 
@@ -139,7 +142,7 @@ was Associate Professor Mads Tofte. Members of the thesis committee
 was Xavier Leroy, INRIA Rocquencourt; Greg Morrisett, Cornell
 University; and Hanne Riis Nielson, Aahus University (Chair).
 
-My Ph.D. thesis [1999b] is titled ``Program Modules, Separate
+My Ph.D. thesis [1999b] is titled ''Program Modules, Separate
 Compilation, and Intermodule Optimisation.'' The thesis is about a
 series of techniques that allow for compiling program modules in such
 a way that little overhead is incurred by dividing a program into
@@ -184,11 +187,11 @@ physics, computer science, mathematics, and philosophy. In the second
 part of the Master's program, I specialised in computer science. I
 finished the Master's program in August 1994 with a Master's project,
 on which Associate Professor Peter Sestoft was my advisor. The title
-of my Master's thesis [1994] is ``A Portable Implementation of
-Standard ML.'' This thesis is about the implementation of the static
-semantics (parsing and elaboration) of Core Standard ML (Standard ML
-without Modules) and about implementation of the dynamic semantics
-(runtime system and compilation into byte code) of Core Standard ML.
+of my Master's thesis [1994] is ''A Portable Implementation of Standard
+ML.'' This thesis is about the implementation of the static semantics
+(parsing and elaboration) of Core Standard ML (Standard ML without
+Modules) and about implementation of the dynamic semantics (runtime
+system and compilation into byte code) of Core Standard ML.
 
 In the last year of my M.Sc. program, I worked as a part-time
 programmer in Siemens Nixdorf Information Systems A/S, where I worked
@@ -200,26 +203,42 @@ applications.
 I have taught the following courses:
 
 * Introduction to Scripting, Databases, and System Architecture. The IT University of Copenhagen. One fourth of course. Course Responsible. Spring 2008.
+
 * Introduction to Scripting, Databases, and System Architecture. The IT University of Copenhagen. One third of course. Course Responsible. Fall 2007.
+
 * Introduction to Scripting, Databases, and System Architecture. The IT University of Copenhagen. Half course. Course Responsible. Spring 2007.
+
 * Advanced Topics in Language-based Security. The IT University of Copenhagen. Full Ph.D. course. Course Responsible. Spring 2005.
+
 * Web Publishing with Databases. The IT University of Copenhagen. Full course. Spring 2005.
+
 * Web Publishing with Databases. The IT University of Copenhagen. One half of the course. Fall 2004.
+
 * Web Publishing with Databases. The IT University of Copenhagen. One half of the course. Spring 2004.
+
 * Advanced Language Implementation and Language Based Security. The IT University of Copenhagen. One third of the course. Fall 2003.
+
 * Web Publishing with Databases. The IT University of Copenhagen. Fall 2003.
+
 * Data Processing. Seven lectures on Web programming with PHP and MySQL. Royal Veterinary and Agricultural University of Denmark. Spring 2003.
+
 * Data Processing. Seven lectures on Web programming with PHP and MySQL. Royal Veterinary and Agricultural University of Denmark. Spring 2002.
+
 * Web Publishing with Databases. The IT University of Copenhagen. Spring 2002.
+
 * Web Publishing with Databases. Royal Veterinary and Agricultural University of Denmark. Summer 2001.
+
 * Web Publishing with Databases. The IT University of Copenhagen. Fall 2000.
+
 * Web Publishing with Databases. The IT University of Copenhagen. Spring 2000.
+
 * Type-based Optimisation Techniques. Department of Computer Science, University of Copenhagen. Spring 1998.
+
 * Aspects of Modules languages. Department of Computer Science, University of Copenhagen. Fall 1996. 
 
 I have supervised eight M.Sc. thesis students and about a dozen
 smaller projects at the IT University of Copenhagen. The projects have
-covered developing, documenting, and testing Web-based and traditional
+covered development, documentation, and testing of Web-based and traditional
 GUI-style, database-enabled, systems in Java, C#, PHP, TCL, and
 Standard ML. One of the Master's thesis projects has resulted in a
 startup company Neducate, specializing on community Web sites for
@@ -227,11 +246,11 @@ individual public schools in Denmark.
 
 #### Organisational Work and Training
 
-During my time at SimCorp, I have participated in a series of courses
-developed by FTP (Financial Training Partners) covering a number of
-topics including theoretical pricing of financial derivatives. Since
-May 2009, I have worked as Team Leader in the Instrument Modeling
-Language team at SimCorp.
+During my time at [SimCorp](http://www.simcorp.com), I participated in
+a series of courses developed by FTP (Financial Training Partners)
+covering a number of topics including theoretical pricing of financial
+derivatives. From May 2009 to 2012, I worked as Team Leader in the
+Instrument Modeling Language team at SimCorp.
 
 August 2007 to May 2008, I served as the head of the international
 technical ITU program Software Development and Technology. From
@@ -256,46 +275,93 @@ January 2006.
 
 #### Publications
 
-[2014] Martin Elsman and Anders Schack-Nielsen. Typelets - A Rule-Based Evaluation Model for Dynamic, Statically Typed User Interfaces. In International Symposium on Practical Aspects of Declarative Languages (PADL'14). San Diego, USA. January, 2014.
+* [2014] Martin Elsman and Anders Schack-Nielsen. Typelets - A
+Rule-Based Evaluation Model for Dynamic, Statically Typed User
+Interfaces. In International Symposium on Practical Aspects of
+Declarative Languages (PADL'14). San Diego, USA. January, 2014.
 
-[2011] Martin Elsman. SMLtoJs: Hosting a Standard ML Compiler in a Web Browser. In ACM SIGPLAN International Workshop on Programming Language And Systems Technologies for Internet Clients (PLASTIC'2011). Portland, Oregon, USA. October, 2011.
+* [2011] Martin Elsman. SMLtoJs: Hosting a Standard ML Compiler in a
+Web Browser. In ACM SIGPLAN International Workshop on Programming
+Language And Systems Technologies for Internet Clients
+(PLASTIC'2011). Portland, Oregon, USA. October, 2011.
 
-[2007] Martin Elsman. Fault-Tolerant Voting in a Simply-Typed Lambda Calculus. IT University Technical Report Series. TR-2007-99. June 2007.
+* [2007] Martin Elsman. Fault-Tolerant Voting in a Simply-Typed Lambda
+Calculus. IT University Technical Report Series. TR-2007-99. June 2007.
 
-[2006] Arne J. Glenstrup, Troels C. Damgaard, Lars Birkedal, and Martin Elsman. BDNF-based Matching of Bigraphs. IT University Technical Report Series. TR-2006-93. October 2006.
+* [2006] Arne J. Glenstrup, Troels C. Damgaard, Lars Birkedal, and
+Martin Elsman. BDNF-based Matching of Bigraphs. IT University
+Technical Report Series. TR-2006-93. October 2006.
 
-[2005] Martin Elsman. Type-Specialized Serialization with Sharing. In Sixth Symposium on Trends in Functional Programming (TFP'05). Tallinn, Estonia. September 2005.
+* [2005] Martin Elsman. Type-Specialized Serialization with
+Sharing. In Sixth Symposium on Trends in Functional Programming
+(TFP'05). Tallinn, Estonia. September 2005.
 
-[2004] Martin Elsman and Ken Friis Larsen. Typing XHTML Web Applications in ML. In International Symposium on Practical Aspects of Declarative Languages (PADL'04). Dallas, USA. June 2004.
+* [2004] Martin Elsman and Ken Friis Larsen. Typing XHTML Web
+Applications in ML. In International Symposium on Practical Aspects of
+Declarative Languages (PADL'04). Dallas, USA. June 2004.
 
-[2004a] Martin Elsman. Type-Specialized Serialization with Sharing. IT University Technical Report Series. TR-2004-43. February 2004.
+* [2004a] Martin Elsman. Type-Specialized Serialization with
+Sharing. IT University Technical Report Series. TR-2004-43. February 2004.
 
-[2004b] Mads Tofte, Lars Birkedal, Martin Elsman, and Niels Hallenberg. A Retrospective on Region-Based Memory Management. In Higher-Order and Symbolic Computation (HOSC). 17(3): 245-265. Copyright © 2004 Kluwer Academic Publishers. September 2004.
+* [2004b] Mads Tofte, Lars Birkedal, Martin Elsman, and Niels
+Hallenberg. A Retrospective on Region-Based Memory Management. In
+Higher-Order and Symbolic Computation (HOSC). 17(3): 245-265. 
+Copyright © 2004 Kluwer Academic Publishers. September 2004.
 
-[2003] Martin Elsman and Ken Friis Larsen. Typing XHTML Web Applications in SMLserver. IT University Technical Report Series. TR-2003-34. October 2003.
+* [2003] Martin Elsman and Ken Friis Larsen. Typing XHTML Web
+Applications in SMLserver. IT University Technical Report
+Series. TR-2003-34. October 2003.
 
-[2003a] Martin Elsman. Garbage Collection Safety for Region-based Memory Management. In ACM SIGPLAN Workshop on Types in Language Design and Implementation (TLDI'03). New Orleans, Louisiana, USA. January 2003.
+* [2003a] Martin Elsman. Garbage Collection Safety for Region-based
+Memory Management. In ACM SIGPLAN Workshop on Types in Language Design
+and Implementation (TLDI'03). New Orleans, Louisiana, USA. January 2003.
 
-[2003b] Martin Elsman and Niels Hallenberg. Web Programming with SMLserver. In Fifth International Symposium on Practical Aspects of Declarative Languages (PADL'03). New Orleans, Louisiana, USA. January 2003.
+* [2003b] Martin Elsman and Niels Hallenberg. Web Programming with
+SMLserver. In Fifth International Symposium on Practical Aspects of
+Declarative Languages (PADL'03). New Orleans, Louisiana, USA. January 2003.
 
-[2002] Martin Elsman and Niels Hallenberg. A Region-Based Abstract Machine for the MLKit. IT University Technical Report Series. TR-2002-18. August 2002.
+* [2002] Martin Elsman and Niels Hallenberg. A Region-Based Abstract
+Machine for the MLKit. IT University Technical Report
+Series. TR-2002-18. August 2002.
 
-[2002a] Niels Hallenberg, Martin Elsman and Mads Tofte. Combining Region Inference and Garbage Collection. In ACM International Conference on Programming Language Design and Implementation (PLDI'02). Berlin, Germany. June 2002.
+* [2002a] Niels Hallenberg, Martin Elsman and Mads Tofte. Combining
+Region Inference and Garbage Collection. In ACM International
+Conference on Programming Language Design and Implementation
+(PLDI'02). Berlin, Germany. June 2002.
 
-[2002b] Martin Elsman and Niels Hallenberg. SMLserver - A Functional Approach to Web Publishing. Technical Report. Royal Veterinary and Agricultural University of Denmark and IT University of Copenhagen. February 2002.
+* [2002b] Martin Elsman and Niels Hallenberg. SMLserver - A Functional
+Approach to Web Publishing. Technical Report. Royal Veterinary and
+Agricultural University of Denmark and IT University of
+Copenhagen. February 2002.
 
-[1999] Martin Elsman. Static Interpretation of Modules. In Fourth International Conference on Functional Programming (ICFP'99). Paris, France. September 1999.
+* [1999] Martin Elsman. Static Interpretation of Modules. In Fourth
+International Conference on Functional Programming (ICFP'99). Paris,
+France. September 1999.
 
-[1999a] Martin Elsman, Jeffrey S. Foster, and Alexander Aiken. Carillon - A System to Find Y2K Problems in C Programs. User's Manual. Computer Science Division, University of California, Berkeley. July 1999.
+* [1999a] Martin Elsman, Jeffrey S. Foster, and Alexander
+Aiken. Carillon - A System to Find Y2K Problems in C Programs. User's
+Manual. Computer Science Division, University of California,
+Berkeley. July 1999.
 
-[1999b] Martin Elsman. Program Modules, Separate Compilation, and Intermodule Optimisation. Ph.D. thesis, revised. Department of Computer Science, University of Copenhagen. January 1999.
+* [1999b] Martin Elsman. Program Modules, Separate Compilation, and
+Intermodule Optimisation. Ph.D. thesis, revised. Department of
+Computer Science, University of Copenhagen. January 1999.
 
-[2002c] Mads Tofte, Lars Birkedal, Martin Elsman, Niels Hallenberg, Tommy Højfeld Olesen, Peter Sestoft, and Peter Bertelsen. Programming with Regions in the MLKit. DIKU Technical Report. Department of Computer Science, University of Copenhagen. Revised for Version 4, 2002. April 1997.
+* [2002c] Mads Tofte, Lars Birkedal, Martin Elsman, Niels Hallenberg,
+Tommy Højfeld Olesen, Peter Sestoft, and Peter Bertelsen. Programming
+with Regions in the MLKit. DIKU Technical Report. Department of
+Computer Science, University of Copenhagen. Revised for Version 4, 2002. April 1997.
 
-[1998] Martin Elsman. Polymorphic Equality - No Tags Required. In Second International Workshop on Types in Compilation (TIL'98). Kyoto, Japan. March 1998.
+* [1998] Martin Elsman. Polymorphic Equality - No Tags Required. In
+Second International Workshop on Types in Compilation (TIL'98). Kyoto,
+Japan. March 1998.
 
-[1995] Martin Elsman and Niels Hallenberg. An Optimising Back-End for the MLKit Using a Stack of Regions. Student Project. Department of Computer Science, University of Copenhagen. July 1995.
+* [1995] Martin Elsman and Niels Hallenberg. An Optimising Back-End
+for the MLKit Using a Stack of Regions. Student Project. Department of
+Computer Science, University of Copenhagen. July 1995.
 
-[1994] Martin Elsman. A Portable Standard ML Implementation. Master's thesis. Department of Computer Science, Technical University of Denmark. August 1994.
+* [1994] Martin Elsman. A Portable Standard ML
+Implementation. Master's thesis. Department of Computer Science,
+Technical University of Denmark. August 1994.
 
 All publications (except Journal papers) are available [online](/papers.html).
