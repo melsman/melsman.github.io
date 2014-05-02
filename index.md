@@ -6,7 +6,7 @@ layout: front
 
 <div class="row-fluid">
   <div class="span5">
-     <img width="170" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
+     <img width="160" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
   </div>
   <div class="span7">
      Associate Professor<br />
