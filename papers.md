@@ -6,6 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman and Martin Dybdal. __Compiling a Subset of APL Into a
+Typed Intermediate Language__. In _ACM SIGPLAN International Workshop
+on Libraries, Languages and Compilers for Array Programming
+(ARRAY'14)_. Edinburgh, UK. June, 2014. [pdf](/pdf/array14_final.pdf), [bibtex](/pdf/array14_final.bibtex.txt).
+
 * Martin Elsman and Anders Schack-Nielsen. __Typelets - A Rule-Based
 Evaluation Model for Dynamic, Statically Typed User Interfaces__. In
 _International Symposium on Practical Aspects of Declarative Languages
