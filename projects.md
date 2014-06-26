@@ -5,7 +5,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<a href="http://www.smlserver.org/ide"><img width="100" alt="SML IDE" align="right" src="/images/smlide_small.jpg"></a>
+<a href="http://www.smlserver.org/ide"><img width="100" alt="SML IDE" align="right" src="/images/smlide_small.png"></a>
 
 * [SMLtoJs IDE](http://www.smlserver.org/ide) is a Standard ML
 compiler running in a browser. The IDE is based on
