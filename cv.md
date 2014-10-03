@@ -287,6 +287,21 @@ January 2006.
 
 #### Publications
 
+* [2014c] Patrick Bahr, Jost Berthold, and Martin Elsman. Towards
+Certified Management of Financial Contracts. In Proceedings of the
+26th Nordic Workshop on Programming Theory (NWPT'14). October, 2014.
+
+* [2014b] Troels Henriksen, Martin Elsman, and Cosmin E. Oancea. Size
+Slicing - A Hybrid Approach to Size Inference in Futhark. In
+Proceedings of the 3rd ACM SIGPLAN workshop on Functional
+High-Performance Computing (FHPC'14). Guthenburg, SE. September,
+2014.
+
+* [2014a] Martin Elsman and Martin Dybdal. Compiling a Subset of APL
+Into a Typed Intermediate Language. In ACM SIGPLAN International
+Workshop on Libraries, Languages and Compilers for Array Programming
+(ARRAY'14). Edinburgh, UK. June, 2014.
+
 * [2014] Martin Elsman and Anders Schack-Nielsen. Typelets - A
 Rule-Based Evaluation Model for Dynamic, Statically Typed User
 Interfaces. In International Symposium on Practical Aspects of
