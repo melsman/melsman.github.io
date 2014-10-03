@@ -6,7 +6,7 @@ layout: front
 
 <div class="row-fluid">
   <div class="span5">
-     <img width="160" alt="Martin Elsman" align="left" src="/images/elsman.jpg">
+     <img alt="Martin Elsman" align="left" src="/images/elsman_small.jpg">
   </div>
   <div class="span7">
      Associate Professor<br />
@@ -19,6 +19,6 @@ layout: front
      email: mael at di.ku.dk<br />
      office: 01-0-015<br /><br />
 
-     <a href="http://www.hiperfit.dk">HIPERFIT</a> Center Manager.
+     <a href="http://www.hiperfit.dk">HIPERFIT</a> Research Center Manager.
   </div>
 </div>
