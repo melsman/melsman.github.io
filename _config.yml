@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : melsman
+      short_name : elsman
     livefyre :
       site_id : 123
     intensedebate :
