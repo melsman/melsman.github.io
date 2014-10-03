@@ -68,7 +68,7 @@ can delete your `$(HOME)/smackage` directory:
 
     $ rm -rf $(HOME)/smackage
 
-## Make your favorite SML compiler "Smackage aware"
+## Make your SML compiler "Smackage aware"
 
 [MLton](http://mlton.org) and [MLKit](http://www.elsman.com/mlkit/)
 use [MLB-files](http://www.elsman.com/mlkit/mlbasisfiles.html) for
@@ -81,7 +81,7 @@ the appropriate `mlb-path-map` file:
     SMACKAGE [HOME]/.smackage/lib
 
 Here you need to replace `[HOME]` with your particular path to your
-home directory, as found in `$(HOME)`. Different compilers reads the
+home directory, as found in `$(HOME)`. Different compilers read the
 `mlb-path-map` file from different locations. For instance, MLKit will
 try to see if there is a file `$(HOME)/.mlkit/mlb-path-file`. If not,
 it will try to find one in `/usr/local/etc/mlkit`. MLton will try
