@@ -73,7 +73,8 @@ hour meeting for discussing the possibilities.
 Here is a list of some example projects I have supervised or
 co-supervised:
 
-- Niels G. W. Serup. Kernel Fission for GPGPUs. BSc thesis. DIKU. June 2014. Co-supervisor.
+- Niels G. W. Serup. Kernel Fission for GPGPUs. DIKU BSc thesis
+  project. June 2014. Co-supervisor.
 
 - Philip Munksgaard. SmlCL - An ML Library for Utilizing Parallel
   Architectures using OpenCL. DIKU BSc thesis project. June 2013. Supervisor.
