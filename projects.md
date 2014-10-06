@@ -7,7 +7,7 @@ group: navigation
 
 <a href="http://www.smlserver.org/ide"><img width="100" alt="SML IDE" align="right" src="/images/smlide_small.png"></a>
 
-* [SMLtoJs IDE](http://www.smlserver.org/ide) is a Standard ML
+* [SMLtoJs IDE](http://www.smlserver.org/ide) is a [Standard ML](http://sml-family.org/)
 compiler running in a browser. The IDE is based on
 [SMLtoJs](http://www.smlserver.org/smltojs), a Standard ML to
 JavaScript compiler. The IDE also uses the
@@ -41,7 +41,7 @@ relational database management systems (RDBMSs), such as [Oracle](http://www.ora
 <a href="http://melsman.github.io/mlkit"><img width="100" alt="MLKit" align="right" src="/images/mlkit_logo.png"></a>
 
 * [MLKit](http://melsman.github.io/mlkit) is a fullblown
-compiler for Standard ML.
+compiler for [Standard ML](http://sml-family.org/).
 
 
 
