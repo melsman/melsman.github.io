@@ -73,12 +73,10 @@ hour meeting for discussing the possibilities.
 Here is a list of some example projects I have supervised or
 co-supervised:
 
-- Niels G. W. Serup. Kernel Fission for GPGPUs. BSc thesis. DIKU. June
-  2014. Co-supervisor.
+- Niels G. W. Serup. Kernel Fission for GPGPUs. BSc thesis. DIKU. June 2014. Co-supervisor.
 
 - Philip Munksgaard. SmlCL - An ML Library for Utilizing Parallel
-  Architectures using OpenCL. DIKU BSc thesis project. June
-  2013. Supervisor.
+  Architectures using OpenCL. DIKU BSc thesis project. June 2013. Supervisor.
 
 - Rasmus Borgsmidt. Functional Array Programming Compiled to a Virtual
   Machine. DIKU BSc thesis project. June 2013. Co-supervisor.
@@ -88,8 +86,7 @@ co-supervised:
 
 - Esben Bistrup Halvorsen. Calculating Key Ratios for Financial
   Products using Automatic Differentiation and Monte Carlo
-  Simulation. DIKU MSc student project. December
-  2012. Supervisor. [PDF](/pdf/ad_esben.pdf).
+  Simulation. DIKU MSc student project. December 2012. Supervisor. [PDF](/pdf/ad_esben.pdf).
 
 - Kenneth Sjøholm. AJAX Programming in Standard ML. ITU MSc thesis
   project. May 2008. Supervisor.
