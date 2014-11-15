@@ -287,6 +287,11 @@ January 2006.
 
 #### Publications
 
+* [2015] Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
+Andreetta. A Financial Benchmark for GPGPU Compilation. In 18th
+International Workshop on Compilers for Parallel Computing
+(CPC'15). January 2015.
+
 * [2014c] Patrick Bahr, Jost Berthold, and Martin Elsman. Towards
 Certified Management of Financial Contracts. In Proceedings of the
 26th Nordic Workshop on Programming Theory (NWPT'14). October, 2014.
@@ -391,4 +396,4 @@ Computer Science, University of Copenhagen. July 1995.
 Implementation. Master's thesis. Department of Computer Science,
 Technical University of Denmark. August 1994.
 
-All publications (except Journal papers) are available [online](/papers.html).
+Most publications (except Journal papers) are available [online](/papers.html).

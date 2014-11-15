@@ -6,6 +6,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
+Andreetta. __A Financial Benchmark for GPGPU Compilation__. In _18th
+International Workshop on Compilers for Parallel Computing (CPC'15)_. January 2015. To appear.
+
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. Halmstad, SE. October, 2014. [PDF](/pdf/NWPT14Contracts.pdf).
 
 * Troels Henriksen, Martin Elsman, and Cosmin E. Oancea. __Size Slicing - A Hybrid Approach to Size Inference in Futhark__. In _Proceedings of the 3rd ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'14)_. Guthenburg, SE. September, 2014. [PDF](/pdf/fhpc14.pdf).
