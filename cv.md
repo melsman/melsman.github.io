@@ -258,13 +258,15 @@ I have taught the following courses:
 
 * Aspects of Modules languages. Department of Computer Science, University of Copenhagen. Fall 1996. 
 
-I have supervised eight M.Sc. thesis students and about a dozen
-smaller projects at the IT University of Copenhagen. The projects have
-covered development, documentation, and testing of Web-based and traditional
-GUI-style, database-enabled, systems in Java, C#, PHP, TCL, and
-Standard ML. One of the Master's thesis projects has resulted in a
-startup company Neducate, specializing on community Web sites for
-individual public schools in Denmark.
+I have supervised a high number of M.Sc. thesis students, B.Sc. thesis
+students, and smaller projects at DIKU and at ITU. The projects have
+covered compiler technology, type systems, and the development,
+documentation, and testing of Web-based and traditional GUI-style,
+database-enabled, systems in Java, C#, PHP, TCL, Haskell, and Standard
+ML. One of the Master's thesis projects has resulted in a startup
+company Neducate, specializing on community Web sites for individual
+public schools in Denmark. I am currently supervising two
+Ph.D. students within areas coverered by HIPERFIT.
 
 #### Organisational Work and Training
 
