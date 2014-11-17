@@ -84,7 +84,17 @@ From February 2006 until August 2006, I was on leave from ITU and
 served as CTO at Zecure, a small company focussing on solutions for
 Internet payment processing and e-commerce fraud detection.
 
+During 2013, I was involved in establishing a european research
+program on [Global Systems Science](http://hiperfit.dk/news/2013/06/24/global-systems-science/).
+
 I am a (co-)developer of the following tools:
+
+* [The TAIL APL compiler](http://www.github.com/melsman/apltail). A
+compiler for the APL programming language, which targets a typed
+intermediate language [2014a]. The ultimate goal of this project is to
+provide a way for APL programmers to target data-parallel
+architectures, using a subset of well-known APL functions and
+operators, many of which, by design, are naturally data-parallel.
 
 * [SMLtoJs](http://www.smlserver.org/smltojs). A compiler from
 Standard ML to JavaScript. SMLtoJs allows for building AJAX
@@ -264,7 +274,7 @@ covering a number of topics including theoretical pricing of financial
 derivatives. From May 2009 to 2012, I worked as Team Leader in the
 Instrument Modeling Language team at SimCorp.
 
-August 2007 to May 2008, I served as the head of the international
+From August 2007 to May 2008, I served as the head of the international
 technical ITU program Software Development and Technology. From
 November 2003 to January 2005 I served as Head of the ITU Internet and
 Software Technology Study Program. During 2004, I have attended a
