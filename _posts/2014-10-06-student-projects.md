@@ -73,6 +73,12 @@ hour meeting for discussing the possibilities.
 Here is a list of some example projects I have supervised or
 co-supervised:
 
+- Michael Budde. Compiling APL to Accelerate Through a Typed
+  IL. Novemver 2014. Co-supervisor.
+
+- Casper Holmgreen. A Parallel Haskell Library for Computing
+  Value-at-Risk. Novemver 2014. Co-supervisor.
+
 - Niels G. W. Serup. Kernel Fission for GPGPUs. DIKU BSc thesis
   project. June 2014. Co-supervisor.
 
