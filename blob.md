@@ -16,4 +16,4 @@ research in compilation techniques for functional languages, in
 particular with focus on module systems, Web technology, program
 analyses for memory management, and program optimisation. Martin is
 the co-developer of a number of systems and tools. For more
-information, see [elsman.com](http://elsman.com).
+information, see [www.elsman.com](http://www.elsman.com).

@@ -17,8 +17,8 @@ layout: front
      Denmark<br /><br />
      mobile: +45 26122212<br />
      email: mael at di.ku.dk<br />
-     office: 01-0-015<br /><br />
-     <a href="/blob.html">bio blob</a><br />
+     office: 01-0-015<br />
+     <a href="/blob.html">bio blob</a><br /><br />
      <a href="http://www.hiperfit.dk">HIPERFIT</a> Research Center Manager.
   </div>
 </div>
