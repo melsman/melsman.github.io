@@ -6,11 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
-Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
-Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
-Extended version of CPC'15 paper. January 2015. [pdf](/pdf/finbenchmarkTR2015.pdf).
-
 * Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
 Andreetta. __A Financial Benchmark for GPGPU Compilation__. In _18th
 International Workshop on Compilers for Parallel Computing (CPC'15)_. January 2015.
@@ -80,6 +75,11 @@ University of Copenhagen. January 1999. [pdf](/pdf/phd.pdf), [bibtex](/pdf/phd.b
 Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [bibtex](/pdf/masters.bibtex.txt).
 
 ### Technical Reports
+
+* Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
+Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
+Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
+Extended version of CPC'15 paper. January 2015. [pdf](/pdf/finbenchmarkTR2015.pdf).
 
 * Martin Elsman. __A Framework for Cut-Off Incremental Recompilation and
 Inter-Module Optimization__. IT University of Copenhagen, Denmark. IT
