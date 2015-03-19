@@ -299,6 +299,11 @@ January 2006.
 
 #### Publications
 
+* [2015a] Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
+Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. A Financial
+Benchmark for GPGPU Compilation. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
+Extended version of CPC'15 paper. January 2015.
+
 * [2015] Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
 Andreetta. A Financial Benchmark for GPGPU Compilation. In 18th
 International Workshop on Compilers for Parallel Computing
