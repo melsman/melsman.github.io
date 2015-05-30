@@ -299,6 +299,17 @@ January 2006.
 
 #### Publications
 
+* [2015c] Patrick Bahr, Jost Berthold, and Martin Elsman. Certified
+Symbolic Management of Financial Multi-Party Contracts. In ACM
+International Conference on Functional Programming
+(ICFP'15). Vancouver, Canada. September 2015.
+
+* [2015b] Michael Budde, Martin Dybdal, and Martin Elsman. Compiling
+APL to Accelerate Through a Typed Intermediate Language. In
+Proceedings of the 2nd ACM SIGPLAN International Workshop on
+Libraries, Languages and Compilers for Array Programming
+(ARRAY'15). Portland, Oregon, USA. June, 2015.
+
 * [2015a] Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. A Financial
 Benchmark for GPGPU Compilation. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
