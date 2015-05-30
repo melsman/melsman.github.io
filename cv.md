@@ -305,7 +305,7 @@ International Conference on Functional Programming
 (ICFP'15). Vancouver, Canada. September 2015.
 
 * [2015b] Michael Budde, Martin Dybdal, and Martin Elsman. Compiling
-APL to Accelerate Through a Typed Intermediate Language. In
+APL to Accelerate through a Typed Array Intermediate Language. In
 Proceedings of the 2nd ACM SIGPLAN International Workshop on
 Libraries, Languages and Compilers for Array Programming
 (ARRAY'15). Portland, Oregon, USA. June, 2015.

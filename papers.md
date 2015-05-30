@@ -8,7 +8,7 @@ group: navigation
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the 2015 ACM SIGPLAN International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September 2015.
 
-* Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate Through a Typed Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop 
+* Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop 
 on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015. [PDF](/pdf/Array15BuddeDybdalElsman.pdf).
 
 * Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
