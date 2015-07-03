@@ -120,7 +120,7 @@ lines of Standard ML). SMLserver has been built as a Web server module
 database connections for Oracle (based on OCI), Postgres, and MySQL
 databases.
 
-* [MLKit](http://sourceforge.net/apps/mediawiki/mlkit). An optimizing
+* [MLKit](http://www.elsman.com/mlkit/). An optimizing
 compiler for the programming language Standard ML [2002c]. In the
 context of the MLKit, I have been working on combining dynamic garbage
 collection techniques and region-based memory management to gain a
