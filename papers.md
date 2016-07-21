@@ -6,14 +6,16 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16).
+
+* Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016.
+
+* Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and Cosmin E. Oancea. __FinPar: A Parallel Financial Benchmark__. In _ACM Transactions on Architecture and Code Optimization (TACO)_. Volume 13, Issue 2, Article 18. 27 pages. June 2016. [DOI](http://dx.doi.org/10.1145/2898354). (Preliminary version appeared at CPC'15).
+
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the 2015 ACM SIGPLAN International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September 2015. [PDF](/pdf/icfp15-contracts-final.pdf).
 
 * Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop 
 on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015. [PDF](/pdf/Array15BuddeDybdalElsman.pdf).
-
-* Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
-Andreetta. __A Financial Benchmark for GPGPU Compilation__. In _18th
-International Workshop on Compilers for Parallel Computing (CPC'15)_. January, 2015.
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. Halmstad, SE. October, 2014. [PDF](/pdf/NWPT14Contracts.pdf).
 

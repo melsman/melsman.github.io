@@ -91,7 +91,7 @@ I am a (co-)developer of the following tools:
 
 * [The TAIL APL compiler](http://www.github.com/melsman/apltail). A
 compiler for the APL programming language, which targets a typed
-intermediate language [2014a]. The ultimate goal of this project is to
+intermediate language [2014a,2015b,2016a]. The ultimate goal of this project is to
 provide a way for APL programmers to target data-parallel
 architectures, using a subset of well-known APL functions and
 operators, many of which, by design, are naturally data-parallel.
@@ -295,9 +295,28 @@ ACM SIGPLAN Workshop on ML (ML'05), held in Tallinn, Estonia,
 September 2005. I have also served as programme co-chair for the 2006
 ACM Workshop on Semantics, Program Analysis, and Computing
 Environments for Memory Management (SPACE'06), held in South Carolina,
-January 2006.
+January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
+on Libraries, Languages and Compilers for Programming (ARRAY'2016).
 
 #### Publications
+
+* [2016b] Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary
+Sheeran. Low-level Functional GPU Programming for Parallel
+Algorithms. In Proceedings of the 5th ACM SIGPLAN workshop on
+Functional High-Performance Computing (FHPC'16). Nara,
+Japan. September, 2016.
+
+* [2016a] Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie
+Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin
+Oancea. APL on GPUs - A TAIL from the Past, Scribbled in Futhark. In
+Proceedings of the 5th ACM SIGPLAN workshop on Functional
+High-Performance Computing (FHPC'16). Nara, Japan. September, 2016.
+
+* [2016] Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin
+Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and
+Cosmin E. Oancea. FinPar: A Parallel Financial Benchmark. In ACM
+Transactions on Architecture and Code Optimization (TACO). Volume 13,
+Issue 2, Article 18. 27 pages. June 2016.
 
 * [2015c] Patrick Bahr, Jost Berthold, and Martin Elsman. Certified
 Symbolic Management of Financial Multi-Party Contracts. In ACM
