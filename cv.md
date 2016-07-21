@@ -85,7 +85,7 @@ served as CTO at Zecure, a small company focussing on solutions for
 Internet payment processing and e-commerce fraud detection.
 
 During 2013, I was involved in establishing a european research
-program on [Global Systems Science](http://hiperfit.dk/news/2013/06/24/global-systems-science/).
+program on [Global Systems Science](http://hiperfit.dk/news/2013/06/24/global-systems-science).
 
 I am a (co-)developer of the following tools:
 
