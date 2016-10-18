@@ -175,7 +175,9 @@ Science, University of Copenhagen (DIKU). January 1998. Note on
 optimising intermediate language programs in the MLKit compiler. [pdf](/pdf/optimiser.pdf),
 [exercises](/pdf/optimiser_exercises.pdf).
 
-### Presentations
+### Selected Presentations
+
+* Martin Elsman. __Compiling a Subset of APL into Performance Efficient GPU Programs__. Dyalog'16 User Meeting. Glasgow. October, 2016. [pdf](/pdf/Dyalog16.pdf).
 
 * Martin Elsman. __Functional Programming for Trade Management and
 Valuation__. Seminar on Functional High Performance Computing in
