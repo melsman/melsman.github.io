@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/)_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPT16Contracts.pdf).
+
 * Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16). [PDF](/pdf/fhpc16fcl.pdf).
 
 * Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [PDF](/pdf/fhpc16futhark.pdf).
@@ -14,7 +16,7 @@ group: navigation
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the 2015 ACM SIGPLAN International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September 2015. [PDF](/pdf/icfp15-contracts-final.pdf).
 
-* Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop 
+* Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop
 on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015. [PDF](/pdf/Array15BuddeDybdalElsman.pdf).
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. Halmstad, SE. October, 2014. [PDF](/pdf/NWPT14Contracts.pdf).
@@ -85,7 +87,7 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
-Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
+Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283.
 Extended version of CPC'15 paper. January 2015. [pdf](/pdf/finbenchmarkTR2015.pdf).
 
 * Martin Elsman. __A Framework for Cut-Off Incremental Recompilation and
@@ -98,7 +100,7 @@ Technical Report Series. TR-2007-99. June 2007. [pdf](/pdf/fault_vote_tr.pdf), [
 
 * Martin Elsman, Niels Hallenberg, and Carsten Varming. __SMLserver — A
 Functional Approach to Web Publishing (Second Edition)__. IT University
-of Copenhagen, Denmark. April, 2007. [pdf](/pdf/smlserver-book-20070410.pdf), [bibtex](/pdf/smlserver-book-20070410.bibtex.txt). 
+of Copenhagen, Denmark. April, 2007. [pdf](/pdf/smlserver-book-20070410.pdf), [bibtex](/pdf/smlserver-book-20070410.bibtex.txt).
 
 * Glenstrup, A. J., Damgaard, T. C., Birkedal, L., and Elsman,
 M. __BDNF-based Matching of Bigraphs__. IT University of Copenhagen. IT

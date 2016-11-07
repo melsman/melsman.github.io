@@ -129,7 +129,11 @@ higher degree of control over memory resources
 written in C and assembler, the MLKit compiler itself is written in
 Standard ML.
 
-* Carillon. A tool to find Y2K problems in C programs [1999a]. 
+* Carillon. A tool to find Y2K problems in C programs [1999a].
+
+Through the HIPERFIT research center, I am also currently working on
+techniques for specifying and managing financial contracts
+[2015c,2016c].
 
 I have also participated in a research project on bigraphical
 programming languages, which aims at modeling and controling
@@ -200,7 +204,7 @@ ported this back-end to the Intel X86 microprocessor and to an
 embeddable virtual machine [2002] for use in a Web server
 [2004,2003b,2002b].
 
-#### M.Sc. in Engineering 
+#### M.Sc. in Engineering
 
 I initiated the Master of Science program in engineering at the
 Technical University of Denmark in September 1988. I spent the year
@@ -256,7 +260,7 @@ I have taught the following courses:
 
 * Type-based Optimisation Techniques. Department of Computer Science, University of Copenhagen. Spring 1998.
 
-* Aspects of Modules languages. Department of Computer Science, University of Copenhagen. Fall 1996. 
+* Aspects of Modules languages. Department of Computer Science, University of Copenhagen. Fall 1996.
 
 I have supervised a high number of M.Sc. thesis students, B.Sc. thesis
 students, and smaller projects at DIKU and at ITU. The projects have
@@ -300,6 +304,10 @@ on Libraries, Languages and Compilers for Programming (ARRAY'2016).
 
 #### Publications
 
+* [2016c] Danil Annenkov and Martin Elsman. Towards Certified
+Compilation of Financial Contracts. In Proceedings of the 28th Nordic
+Workshop on Programming Theory (NWPT'16). Aalborg, DK. November, 2016.
+
 * [2016b] Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary
 Sheeran. Low-level Functional GPU Programming for Parallel
 Algorithms. In Proceedings of the 5th ACM SIGPLAN workshop on
@@ -331,7 +339,7 @@ Libraries, Languages and Compilers for Array Programming
 
 * [2015a] Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. A Financial
-Benchmark for GPGPU Compilation. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
+Benchmark for GPGPU Compilation. DIKU Technical Report no 2015/02. ISSN 0107-8283.
 Extended version of CPC'15 paper. January 2015.
 
 * [2015] Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
@@ -384,7 +392,7 @@ Sharing. IT University Technical Report Series. TR-2004-43. February 2004.
 
 * [2004b] Mads Tofte, Lars Birkedal, Martin Elsman, and Niels
 Hallenberg. A Retrospective on Region-Based Memory Management. In
-Higher-Order and Symbolic Computation (HOSC). 17(3): 245-265. 
+Higher-Order and Symbolic Computation (HOSC). 17(3): 245-265.
 Copyright © 2004 Kluwer Academic Publishers. September 2004.
 
 * [2003] Martin Elsman and Ken Friis Larsen. Typing XHTML Web
