@@ -228,6 +228,8 @@ applications.
 
 I have taught the following courses:
 
+* Parallel Functional Programming. University of Copenhagen, DIKU. Course Responsible. Fall 2016.
+
 * Introduction to Scripting, Databases, and System Architecture. The IT University of Copenhagen. One fourth of course. Course Responsible. Spring 2008.
 
 * Introduction to Scripting, Databases, and System Architecture. The IT University of Copenhagen. One third of course. Course Responsible. Fall 2007.
@@ -303,6 +305,13 @@ January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
 on Libraries, Languages and Compilers for Programming (ARRAY'2016).
 
 #### Publications
+
+* [2017] Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz
+Henglein, and Cosmin Oancea. Futhark: Purely Functional
+GPU-programming with Nested Parallelism and In-place Array
+Updates. In Proceedings of the 2017 ACM SIGPLAN International
+Conference on Programming Language Design and Implementation
+(PLDI'17). Barcalona, Spain. June 2017.
 
 * [2016c] Danil Annenkov and Martin Elsman. Towards Certified
 Compilation of Financial Contracts. In Proceedings of the 28th Nordic
