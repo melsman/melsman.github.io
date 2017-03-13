@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the 2017 ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI'17)_. Barcalona, Spain. June 2017.
+* Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the 2017 ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI'17)_. Barcelona, Spain. June 2017.
 
 * Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/))_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPTPayoffLang.pdf).
 

@@ -311,7 +311,7 @@ Henglein, and Cosmin Oancea. Futhark: Purely Functional
 GPU-programming with Nested Parallelism and In-place Array
 Updates. In Proceedings of the 2017 ACM SIGPLAN International
 Conference on Programming Language Design and Implementation
-(PLDI'17). Barcalona, Spain. June 2017.
+(PLDI'17). Barcelona, Spain. June 2017.
 
 * [2016c] Danil Annenkov and Martin Elsman. Towards Certified
 Compilation of Financial Contracts. In Proceedings of the 28th Nordic
