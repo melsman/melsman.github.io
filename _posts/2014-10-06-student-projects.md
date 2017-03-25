@@ -29,10 +29,13 @@ projects](http://www.elsman.com/projects.html), such as
 [SMLtoJs](http://smlserver.org/smltojs), and
 [SMLonline](http://smlserver.org/ide). If you are interested in doing
 any kind of work related to the above projects, please let me
-know. Possible topics include reactive programming with SMLtoJs, GPGPU
-programming in the browser with shaders and SMLtoJs, game programming
-in SMLtoJs, advanced features in the SMLonline IDE (intellicense, and
-error feedback), and collaborative programming in a browser IDE.
+know. Here are some possible topics:
+
+- Unit-testing of SMLtoJs code with [PhantomJS](http://phantomjs.org)
+- Reactive programming with [SMLtoJs](http://smlserver.org/smltojs)
+- GPGPU programming in the browser with shaders and [SMLtoJs](http://smlserver.org/smltojs)
+- Game programming in [SMLtoJs](http://smlserver.org/smltojs)
+- Extending [SMLonline](http://smlserver.org/ide) with intellicense and improved error feedback
 
 I have recently started using
 [Smackage](http://github.com/standardml/smackage) for maintaining
@@ -100,4 +103,3 @@ co-supervised:
 
 - Anders Bille. AJAX Applications in ML. ITU MSc thesis
   project. November 2007. Supervisor.
-
