@@ -91,7 +91,7 @@ I am a (co-)designer and (co-)developer of the following tools:
 
 * [Futhark](https://futhark-lang.org/). A purely functional
 data-parallel language targeting GPGPUs
-[2014b,2015,2015a,2016,2016a,2017]. Futhark is a statically typed,
+[2014b, 2015, 2015a, 2016, 2016a, 2017]. Futhark is a statically typed,
 data-parallel, and purely functional array language in the ML
 family. It comes with a heavily optimising ahead-of-time compiler that
 generates efficient GPU code via OpenCL, using a number of fusion- and
@@ -99,7 +99,7 @@ special-purpose optimisation techniques.
 
 * [The TAIL APL compiler](http://www.github.com/melsman/apltail). A
 compiler for the APL programming language, which targets a typed
-intermediate language [2014a,2015b,2016a]. The ultimate goal of this project is to
+intermediate language [2014a, 2015b, 2016a]. The ultimate goal of this project is to
 provide a way for APL programmers to target data-parallel
 architectures, using a subset of well-known APL functions and
 operators, many of which, by design, are naturally data-parallel.
@@ -115,7 +115,7 @@ compiler running in a browser](http://www.smlserver.org/ide) [2011].
 
 * [SMLserver](http://www.smlserver.org). An efficient multi-threaded
 Web server platform for Standard ML programs
-[2004,2003b,2002,2002b]. The aim of the SMLserver project has been to
+[2004, 2003b, 2002, 2002b]. The aim of the SMLserver project has been to
 push advanced programming concepts, such as higher-order functions and
 polymorphic type systems, to the context of Web applications. The
 development of SMLserver has been driven by practical needs. SMLserver
@@ -133,7 +133,7 @@ compiler for the programming language Standard ML [2002c]. In the
 context of the MLKit, I have been working on combining dynamic garbage
 collection techniques and region-based memory management to gain a
 higher degree of control over memory resources
-[2004b,2003a,2002a]. Whereas the runtime system of the MLKit is
+[2004b, 2003a, 2002a]. Whereas the runtime system of the MLKit is
 written in C and assembler, the MLKit compiler itself is written in
 Standard ML.
 
@@ -141,7 +141,7 @@ Standard ML.
 
 Through the HIPERFIT research center, I am also currently working on
 techniques for specifying and managing financial contracts
-[2015c,2016c], in particular, in the context of blockchain technology [2017a].
+[2015c, 2016c], in particular, in the context of blockchain technology [2017a].
 
 I have also participated in a research project on bigraphical
 programming languages, which aims at modeling and controling
@@ -198,7 +198,7 @@ techniques for module languages, and techniques for type-based program
 optimisation.
 
 My Ph.D. work has resulted in a series of papers and reports
-[1999,1999b,2002c,1998].
+[1999, 1999b, 2002c, 1998].
 
 #### Research Programmer
 
@@ -210,7 +210,7 @@ MLKit group--a back-end for the MLKit that generates efficient machine
 code for the HP PA-RISC microprocessor [1995]. Since then, I have
 ported this back-end to the Intel X86 microprocessor and to an
 embeddable virtual machine [2002] for use in a Web server
-[2004,2003b,2002b].
+[2004, 2003b, 2002b].
 
 #### M.Sc. in Engineering
 
@@ -318,7 +318,7 @@ on Libraries, Languages and Compilers for Programming (ARRAY'2016).
 
 * Danil Annenkov (finishing October 2017)
 
-* Wojciech (industrial PhD student in collaboration with SimCorp)
+* Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
 
 #### Publications
 
