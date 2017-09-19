@@ -87,7 +87,15 @@ Internet payment processing and e-commerce fraud detection.
 During 2013, I was involved in establishing a european research
 program on [Global Systems Science](http://hiperfit.dk/news/2013/06/24/global-systems-science).
 
-I am a (co-)developer of the following tools:
+I am a (co-)designer and (co-)developer of the following tools:
+
+* [Futhark](https://futhark-lang.org/). A purely functional
+data-parallel language targeting GPGPUs
+[2014b,2015,2015a,2016,2016a,2017]. Futhark is a statically typed,
+data-parallel, and purely functional array language in the ML
+family. It comes with a heavily optimising ahead-of-time compiler that
+generates efficient GPU code via OpenCL, using a number of fusion- and
+special-purpose optimisation techniques.
 
 * [The TAIL APL compiler](http://www.github.com/melsman/apltail). A
 compiler for the APL programming language, which targets a typed
@@ -133,7 +141,7 @@ Standard ML.
 
 Through the HIPERFIT research center, I am also currently working on
 techniques for specifying and managing financial contracts
-[2015c,2016c].
+[2015c,2016c], in particular, in the context of blockchain technology [2017a].
 
 I have also participated in a research project on bigraphical
 programming languages, which aims at modeling and controling
@@ -304,7 +312,20 @@ Environments for Memory Management (SPACE'06), held in South Carolina,
 January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
 on Libraries, Languages and Compilers for Programming (ARRAY'2016).
 
+#### PhD Students
+
+* Martin Dybdal (finished August 2017)
+
+* Danil Annenkov (finishing October 2017)
+
+* Wojciech (industrial PhD student in collaboration with SimCorp)
+
 #### Publications
+
+* [2017a] Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, Omri
+Ross. Automated Execution of Financial Contracts on Blockchains. In
+Journal of Business and Information Systems Engineering. To
+appear. 2017.
 
 * [2017] Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz
 Henglein, and Cosmin Oancea. Futhark: Purely Functional

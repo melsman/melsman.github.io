@@ -6,6 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, Omri
+Ross. __Automated Execution of Financial Contracts on Blockchains__. In
+_Journal of Business and Information Systems Engineering_. To
+appear. 2017. [PREPRINT PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2898670).
+
 * Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the 2017 ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI'17)_. Barcelona, Spain. June 2017. [PDF](/pdf/pldi17.pdf).
 
 * Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/))_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPTPayoffLang.pdf).
