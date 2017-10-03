@@ -2,7 +2,7 @@
 layout: page
 title: Brief CV
 group: navigation
-tagline: none
+tagline: Martin Elsman
 ---
 {% include JB/setup %}
 
