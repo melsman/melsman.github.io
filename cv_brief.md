@@ -67,5 +67,4 @@ high-performance computing and big data.
 #### Full CV
 
 For a full CV including a publication list and detailed information
-about organisational work, teaching, and PhD supervision, please consult
-[http://elsman.com/cv](/cv).
+about organisational work, teaching, and PhD supervision, please consult [http://elsman.com/cv](/cv).
