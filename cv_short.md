@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Short CV
 group: navigation
 ---
 {% include JB/setup %}
@@ -114,7 +114,7 @@ Environments for Memory Management (SPACE'06), held in South Carolina,
 January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
 on Libraries, Languages and Compilers for Programming (ARRAY'2016).
 
-#### Publications
+#### Full CV
 
 For a publication list and a full cv, please consult [http://elsman.com/cv](/cv).
 Most publications (except Journal papers) are available [online](/papers.html).
