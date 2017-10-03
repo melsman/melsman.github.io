@@ -2,6 +2,7 @@
 layout: page
 title: Brief CV
 group: navigation
+tagline: none
 ---
 {% include JB/setup %}
 
