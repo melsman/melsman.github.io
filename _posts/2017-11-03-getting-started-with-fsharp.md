@@ -162,7 +162,7 @@ Other functions (besides most of those available on integers) are
 available on floats as well. Such functions include ''cos'', ''tan'',
 ''exp'', and so on.
 
-### Strings
+## Strings
 
 Another essential data type available in F# is the ''string'' type:
 
@@ -402,7 +402,7 @@ Now consider again the task of writing a function that sums of the
 integers between 0 and 100. Here is a recursive F# function that does
 the job for any integer argument ''n'':
 
-```
+```fsharp
 > let rec sum n =
     if n <= 0 then 0
     else n + sum (n-1);;
