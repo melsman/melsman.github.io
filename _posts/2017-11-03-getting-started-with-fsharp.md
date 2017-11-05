@@ -397,9 +397,9 @@ immutability whenever possible and which features a number of
 reasoning principles that allow programmers to better specify and
 reason about properties of the program. An essential part of
 functional programming has to do with recursive functions, which are
-simply functions that calls themselves.
+simply functions that call themselves.
 
-Now consider again the task of writing a function that sums of the
+Now consider again the task of writing a function that sums the
 integers between 0 and 100. Here is a recursive F# function that does
 the job for any integer argument `n`:
 
