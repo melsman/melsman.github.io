@@ -268,7 +268,7 @@ in F# is really stands for the term functional.
 Defining a function can be done by simply extending a
 `let`-expression to be _parametric_ in an argument:
 
-```F#
+```fsharp
 > let legal age =
     if age >= 18 then "you may drive a car"
     else "driving is not ok";;
@@ -403,7 +403,7 @@ Now consider again the task of writing a function that sums the
 integers between 0 and 100. Here is a recursive F# function that does
 the job for any integer argument `n`:
 
-```OCaml
+```fsharp
 > let rec sum n =
     if n <= 0 then 0
     else n + sum (n-1);;
