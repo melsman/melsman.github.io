@@ -312,7 +312,7 @@ val vol1 : float = 31.4
 **Exercise 3:** _Write a function `bmi` of type `float -> float ->
 float` that takes as input the weight and the height of a person and
 returns the body mass index for the person. You will probably need to
-apply a so-called _type constraint_ to one of the function parameters
+apply a so-called type constraint to one of the function parameters
 in order not to have F# infer that the type of the function is `int
 -> int -> int`. The way to do this is to put parentheses around one
 of the arguments and specify that it should be of type `float` (as
