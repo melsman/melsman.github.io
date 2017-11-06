@@ -6,6 +6,8 @@ tags : [Fsharp,functional programming]
 ---
 {% include JB/setup %}
 
+(by Martin Elsman)
+
 F# is a programming language aimed at executing programs on the .NET
 platform. We will explore how to develop F# programs that run under
 Mono, an open-source implementation of Microsoft's Common Intermediate
