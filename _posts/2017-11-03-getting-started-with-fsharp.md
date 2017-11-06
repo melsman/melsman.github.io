@@ -622,4 +622,92 @@ Enter an integer:
  *****
 ```
 
-## Functional Programming
+## More F# Topics
+
+Programming in F#, and functional programming in general, has much
+more to it than what we have seen here. In the referenced material
+below, we cover a number of topics, including programming with lists
+and arrays, recursion in depth, type-full programming with records and
+discriminated unions, and, finally, the topic of higher-order
+functional programming (to come). All of the examples given in the
+slides can be compiled and executed under Mono (you need to copy the
+code from the slides, though). Some of the examples utilizes the
+`ImgUtil` library, which is comprised by an
+[img_util.fsi](/fsharp/img_util/img_util.fsi) file (an interface file)
+and the implementation file
+[img_util.fs](/fsharp/img_util/img_util.fs). For details about how to
+compile and use the library, please consult the
+[README](/fsharp/img_util/README.md) file.
+
+Please be aware that the slides are all in danish; they have been
+developed as part of the introductory programming course for the
+Computer Science BSc degree at the Department of Computer Science,
+University of Copenhagen.
+
+1. [Programming with Lists](/fsharp/lecture_list1.pdf).
+We introduce the reader to list
+programming and demonstrate how a programmer may use the built-in list
+functions to construct larger functions.
+
+1. [Programming with Lists (continued) and
+Arrays](/fsharp/lecture_list2.pdf). We continue with the introduction
+of list programming and demonstrate also how programmers may use
+arrays of different dimensionality to solve various tasks.
+
+1. [Recursion](/fsharp/lecture_rec1.pdf). We illustrate the concept of
+recursion by introducing a number of basic functions on integers and
+lists.
+
+1. [Recursion and Sorting](/fsharp/lecture_rec2.pdf). We illustrate
+recursive programming through the definition of a number of sorting
+routines over lists of integers. The sorting routines include bubble
+sort, insertion sort, selection sort, merge sort and quick sort.
+
+1. [Recursion, Games, and Drawing](/fsharp/lecture_rec3.pdf). We
+demonstrate how we can implement functionality (rules) that allow for
+a human to play the "Towers of Hanoi" game in the F# shell. We then
+present the hanoi algorithm, which allows the computer to play (and
+win) the game for any number of pegs, by applying a recursive
+algorithm. We also show how we can use recursion to draw simple
+fractals on a canvas using the [ImgUtil](/fsharp/img_util) library.
+
+1. [Types and Pattern Matching](/fsharp/lecture_type1.pdf). We present
+the concept of types in more details and show how F# allows the
+programmer to declare, even generic, type abbreviations and how a
+programmer may use the concept of pattern-matching to, for instance,
+define functions over lists.
+
+1. [Discriminated Unions and a Turtle EDSL](/fsharp/lecture_type2.pdf). We present
+the concept of discriminated unions and show how a programmer may
+implement a small Turtle EDSL (Embedded Domain Specific Language),
+which allows for specifying simple turtle movements and drawings. We
+show how the recursive features of a host language (in this case F#)
+can be used to generate instructions for drawing complex fractals. We
+also demonstrate how the drawings can be effectuated by writing an
+interpreter for the turtle EDSL that converts instructions into bitmap
+lines, which can be shown on a canvas.
+
+1. [Stacks, Queues, and Rekursion Revisited](/fsharp/lecture_type3.pdf).
+We give a solution to the classical _maximum secment sum_ problem,
+using recursion. We also define interfaces for stacks and queues and
+provide efficient implementations of both.
+
+1. [Search Trees and Catenable Strings](/fsharp/lecture_tree1.pdf). We
+look at different tree structures and provide definitions of trees
+that are good for binary searching and definition of trees that are
+good for implementing catenable strings, that is, strings that can be
+catenated in O(1) time.
+
+1. [Tree Traversals](/fsharp/lecture_tree2.pdf). We classify a number
+of different ways to traverse (binary) trees, including depth-first
+tree traversals (preorder, postorder, and inorder) and breath-first
+traversal, and provide F# implementations of them all.
+
+1. [Expression Trees and Symbolic Differentiation](/fsharp/lecture_tree3.pdf).
+
+We show how we can define the concept of expression trees (of one
+variable) in F# using a simple, recursively defined, discriminated
+union type. We demonstrate how we can generate LaTeX code for such
+expressions and how we can completely defined, using high-school math
+rules, how such expressions are differentiated. An expression
+simplifier makes for prettier printing of results.
