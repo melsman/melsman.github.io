@@ -610,7 +610,7 @@ interaction with the program:
 **Exercise 8:** _Write a program `christmas` that reads an integer `n`
 and prints out a christmas tree of height `n`. The program may use the
 function `printf` to print a string without printing a newline
-character. Here is what the program should output when the number 4 is
+character. Here is what the program should output when the number 3 is
 given as input:_
 
 ```
