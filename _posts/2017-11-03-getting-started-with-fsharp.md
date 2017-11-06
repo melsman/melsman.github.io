@@ -706,7 +706,6 @@ tree traversals (preorder, postorder, and inorder) and breath-first
 traversal, and provide F# implementations of them all.
 
 1. [Expression Trees and Symbolic Differentiation](/fsharp/lecture_tree3.pdf).
-
 We show how we can define the concept of expression trees (of one
 variable) in F# using a simple, recursively defined, discriminated
 union type. We demonstrate how we can generate LaTeX code for such
