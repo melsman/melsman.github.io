@@ -51,15 +51,13 @@ For help type #help;;
 The `fsharpi` program accepts commands as input, but it is also
 possible to type in an F# expression. Here is an example:
 
-```
+```fsharp
 > 4+2*8;;
 val it : int = 20
-
->
 ```
 
-Notice that expressions and commands needs to be terminated with
-`;;` to indicate that `fsharpi` can process the input. After
+Notice that expressions and commands need to be terminated with
+`;;` to indicate that `fsharpi` can start processing the input. After
 `fsharpi` receives the input, a number of things happen. First, the
 input is analysed and it is determined that the input corresponds to
 an expression that has type `int`. Then the expression is compiled
@@ -73,19 +71,20 @@ evaluated only if the expression can be given a type (in this case
 so-called variable `it`, which the user can refer to later if the
 result is needed for another computation:
 
-```
+```fsharp
 > (it+3)*2;;
 val it : int = 23
 ```
 
 From the above interaction, we see that F# remembers the value of the
-variable `it` when calculating the value of the new expression, but
-we also see that the variable `it` is now replaced with a new
-binding, which associates the variable `it` with the value
-`46`. We shall see later that a programmer can easily bind values to
-new variables and that the programmer may choose names for variables
-almost arbitrarily. Notice also that the programmer may use
-parentheses to circumvent the usual precedence rules of mathematics.
+variable `it` when calculating the value of the new expression, but we
+also see that the variable `it` is now replaced with a new binding,
+which associates the variable `it` with the value `46`. We shall see
+later that a programmer can easily bind values to new variables and
+that the programmer may choose names for variables almost
+arbitrarily. Notice also that the programmer may use parentheses to
+circumvent the usual precedence rules of mathematics. To exit the F#
+interpreter, type the command `#q;;`.
 
 F# has support for a large number of built-in types, including
 integers (`int`), double-precision floats (`float`), strings
@@ -98,21 +97,25 @@ be specified by saying that `+` has the (function) type `int -> int
 -> int`. In short, we shall often use the following syntax to specify
 this property:
 
-    val (+) : int -> int -> int
+```fsharp
+val (+) : int -> int -> int
+```
 
 Similarly, other operations on integers are available as well:
 
-    val (-) : int -> int -> int
-    val (*) : int -> int -> int
-    val (/) : int -> int -> int
-    val abs : int -> int
-    val max : int -> int -> int
-    val min : int -> int -> int
+```fsharp
+val (-) : int -> int -> int
+val (*) : int -> int -> int
+val (/) : int -> int -> int
+val abs : int -> int
+val max : int -> int -> int
+val min : int -> int -> int
+```
 
 **Exercise 1:** _Play around with various expressions in the
 `fsharpi` program and evaluate the result of computing the number of
 minutes it takes for a train to run from Copenhagen to Aarhus given
-that it runs on average 145km/hour and that the distance between
+that it runs on average 120km/hour and that the distance between
 Copenhagen and Aarhus is 290km._
 
 Of course, it is possible to program with values other than integers,
@@ -120,16 +123,26 @@ as indicated by the fact that F# supports other types than
 `int`. For instance, F# supports programming with 64-bit
 double-precision floating-point values, which have type `float`:
 
-```
+```fsharp
 > sin(4.9+float(2*8));;
 val it : float = 0.8871575287
 ```
 
 The value resulting from evaluating the expression is determined to
-have type `float` and, again, the result of evaluating the
-expression is bound to the variable `it`. We also see that it is
-possible to use the `float(...)` function to convert an integer
-value into a value of type `float`.
+have type `float` and, again, the result of evaluating the expression
+is bound to the variable `it`. We also see that it is possible to use
+the `float(...)` function to convert an integer value into a value of
+type `float`. However, we can also see that F# is somewhat rigid in
+this respect; it does not allow you to mix integers and floats in
+operations without you using the `float` function:
+
+```fsharp
+> 4.9+8;;
+  4.9+8;;
+  ----^
+
+...(2,5): error FS0001: The type 'int' does not match the type 'float'
+```
 
 **Exercise 2:** _The formula for calculating the body-mass-index for a
 person is identical to the weight of the person (in kilos) divided by
@@ -142,7 +155,7 @@ As mentioned, it is possible in F# for a programmer to bind a value to
 an identifier specified by the programmer. Such a binding is
 introduced with a so-called `let` construct:
 
-```
+```fsharp
 > let myhousenumber = 24;;
 val myhousenumber : int = 24
 > let nexthousenumber = myhousenumber + 1;;
@@ -157,7 +170,9 @@ As we can see, it is straightforward to create new bindings and to use
 the values associated to the introduced variables. In the above code,
 notice the use of the sine-function:
 
-    val sin : float -> float
+```fsharp
+val sin : float -> float
+```
 
 Other functions (besides most of those available on integers) are
 available on floats as well. Such functions include `cos`, `tan`,
@@ -167,7 +182,7 @@ available on floats as well. Such functions include `cos`, `tan`,
 
 Another essential data type available in F# is the `string` type:
 
-```
+```fsharp
 > let hello = "Hello";;
 val hello : string = "Hello"
 
@@ -179,7 +194,9 @@ Here we see that string constants are sequences of characters and that
 string constants are enclosed in double quotes ("). Moreover, the
 operator `+` is _overloaded_ to also work for strings:
 
-    val (+) : string -> string -> string
+```fsharp
+val (+) : string -> string -> string
+```
 
 The effect of "adding" to strings, which is also called _catenation_,
 is to create a new string that contains the argument strings put together in
@@ -192,7 +209,7 @@ bindings. The module containing string-operations is the module
 so-called _dot-notation_, which allows us, for instance, to get
 information about the length of a string:
 
-```
+```fsharp
 > let mylen = String.length mystring;;
 val mylen : int = 11
 ```
@@ -201,7 +218,7 @@ We see that the result of applying the `String.length` function to a
 concrete string is an integer, which we can also see by inspecting the
 function:
 
-```
+```fsharp
 > String.length;;
 val it : (string -> int) = <fun:it@24>
 ```
@@ -216,7 +233,7 @@ The type `bool` represents the set of boolean values containing
 precisely the values `true` and `false`. Boolean values are, for instance,
 resulting from comparing values for equality and inequality:
 
-```
+```fsharp
 > 2 < 3;;
 val it : bool = true
 
@@ -229,13 +246,15 @@ boolean _disjunction_ (`||`), which implements boolean "and" and
 boolean "or", respectively. It is also possible to negate boolean
 values, using the function `not`:
 
-    val (&&) : bool -> bool -> bool
-    val (||) : bool -> bool -> bool
-    val not  : bool -> bool
+```fsharp
+val (&&) : bool -> bool -> bool
+val (||) : bool -> bool -> bool
+val not  : bool -> bool
+```
 
 Here is an example of a boolean expression:
 
-```
+```fsharp
 > 2 < 3 && 5 >= 5;;
 val it : bool = true
 ```
@@ -247,7 +266,7 @@ Booleans may also be used for controling program evaluation paths
 through the use of _conditional_ expressions, also called if-then-else
 expressions:
 
-```
+```fsharp
 let age = 17;;
 val age : int = 17
 
@@ -284,7 +303,7 @@ attempt to make sense of the input. Once the function is defined, we
 can apply the function to different arguments and observe that the
 function behaves differently on different input:
 
-```
+```fsharp
 > legal 14;;
 val it : string = "driving is not ok"
 
@@ -296,7 +315,7 @@ Functions may take multiple parameters as input as exemplified in the
 following code that declares a function for determining the volume of
 a cylinder, given that the variable `pi` is bound already:
 
-```
+```fsharp
 > let volume r h = h*pi*r*r;;
 val volume : r:float -> h:float -> float
 ```
@@ -304,7 +323,7 @@ val volume : r:float -> h:float -> float
 It is straightforward to call the function `volume` as can be seen
 in the following code:
 
-```
+```fsharp
 > let vol1 = volume 1.0 10.0;;
 val vol1 : float = 31.4
 ```
@@ -342,7 +361,7 @@ the set of pairs where the first component is an integer and the
 second component is a floating point value. In F#, pair values are simply
 constructed using a `,`:
 
-```
+```fsharp
 > let p = 34, 2.7;;
 val p : int * float = (34, 2.7)
 ```
@@ -350,8 +369,10 @@ val p : int * float = (34, 2.7)
 To access the components of a pair, we can use the functions `fst`
 and `snd`:
 
-   val fst : 'a * 'b -> 'a
-   val snd : 'a * 'b -> 'b
+```fsharp
+val fst : 'a * 'b -> 'a
+val snd : 'a * 'b -> 'b
+```
 
 Here we see the first instance of so-called _generic types_, which are
 used in the types of the functions `fst` and `snd` to indicate
@@ -364,7 +385,7 @@ integers and return strings. As an example, here is a function that,
 given a readius value, returns a pair containing the circumvent and
 the area of a cirkle:
 
-```
+```fsharp
 > let lenarea r = (2.0*pi*r, pi*r*r);;
 val lenarea : r:float -> float * float
 ```
@@ -372,7 +393,7 @@ val lenarea : r:float -> float * float
 Now that the function is declared, we can apply it to a particular
 radius and extract the area value:
 
-```
+```fsharp
 > let area = snd(lenarea 5.0);;
 val area : float = 78.5
 ```
@@ -411,30 +432,194 @@ val sum : n:int -> int
 ```
 
 Notice the special keyword `rec` appearing after the `let`
-keyword. The `rec` keyword specifies that it is ok for the function
-to call itself inside the function's own body. Now, let us look at
-the function in more detail. If the function is called with an
-argument of `0`, clearly, the function will return `0` as
-a result, which we can easily check:
+keyword. The `rec` keyword specifies that it is ok for the function to
+call itself inside the function's own body. Now, let us look at the
+function in more detail. If the function is called with an argument of
+`0`, clearly, the function will return `0` as a result, which we can
+easily check:
 
-```
+```fsharp
 > let sum0 = sum 0;;
 val sum0 : int = 0
 ```
 
 However, if the function is called with the argument `1`, the
-immediate result is that the `else`-branch is taken. What this
-branch will do is to call `sum` recursively on `n-1` and because
-`n` is `1`, we have that `sum` is called with an argument of
-`0`. After this call returns, `1` is added to the result of the
-call and the resulting value, which is `1`, is returned.
+immediate result is that the `else`-branch is taken. What this branch
+will do is to call `sum` recursively on `n-1` and because `n` is `1`,
+we have that `sum` is called with an argument of `0`. After this call
+returns, `1` is added to the result of the call and the resulting
+value, which is `1`, is returned.
 
-**Exercise 5:** _Write a recursive function called `fac` that
-takes an integer `n` as argument and computes the value
-`1*2*...*n`. Test your function on a number of input values._
+**Exercise 5:** _Write a recursive function called `fac` that takes an
+integer `n` as argument and computes the value `1*2*...*n`. Test your
+function on a number of input values._
+
+**Exercise 6:** _Write a recursive function called `power` that takes
+two arguments, a float `a` and an integer `n`, and computes the value
+`a^n`. That is, it should compute the value `1.0*a*a*...*a`, with `n`
+multiplications. Test your function on a number of input
+values. Notice that calling the function with the arguments `2.0` and
+`0` should result in the value `0.0` and calling the function with the
+arguments `3.0` and `4` should result in the value produced by the
+expression `1.0*3.0*3.0*3.0*3.0`._
 
 ## Working with Programs
 
-## Imperative Programming with Mutable Variables and Arrays
+Until now, we have only played around in the F# interpreter
+`fsharpi`. We shall now see how we can construct a self-contained
+program that, when executed, will run our F# code. To do so we will
+need to have our F# source program stored in a file somewhere on the
+machine. Using the terminal program, first create a directory `mycode`
+in your home directory on your machine:
 
-## Functional Programming with Lists
+    $ cd ~
+    $ mkdir mycode
+    $ cd mycode
+
+If you have not already installed `gedit` (or are using another text
+editor), now is the time to do so. The `gedit` program can be
+installed using Howebrew; just execute the command `brew install
+gedit`.
+
+Once installed, open `gedit` from the terminal program:
+
+    $ gedit &
+
+You can now type in your program in the `gedit` editor and save the program
+using the "Save As..." functionality in the menu. As an example, type
+in the following code in the editor, select F# as a language under
+"View->Highlight Mode...", and save the file under the name `sum.fs`
+using the "Save As..." functionality:
+
+```fsharp
+let rec sum n = if n <= 0 then 0
+                else n + sum (n-1);;
+
+do printfn "%A" (sum 0)
+do printfn "%A" (sum 10)
+```
+
+You are now ready to compile your first program using the F# compiler
+`fsharpc`. Again, from your terminal prompt, execute the following command:
+
+    $ fsharpc sum.fs
+
+The command will generate a file called `sum.exe`, which can be
+executed using the `mono` program:
+
+    $ mono sum.exe
+    0
+    55
+
+Notice the effects of the last two lines of the program. These lines
+print the results of evaluating the expressions `sum 0` and `sum 10`
+to the output. In each of the lines, the function `printfn` is
+evaluated to have an effect, which is to print a value to the programs
+standard output. The function also prints the special new line
+character `\n`, which has the effect that the terminal program will
+show the two numbers on separate lines. The first argument to the
+`printfn` function is a so-called _format string_, which, in this
+case, specifies that value should be printed using F#'s internal value
+formatter.
+
+## Reading Input Lines
+
+We have seen how we can write a program that can write to the standard
+output, but we have not seen how we can get a program to read input
+from a user (or another program). Luckily, F# features a function for
+doing just this. The function is called `System.Console.ReadLine` and
+its type is `unit -> string`, where `unit` is a built-in type
+containing only one value, namely `()`.
+
+We can now write a program, say `sumN.fs`, that asks the user to type an
+integer _n_ and prints the value `sum` _n_:
+
+```fsharp
+let rec sum n = if n <= 0 then 0
+                else n + sum (n-1);;
+
+do printfn "Input a number, please:"
+let n : string = System.Console.ReadLine()
+
+do printfn "Sum(0..%s) = %A" n (sum (int(n)))
+```
+
+Notice the use of the `: string` type annotation in the `let`-binding
+for `n`; this annotation allows us to express our intention that n
+should contain a string. If we, for instance, had forgotten to give
+System.Console.ReadLine` the `unit` value as argument, the F# compiler
+would complain.
+
+Here is the result of compiling the program and executing it with the
+number `11` as input:
+
+    $ fsharpc --nologo sumN.fs
+    $ mono sumN.exe
+    Input a number, please:
+    11
+    Sum(0..11) = 66
+
+**Exercise 7:** _Use the body mass index calculation function
+`bmi_msg` from Exercise 4 and combine it with code that reads the
+user's weight and height from the terminal input and reports a message
+on the terminal output as a result._
+
+## Imperative Programming with Mutable Variables
+
+We shall now see how we can use so-called _mutable_ variables for
+storing values that change during the evaluation of a program. Whereas
+recursion is often better for encoding repetition, we shall also
+introduce the concepts of `while`-loops and `for`-loops.
+
+Here is a program, called `multableN.fs` that outputs a multiplication
+table on the terminal output:
+
+```fsharp
+do printfn "Enter an integer:"
+let x = System.Console.ReadLine()
+do printfn "Table:"
+let mutable i = 1
+while i <= 10 do
+  printfn "%A" (i*(int(x)))
+  i <- i + 1
+```
+
+When the program executes, the _body_ of the `while`-loop, which
+consists of the two indented lines of code, is executed 10 times and
+within the body, the variable `i` takes on different values for each
+iteration, caused by the statement `i <- i + 1`. Here is an example
+interaction with the program:
+
+    $ fsharpc --nologo multableN.fs
+    $ mono multableN.exe
+    bash-3.2$ mono multableN.exe
+    Enter an integer:
+    3
+    Table:
+    3
+    6
+    9
+    12
+    15
+    18
+    21
+    24
+    27
+    30
+
+**Exercise 8:** _Write a program `christmas` that reads an integer `n`
+and prints out a christmas tree of height `n`. The program may use the
+function `printf` to print a string without printing a newline
+character. Here is what the program should output when the number 4 is
+given as input:_
+
+```
+$ mono christmas.exe
+Enter an integer:
+3
+   *
+  ***
+ *****
+```
+
+## Functional Programming
