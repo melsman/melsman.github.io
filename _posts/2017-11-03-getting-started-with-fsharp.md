@@ -75,7 +75,7 @@ result is needed for another computation:
 
 ```fsharp
 > (it+3)*2;;
-val it : int = 23
+val it : int = 46
 ```
 
 From the above interaction, we see that F# remembers the value of the
@@ -85,7 +85,7 @@ which associates the variable `it` with the value `46`. We shall see
 later that a programmer can easily bind values to new variables and
 that the programmer may choose names for variables almost
 arbitrarily. Notice also that the programmer may use parentheses to
-circumvent the usual precedence rules of mathematics. To exit the F#
+overrule the usual precedence rules of mathematics. To exit the F#
 interpreter, type the command `#q;;`.
 
 F# has support for a large number of built-in types, including
@@ -384,19 +384,19 @@ An important feature here is that the product type is just as good as
 any other type meaning that functions can be declared to take pairs as
 arguments and return pairs as results just as well as they can accept
 integers and return strings. As an example, here is a function that,
-given a readius value, returns a pair containing the circumvent and
-the area of a cirkle:
+given a readius value, returns a pair containing the circumference and
+the area of a circle:
 
 ```fsharp
-> let lenarea r = (2.0*pi*r, pi*r*r);;
-val lenarea : r:float -> float * float
+> let circle_props r = (2.0*pi*r, pi*r*r);;
+val circle_props : r:float -> float * float
 ```
 
 Now that the function is declared, we can apply it to a particular
 radius and extract the area value:
 
 ```fsharp
-> let area = snd(lenarea 5.0);;
+> let area = snd(circle_props 5.0);;
 val area : float = 78.5
 ```
 
