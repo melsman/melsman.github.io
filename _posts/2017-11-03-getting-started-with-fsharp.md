@@ -403,7 +403,7 @@ val area : float = 78.5
 ## Recursive Functions
 
 Let us consider how we could write a function that adds up the numbers
-between 1 and 100. Clearly, we do not write up an expression
+between 1 and 100. Clearly, we do not want to write up an expression
 `1+2+3+...+100`. Even if this approach would work for summing up the
 values between 1 and 100, what if someone asked us to add up the
 numbers between 1 and 1000? Instead, we somehow need a way to repeat
@@ -424,12 +424,11 @@ simply functions that call themselves.
 
 Now consider again the task of writing a function that sums the
 integers between 0 and 100. Here is a recursive F# function that does
-the job for any integer argument `n`:
+the job for integers between 0 and a positive given argument `n`:
 
 ```fsharp
-> let rec sum n =
-    if n <= 0 then 0
-    else n + sum (n-1);;
+> let rec sum n = if n <= 0 then 0
+                  else n + sum (n-1);;
 val sum : n:int -> int
 ```
 
@@ -441,8 +440,8 @@ function in more detail. If the function is called with an argument of
 easily check:
 
 ```fsharp
-> let sum0 = sum 0;;
-val sum0 : int = 0
+> sum 0;;
+val it : int = 0
 ```
 
 However, if the function is called with the argument `1`, the
@@ -516,13 +515,13 @@ executed using the `mono` program:
 Notice the effects of the last two lines of the program. These lines
 print the results of evaluating the expressions `sum 0` and `sum 10`
 to the output. In each of the lines, the function `printfn` is
-evaluated to have an effect, which is to print a value to the programs
+evaluated to have an effect, which is to print a value to the program's
 standard output. The function also prints the special new line
 character `\n`, which has the effect that the terminal program will
 show the two numbers on separate lines. The first argument to the
 `printfn` function is a so-called _format string_, which, in this
-case, specifies that value should be printed using F#'s internal value
-formatter.
+case, specifies that the value should be printed using F#'s internal
+value formatter.
 
 ## Reading Input Lines
 
