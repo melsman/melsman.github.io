@@ -460,7 +460,7 @@ two arguments, a float `a` and an integer `n`, and computes the value
 `a^n`. That is, it should compute the value `1.0*a*a*...*a`, with `n`
 multiplications. Test your function on a number of input
 values. Notice that calling the function with the arguments `2.0` and
-`0` should result in the value `0.0` and calling the function with the
+`0` should result in the value `1.0` and calling the function with the
 arguments `3.0` and `4` should result in the value produced by the
 expression `1.0*3.0*3.0*3.0*3.0`._
 
@@ -689,7 +689,7 @@ interpreter for the turtle EDSL that converts instructions into bitmap
 lines, which can be shown on a canvas.
 
 1. [Stacks, Queues, and Rekursion Revisited](/fsharp/lecture_type3.pdf).
-We give a solution to the classical _maximum secment sum_ problem,
+We give a solution to the classical _maximum segment sum_ problem,
 using recursion. We also define interfaces for stacks and queues and
 provide efficient implementations of both.
 
@@ -708,6 +708,6 @@ traversal, and provide F# implementations of them all.
 We show how we can define the concept of expression trees (of one
 variable) in F# using a simple, recursively defined, discriminated
 union type. We demonstrate how we can generate LaTeX code for such
-expressions and how we can completely defined, using high-school math
+expressions and how we can completely define, using high-school math
 rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
