@@ -632,7 +632,7 @@ and arrays, recursion in depth, type-full programming with records and
 discriminated unions, and, finally, the topic of higher-order
 functional programming (to come). All of the examples given in the
 slides can be compiled and executed under Mono (you need to copy the
-code from the slides, though). Some of the examples utilizes the
+code from the slides, though). Some of the examples utilize the
 `ImgUtil` library, which is comprised by an
 [img_util.fsi](/fsharp/img_util/img_util.fsi) file (an interface file)
 and the implementation file
@@ -711,3 +711,7 @@ union type. We demonstrate how we can generate LaTeX code for such
 expressions and how we can completely define, using high-school math
 rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Getting Started with FSharp</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.elsman.com/lessons/2017/11/03/getting-started-with-fsharp" property="cc:attributionName" rel="cc:attributionURL">Martin Elsman</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
