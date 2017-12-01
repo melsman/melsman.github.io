@@ -712,6 +712,40 @@ expressions and how we can completely define, using high-school math
 rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
 
+1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf). We revisit the
+definition of functions in F# and give a proper foundation in terms of
+the notion of closures. We give examples of how higher-order functions
+allow for functions to receive functions as parameters and how
+functions can also be returned as the result of calling a function. We
+define the notions of _currying_ and _partial applications_, and we
+give an extensive example of how functions can be used to define
+so-called _functional images_.
+
+1. [Exceptions](/fsharp/lecture_exn.pdf). We introduce the concept of
+exceptions and present the difference between exception values and the
+concept of raising an exception. We describe how exceptions can be
+handled at different levels in a program and give an alternative model
+for programming with errors based on Yoda's statement that "there is no _try_;
+either you _do_ or you _don't_".
+
+1. [Input and Output](/fsharp/lecture_io.pdf). In this lecture, we
+describe how F# programs may interact with the console (e.g., the
+terminal) through command-line arguments and by reading from `stdin`
+and by writing to `stdout` and `stderr`. We also demonstrate how
+programs may read and write to files and how we can perform HTTP
+requests to servers on the internet asking for web-page content. As an
+example, we demonstrate how we can apply the concept of regular
+expressions to extract the FX rate from a web-site and use it in an F#
+application.
+
+1. [Parsing with Higher-Order Functions](/fsharp/lecture_parse.pdf). We present the concepts of
+lexing and parsing and demonstrate how we can make use of the concept
+of higher-order functions to define the notion of parser
+combinators. We demonstrate how the parser combinators can be used to
+define parsers for expression trees and turtle-graphics commands that
+each will convert strings of characters to manageable F# data
+structures.
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Getting Started with FSharp</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.elsman.com/lessons/2017/11/03/getting-started-with-fsharp" property="cc:attributionName" rel="cc:attributionURL">Martin Elsman</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
