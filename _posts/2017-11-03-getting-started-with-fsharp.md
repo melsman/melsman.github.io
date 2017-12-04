@@ -716,6 +716,7 @@ rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
 
 1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf). We revisit the
+<img align='right' width='150px' src='/images/mystique.png'/>
 definition of functions in F# and give a proper foundation in terms of
 the notion of closures. We give examples of how higher-order functions
 allow for functions to receive functions as parameters and how
@@ -723,7 +724,6 @@ functions can also be returned as the result of calling a function. We
 define the notions of _currying_ and _partial applications_, and we
 give an extensive example of how functions can be used to define
 so-called _functional images_.
-<img width='200px' src='/images/mystique.png'/>
 
 1. [Exceptions](/fsharp/lecture_exn.pdf). We introduce the concept of
 exceptions and present the difference between exception values and the
