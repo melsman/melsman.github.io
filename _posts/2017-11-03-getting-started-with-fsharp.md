@@ -6,7 +6,7 @@ tags : [Fsharp,functional programming]
 ---
 {% include JB/setup %}
 
-__An introduction followed up by 15 lectures on the functional aspects of F#__
+__An introduction followed by 15 lectures on the functional aspects of F#__
 
 _(by Martin Elsman)_
 
@@ -666,7 +666,7 @@ routines over lists of integers. The sorting routines include bubble
 sort, insertion sort, selection sort, merge sort and quick sort.
 
 1. [Recursion, Games, and Drawing](/fsharp/lecture_rec3.pdf).
-<img align='right' width='103px' src='/images/square_triangle_3.png' style='padding:20'/>
+<img align='right' width='103px' src='/images/square_triangle_3.png' style='padding:20px;'/>
 We demonstrate how we can implement functionality (rules) that allow for
 a human to play the "Towers of Hanoi" game in the F# shell. We then
 present the hanoi algorithm, which allows the computer to play (and
@@ -681,7 +681,7 @@ programmer may use the concept of pattern-matching to, for instance,
 define functions over lists.
 
 1. [Discriminated Unions and a Turtle EDSL](/fsharp/lecture_type2.pdf).
-<img align='right' width='180px' src='/images/tree.png' style='padding:20'/>
+<img align='right' width='180px' src='/images/tree.png' style='padding:20px;'/>
 We present
 the concept of discriminated unions and show how a programmer may
 implement a small Turtle EDSL (Embedded Domain Specific Language),
@@ -717,7 +717,7 @@ rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
 
 1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf).
-<img align='right' width='200px' src='/images/mystique.png' style='padding:20'/>
+<img align='right' width='200px' src='/images/mystique.png' style='padding:20px;'/>
 We revisit the
 definition of functions in F# and give a proper foundation in terms of
 the notion of closures. We give examples of how higher-order functions
