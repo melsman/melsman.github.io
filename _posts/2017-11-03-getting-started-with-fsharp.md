@@ -6,6 +6,8 @@ tags : [Fsharp,functional programming]
 ---
 {% include JB/setup %}
 
+__An introduction followed up by 15 lectures on the functional aspects of F#__
+
 _(by Martin Elsman)_
 
 F# is a programming language aimed at executing programs on the .NET
@@ -19,7 +21,7 @@ last but not least, a large varity of mobile platforms out there.
 We will, essentially, be using a number of open-source tools. The most
 essential tool is the _terminal program_, which allows the developer
 to navigate around the file system and to execute commands, which
-includes compiling and executing programs.
+includes compiling and executing F# programs.
 
 Next, we will assume that the user has installed an editor on the
 machine. Whereas, many different editors exist, we will recommend
@@ -107,7 +109,6 @@ Similarly, other operations on integers are available as well:
 
 ```fsharp
 val (-) : int -> int -> int
-val (*) : int -> int -> int
 val (/) : int -> int -> int
 val abs : int -> int
 val max : int -> int -> int
@@ -671,6 +672,7 @@ present the hanoi algorithm, which allows the computer to play (and
 win) the game for any number of pegs, by applying a recursive
 algorithm. We also show how we can use recursion to draw simple
 fractals on a canvas using the [ImgUtil](/fsharp/img_util) library.
+<img width='200px' src='/images/square_triangle_3.png'/>
 
 1. [Types and Pattern Matching](/fsharp/lecture_type1.pdf). We present
 the concept of types in more details and show how F# allows the
@@ -687,6 +689,7 @@ can be used to generate instructions for drawing complex fractals. We
 also demonstrate how the drawings can be effectuated by writing an
 interpreter for the turtle EDSL that converts instructions into bitmap
 lines, which can be shown on a canvas.
+<img width='200px' src='/images/tree.png'/>
 
 1. [Stacks, Queues, and Rekursion Revisited](/fsharp/lecture_type3.pdf).
 We give a solution to the classical _maximum segment sum_ problem,
@@ -720,6 +723,7 @@ functions can also be returned as the result of calling a function. We
 define the notions of _currying_ and _partial applications_, and we
 give an extensive example of how functions can be used to define
 so-called _functional images_.
+<img width='200px' src='/images/mystique.png'/>
 
 1. [Exceptions](/fsharp/lecture_exn.pdf). We introduce the concept of
 exceptions and present the difference between exception values and the
