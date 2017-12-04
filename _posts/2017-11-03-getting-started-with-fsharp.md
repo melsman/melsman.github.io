@@ -665,6 +665,7 @@ recursive programming through the definition of a number of sorting
 routines over lists of integers. The sorting routines include bubble
 sort, insertion sort, selection sort, merge sort and quick sort.
 
+<img align='right' width='200px' src='/images/square_triangle_3.png' padding='20'/>
 1. [Recursion, Games, and Drawing](/fsharp/lecture_rec3.pdf). We
 demonstrate how we can implement functionality (rules) that allow for
 a human to play the "Towers of Hanoi" game in the F# shell. We then
@@ -672,7 +673,6 @@ present the hanoi algorithm, which allows the computer to play (and
 win) the game for any number of pegs, by applying a recursive
 algorithm. We also show how we can use recursion to draw simple
 fractals on a canvas using the [ImgUtil](/fsharp/img_util) library.
-<img width='200px' src='/images/square_triangle_3.png'/>
 
 1. [Types and Pattern Matching](/fsharp/lecture_type1.pdf). We present
 the concept of types in more details and show how F# allows the
@@ -680,6 +680,7 @@ programmer to declare, even generic, type abbreviations and how a
 programmer may use the concept of pattern-matching to, for instance,
 define functions over lists.
 
+<img align='right' width='200px' src='/images/tree.png' padding='20'/>
 1. [Discriminated Unions and a Turtle EDSL](/fsharp/lecture_type2.pdf). We present
 the concept of discriminated unions and show how a programmer may
 implement a small Turtle EDSL (Embedded Domain Specific Language),
@@ -689,7 +690,6 @@ can be used to generate instructions for drawing complex fractals. We
 also demonstrate how the drawings can be effectuated by writing an
 interpreter for the turtle EDSL that converts instructions into bitmap
 lines, which can be shown on a canvas.
-<img width='200px' src='/images/tree.png'/>
 
 1. [Stacks, Queues, and Rekursion Revisited](/fsharp/lecture_type3.pdf).
 We give a solution to the classical _maximum segment sum_ problem,
@@ -715,7 +715,7 @@ expressions and how we can completely define, using high-school math
 rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
 
-<img align='right' width='150px' src='/images/mystique.png'/>
+<img align='right' width='200px' src='/images/mystique.png' padding='20'/>
 1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf). We revisit the
 definition of functions in F# and give a proper foundation in terms of
 the notion of closures. We give examples of how higher-order functions
