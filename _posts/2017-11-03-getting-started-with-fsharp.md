@@ -105,14 +105,16 @@ val (+) : int -> int -> int
 
 Similarly, other operations on integers are available as well:
 
-```fsharp
+<pre>
+<code class="fsharp">
 val (-) : int -> int -> int
 val (*) : int -> int -> int
 val (/) : int -> int -> int
 val abs : int -> int
 val max : int -> int -> int
 val min : int -> int -> int
-```
+</code
+</pre>
 
 **Exercise 1:** _Play around with various expressions in the
 `fsharpi` program and evaluate the result of computing the number of
