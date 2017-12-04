@@ -665,9 +665,9 @@ recursive programming through the definition of a number of sorting
 routines over lists of integers. The sorting routines include bubble
 sort, insertion sort, selection sort, merge sort and quick sort.
 
-<img align='right' width='103px' src='/images/square_triangle_3.png' style='padding:"20px"'/>
-1. [Recursion, Games, and Drawing](/fsharp/lecture_rec3.pdf). We
-demonstrate how we can implement functionality (rules) that allow for
+1. [Recursion, Games, and Drawing](/fsharp/lecture_rec3.pdf).
+<img align='right' width='103px' src='/images/square_triangle_3.png' style='padding:20'/>
+We demonstrate how we can implement functionality (rules) that allow for
 a human to play the "Towers of Hanoi" game in the F# shell. We then
 present the hanoi algorithm, which allows the computer to play (and
 win) the game for any number of pegs, by applying a recursive
@@ -680,8 +680,9 @@ programmer to declare, even generic, type abbreviations and how a
 programmer may use the concept of pattern-matching to, for instance,
 define functions over lists.
 
-<img align='right' width='180px' src='/images/tree.png' style='padding:"20px"'/>
-1. [Discriminated Unions and a Turtle EDSL](/fsharp/lecture_type2.pdf). We present
+1. [Discriminated Unions and a Turtle EDSL](/fsharp/lecture_type2.pdf).
+<img align='right' width='180px' src='/images/tree.png' style='padding:20'/>
+We present
 the concept of discriminated unions and show how a programmer may
 implement a small Turtle EDSL (Embedded Domain Specific Language),
 which allows for specifying simple turtle movements and drawings. We
@@ -715,8 +716,9 @@ expressions and how we can completely define, using high-school math
 rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
 
-<img align='right' width='200px' src='/images/mystique.png' style='padding:"20px"'/>
-1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf). We revisit the
+1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf).
+<img align='right' width='200px' src='/images/mystique.png' style='padding:20'/>
+We revisit the
 definition of functions in F# and give a proper foundation in terms of
 the notion of closures. We give examples of how higher-order functions
 allow for functions to receive functions as parameters and how
