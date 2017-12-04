@@ -715,8 +715,8 @@ expressions and how we can completely define, using high-school math
 rules, how such expressions are differentiated. An expression
 simplifier makes for prettier printing of results.
 
-1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf). We revisit the
 <img align='right' width='150px' src='/images/mystique.png'/>
+1. [Higher-Order Functions](/fsharp/lecture_fun1.pdf). We revisit the
 definition of functions in F# and give a proper foundation in terms of
 the notion of closures. We give examples of how higher-order functions
 allow for functions to receive functions as parameters and how
