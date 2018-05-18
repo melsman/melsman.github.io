@@ -91,7 +91,7 @@ I am a (co-)designer and (co-)developer of the following tools:
 
 * [Futhark](https://futhark-lang.org/). A purely functional
 data-parallel language targeting GPGPUs
-[2014b, 2015, 2015a, 2016, 2016a, 2017]. Futhark is a statically typed,
+[2014b, 2015, 2015a, 2016, 2016a, 2017, 2018]. Futhark is a statically typed,
 data-parallel, and purely functional array language in the ML
 family. It comes with a heavily optimising ahead-of-time compiler that
 generates efficient GPU code via OpenCL, using a number of fusion- and
@@ -185,7 +185,7 @@ highly motivated professors and students in the development and use of
 new compiler technology. The techniques developed in my Ph.D. thesis
 are used in the MLKit [2002c].
 
-As a part of my Ph.D. program, I have spent seven months (from January
+As part of my Ph.D. program, I spent seven months (from January
 to August 1997) at Cornell University, New York, USA. Here, I worked
 with Assistant Professor Greg Morrisett and with people from Carnegie
 Mellon University on the development of a system for separate
@@ -235,6 +235,12 @@ applications.
 #### Teaching
 
 I have taught the following courses:
+
+
+* Programming and Problem Solving in F# (BSc intro course). University of
+  Copenhagen, DIKU. One third of course. Fall 2017.
+
+* Parallel Functional Programming. University of Copenhagen, DIKU. Course Responsible. Fall 2017.
 
 * Parallel Functional Programming. University of Copenhagen, DIKU. Course Responsible. Fall 2016.
 
@@ -306,11 +312,11 @@ HOSC, JFP, and TOPLAS. I have served on the programme committees for
 the 2008 International Conference on Compiler Construction (CC'08),
 the 2007 Nordic Workshop on Secure IT Systems (NordSec'07), the 2005
 ACM SIGPLAN Workshop on ML (ML'05), held in Tallinn, Estonia,
-September 2005. I have also served as programme co-chair for the 2006
+September 2005, ARRAY'17, and ICFP'18. I have also served as programme co-chair for the 2006
 ACM Workshop on Semantics, Program Analysis, and Computing
 Environments for Memory Management (SPACE'06), held in South Carolina,
 January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
-on Libraries, Languages and Compilers for Programming (ARRAY'2016).
+on Libraries, Languages and Compilers for Array Programming (ARRAY'2016).
 
 #### PhD Students
 
@@ -322,10 +328,11 @@ on Libraries, Languages and Compilers for Programming (ARRAY'2016).
 
 #### Publications
 
+* [2018] Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin Oancea. Static Interpretation of Higher-Order Modules in Futhark. In Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018.
+
 * [2017a] Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, Omri
 Ross. Automated Execution of Financial Contracts on Blockchains. In
-Journal of Business and Information Systems Engineering. To
-appear. 2017.
+Journal of Business and Information Systems Engineering (BISE). Nov 2017.
 
 * [2017] Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz
 Henglein, and Cosmin Oancea. Futhark: Purely Functional
