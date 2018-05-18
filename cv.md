@@ -328,7 +328,7 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'2016).
 
 #### Publications
 
-* [2018] Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin Oancea. Static Interpretation of Higher-Order Modules in Futhark. In Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018.
+* [2018] Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin Oancea. Static Interpretation of Higher-Order Modules in Futhark. In Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18). St. Louis, Missouri, USA. September 2018.
 
 * [2017a] Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, Omri
 Ross. Automated Execution of Financial Contracts on Blockchains. In
