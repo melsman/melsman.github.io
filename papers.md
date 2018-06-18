@@ -186,6 +186,8 @@ optimising intermediate language programs in the MLKit compiler. [pdf](/pdf/opti
 
 ### Position Papers
 
+* Sune Lundtoft (Finansforbundet), Josefine Boel Rasmussen (Finansforbundet), Kent Petersen (Finansforbundet), Magnus Balslev Jensen (FTF), Thomas Krogh Jensen (Copenhagen Fintech Lab), Lisa Herold Ferbing (DJØF), Rune Mai (Spiir), Troels Holmberg (Forbrugerrådet TÆNK), Martin Elsman (KU), Simon Haldrup (Danske Bank), Anders Hvid (DareDisrupt), Sune Maegaard Løvsø (IDA), Christian Olesen (IDA). __Fintech i Fremtidens Danmark - muligheder og udfordringer__. Sirikommisionen. In Danish. June 2018. [PDF](pdf/Fintech-rapport-2018-06.pdf)
+
 * Anja Thoe Fuglsang, Dorthe Dahl-Jensen, Kell Mortensen, Lotte Holm,
 Lotte Lauritzen, Martin Elsman, Michael Lisby, and Tove Enggrob
 Boon. __SCIENCE Position paper on the ninth EU Research Framework Programme (FP9)__. SCIENCE, University of Copenhagen. June 2017. [PDF](/pdf/UCPH-SCIENCE-position-paper-on-ninth-EU-framework-programme.pdf).
