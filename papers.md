@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin Oancea. __Static Interpretation of Higher-Order Modules in Futhark__. In _Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018.
+* Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin Oancea. __Static Interpretation of Higher-Order Modules in Futhark__. In _Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/icfp18-futhark-modules.pdf).
 
 * Danil Annenkov and Martin Elsman. __Certified Compilation of Financial Contracts__. In _Proceedings of the 20th International Symposium on Principles and Practice of Declarative Programming (PPDP'18)_. Frankfurt am Main, Germany. September 2018.
 
