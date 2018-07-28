@@ -108,7 +108,7 @@ TOPLAS. I have served on the programme committees for the 2008
 International Conference on Compiler Construction (CC'08), the 2007
 Nordic Workshop on Secure IT Systems (NordSec'07), the 2005 ACM
 SIGPLAN Workshop on ML (ML'05), held in Tallinn, Estonia, September
-2005, and on ARRAY'2017. I have also served as programme co-chair for
+2005, on ARRAY'2017, and on ICFP'18. I have also served as programme co-chair for
 the 2006 ACM Workshop on Semantics, Program Analysis, and Computing
 Environments for Memory Management (SPACE'06), held in South Carolina,
 January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop

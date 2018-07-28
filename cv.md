@@ -91,7 +91,7 @@ I am a (co-)designer and (co-)developer of the following tools:
 
 * [Futhark](https://futhark-lang.org/). A purely functional
 data-parallel language targeting GPGPUs
-[2014b, 2015, 2015a, 2016, 2016a, 2017, 2018]. Futhark is a statically typed,
+[2014b, 2015, 2015a, 2016, 2016a, 2017, 2018a, 2018b]. Futhark is a statically typed,
 data-parallel, and purely functional array language in the ML
 family. It comes with a heavily optimising ahead-of-time compiler that
 generates efficient GPU code via OpenCL, using a number of fusion- and
@@ -141,7 +141,7 @@ Standard ML.
 
 Through the HIPERFIT research center, I am also currently working on
 techniques for specifying and managing financial contracts
-[2015c, 2016c], in particular, in the context of blockchain technology [2017a].
+[2015c, 2016c, 2018], in particular, in the context of blockchain technology [2017a].
 
 I have also participated in a research project on bigraphical
 programming languages, which aims at modeling and controling
@@ -322,13 +322,17 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'2016).
 
 * Martin Dybdal (finished August 2017)
 
-* Danil Annenkov (finishing October 2017)
+* Danil Annenkov (finished October 2017)
 
 * Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
 
 #### Publications
 
-* [2018] Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin Oancea. Static Interpretation of Higher-Order Modules in Futhark. In Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18). St. Louis, Missouri, USA. September 2018.
+* [2018b] Troels Henriksen, Martin Elsman, and Cosmin E. Oancea.  Modular Acceleration: Tricky Cases of Functional High-Performance Computing.  In Proceedings of the 6th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '18). St. Louis, Missouri, USA. September 2018.
+
+* [2018a] Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin E. Oancea. Static Interpretation of Higher-Order Modules in Futhark. In Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18). St. Louis, Missouri, USA. September 2018.
+
+* [2018] Danil Annenkov and Martin Elsman. Certified Compilation of Financial Contracts. In Proceedings of the 20th International Symposium on Principles and Practice of Declarative Programming (PPDP'18). Frankfurt am Main, Germany. September 2018.
 
 * [2017a] Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, Omri
 Ross. Automated Execution of Financial Contracts on Blockchains. In
