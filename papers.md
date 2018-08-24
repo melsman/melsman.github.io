@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman, Philip Munksgaard, and Ken Friis Larsen. __Experience Report: Type-Safe Multi-Tier Programming with Standard ML Modules__. In _Proceedings of the ML Family Workshop (ML '18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/final-ml18.pdf).
+
 * Troels Henriksen, Martin Elsman, and Cosmin E. Oancea.  __Modular Acceleration: Tricky Cases of Functional High-Performance Computing__.  In _Proceedings of the 6th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '18)_. St. Louis, Missouri, USA. September 2018.
 
 * Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin E. Oancea. __Static Interpretation of Higher-Order Modules in Futhark__. In _Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/icfp18-futhark-modules.pdf).
