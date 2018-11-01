@@ -24,7 +24,7 @@ group: navigation
 
 * Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [PDF](/pdf/fhpc16futhark.pdf).
 
-* Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and Cosmin E. Oancea. __FinPar: A Parallel Financial Benchmark__. In _ACM Transactions on Architecture and Code Optimization (TACO)_. Volume 13, Issue 2, Article 18. 27 pages. June 2016. [DOI](http://dx.doi.org/10.1145/2898354). (Preliminary version appeared at CPC'15).
+* Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and Cosmin E. Oancea. __FinPar: A Parallel Financial Benchmark__. In _ACM Transactions on Architecture and Code Optimization (TACO)_. Volume 13, Issue 2, Article 18. 27 pages. June 2016. [DOI](http://dx.doi.org/10.1145/2898354). (Preliminary version appeared at CPC'15). [PDF](/pdf/a18-andreetta.pdf).
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the 2015 ACM SIGPLAN International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September 2015. [PDF](/pdf/icfp15-contracts-final.pdf).
 
