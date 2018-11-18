@@ -97,10 +97,7 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 ### Technical Reports
 
-* Martin Elsman, Troels Henriksen, and Cosmin Oancea. __Parallel
-Programming in Futhark__. Edition 0.8. Department of Computer Science,
-University of Copenhagen. November 2018. [pdf](/pdf/futhark-book-0.8.0.pdf),
-[bibtex](/pdf/futhark-book.bibtex.txt).
+* Martin Elsman, Troels Henriksen, and Cosmin Oancea. __Parallel Programming in Futhark__. Edition 0.8. Department of Computer Science, University of Copenhagen. November 2018. [pdf](/pdf/futhark-book-0.8.0.pdf), [bibtex](/pdf/futhark-book.bibtex.txt), [latest-pdf](https://media.readthedocs.org/pdf/futhark-book/latest/futhark-book.pdf), [latest-html](https://futhark-book.readthedocs.io/en/latest/).
 
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
