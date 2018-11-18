@@ -97,6 +97,11 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 ### Technical Reports
 
+* Martin Elsman, Troels Henriksen, and Cosmin Oancea. __Parallel
+Programming in Futhark__. Edition 0.8. Department of Computer Science,
+University of Copenhagen. November 2018. [pdf](/pdf/futhark-book-0.8.0.pdf),
+[bibtex](/pdf/futhark-book.bibtex.txt).
+
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
 Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283.

@@ -1,0 +1,8 @@
+@book{ParallelProgrammingInFuthark,
+ author = {Martin Elsman and Troels Henriksen and Cosmin E. Oancea},
+ title = {Parallel Programming in Futhark},
+ year = {2018},
+ month = {November},
+ publisher = {DIKU},
+ url = "https://futhark-book.readthedocs.io"
+}
