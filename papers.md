@@ -14,6 +14,8 @@ group: navigation
 
 * Danil Annenkov and Martin Elsman. __Certified Compilation of Financial Contracts__. In _Proceedings of the 20th International Symposium on Principles and Practice of Declarative Programming (PPDP'18)_. Frankfurt am Main, Germany. September 2018. [PDF](/pdf/annenkov-elsman-ppdp18.pdf).
 
+* Anders Kiel Hovgaard, Troels Henriksen, and Martin Elsman. __High-Performance Defunctionalisation in Futhark__. In _Trends in Functional Programming (TFP '18)_. Gothenburg, Sweden. June 2018. [PDF](/pdf/tfp18.pdf).
+
 * Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, and Omri Ross. __Automated Execution of Financial Contracts on Blockchains__. In _Journal of Business and Information Systems Engineering (BISE)_. Nov 2017. [PDF](/pdf/autocontracts.pdf).
 
 * Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the 2017 ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI'17)_. Barcelona, Spain. June 2017. [PDF](/pdf/pldi17.pdf).
