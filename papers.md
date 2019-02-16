@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Troels Henriksen, Frederik Thorøe, Martin Elsman, and Cosmin Oancea. __Incremental Flattening for Nested Data Parallelism__. In _Proceedings of the 24th Symposium on Principles and Practice of Parallel Programming (PPoPP '19)_. Washington, DC, USA. February 2019. [PDF](/pdf/ppopp19.pdf).
+
 * Martin Elsman, Philip Munksgaard, and Ken Friis Larsen. __Experience Report: Type-Safe Multi-Tier Programming with Standard ML Modules__. In _Proceedings of the ML Family Workshop (ML '18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/final-ml18.pdf).
 
 * Troels Henriksen, Martin Elsman, and Cosmin E. Oancea.  __Modular Acceleration: Tricky Cases of Functional High-Performance Computing__.  In _Proceedings of the 6th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/fhpc18.pdf).
