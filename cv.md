@@ -91,7 +91,7 @@ I am a (co-)designer and (co-)developer of the following tools:
 
 * [Futhark](https://futhark-lang.org/). A purely functional
 data-parallel language targeting GPGPUs
-[2014b, 2015, 2015a, 2016, 2016a, 2017, 2018a, 2018b]. Futhark is a statically typed,
+[2014b, 2015, 2015a, 2016, 2016a, 2017, 2018a, 2018b, 2019]. Futhark is a statically typed,
 data-parallel, and purely functional array language in the ML
 family. It comes with a heavily optimising ahead-of-time compiler that
 generates efficient GPU code via OpenCL, using a number of fusion- and
@@ -111,11 +111,11 @@ Standard ML and has support for calling JavaScript functions and for
 executing JavaScript statements. It also allows for type safe
 integration with SMLserver using, for instance, XML-RPC; see
 below. SMLtoJs may compile itself - the result is [a Standard ML
-compiler running in a browser](http://www.smlserver.org/ide) [2011].
+compiler running in a browser](http://www.smlserver.org/ide) [2011, 2018c].
 
 * [SMLserver](http://www.smlserver.org). An efficient multi-threaded
 Web server platform for Standard ML programs
-[2004, 2003b, 2002, 2002b]. The aim of the SMLserver project has been to
+[2002, 2002b, 2003b, 2004, 2018c]. The aim of the SMLserver project has been to
 push advanced programming concepts, such as higher-order functions and
 polymorphic type systems, to the context of Web applications. The
 development of SMLserver has been driven by practical needs. SMLserver
@@ -139,7 +139,7 @@ Standard ML.
 
 * Carillon. A tool to find Y2K problems in C programs [1999a].
 
-Through the HIPERFIT research center, I am also currently working on
+In the context of the HIPERFIT research center, I have also worked on
 techniques for specifying and managing financial contracts
 [2015c, 2016c, 2018], in particular, in the context of blockchain technology [2017a].
 
@@ -192,12 +192,10 @@ Mellon University on the development of a system for separate
 compilation in the TIL (Typed Intermediate Languages) Standard ML
 compiler.
 
-During my Ph.D. program, I have gained experience in teaching courses
+During my Ph.D. program, I gained experience in teaching courses
 for Master's degree students in the areas of type theory, compilation
 techniques for module languages, and techniques for type-based program
-optimisation.
-
-My Ph.D. work has resulted in a series of papers and reports
+optimisation. My Ph.D. work resulted in a series of papers and reports
 [1999, 1999b, 2002c, 1998].
 
 #### Research Programmer
@@ -236,6 +234,10 @@ applications.
 
 I have taught the following courses:
 
+* Programming and Problem Solving in F# (BSc intro course). University of
+  Copenhagen, DIKU. One third of course. Fall 2018.
+
+* Parallel Functional Programming. University of Copenhagen, DIKU. Course Responsible. Fall 2018.
 
 * Programming and Problem Solving in F# (BSc intro course). University of
   Copenhagen, DIKU. One third of course. Fall 2017.
@@ -316,7 +318,7 @@ September 2005, ARRAY'17, and ICFP'18. I have also served as programme co-chair 
 ACM Workshop on Semantics, Program Analysis, and Computing
 Environments for Memory Management (SPACE'06), held in South Carolina,
 January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
-on Libraries, Languages and Compilers for Array Programming (ARRAY'2016).
+on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### PhD Students
 
@@ -327,6 +329,10 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'2016).
 * Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
 
 #### Publications
+
+* [2019] Troels Henriksen, Frederik Thorøe, Martin Elsman, and Cosmin Oancea. Incremental Flattening for Nested Data Parallelism. In Proceedings of the 24th Symposium on Principles and Practice of Parallel Programming (PPoPP '19). Washington, DC, USA. February 2019.
+
+* [2018c] Martin Elsman, Philip Munksgaard, and Ken Friis Larsen. Experience Report: Type-Safe Multi-Tier Programming with Standard ML Modules. In ML Family Workshop (ML '18). St. Louis, Missouri, USA. September 2018.
 
 * [2018b] Troels Henriksen, Martin Elsman, and Cosmin E. Oancea.  Modular Acceleration: Tricky Cases of Functional High-Performance Computing.  In Proceedings of the 6th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '18). St. Louis, Missouri, USA. September 2018.
 
