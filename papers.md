@@ -6,61 +6,63 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman, Troels Henriksen, and Niels G. W. Serup. __Data-Parallel Flattening by Expansion__. In _Proceedings of the 6th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '19)_. Phoenix, AZ, USA. June, 2019. [PDF](/pdf/array19.pdf).
+
 * Troels Henriksen, Frederik Thorøe, Martin Elsman, and Cosmin Oancea. __Incremental Flattening for Nested Data Parallelism__. In _Proceedings of the 24th Symposium on Principles and Practice of Parallel Programming (PPoPP '19)_. Washington, DC, USA. February 2019. [PDF](/pdf/ppopp19.pdf).
 
 * Martin Elsman, Philip Munksgaard, and Ken Friis Larsen. __Experience Report: Type-Safe Multi-Tier Programming with Standard ML Modules__. In _Proceedings of the ML Family Workshop (ML '18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/final-ml18.pdf).
 
 * Troels Henriksen, Martin Elsman, and Cosmin E. Oancea.  __Modular Acceleration: Tricky Cases of Functional High-Performance Computing__.  In _Proceedings of the 6th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/fhpc18.pdf).
 
-* Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin E. Oancea. __Static Interpretation of Higher-Order Modules in Futhark__. In _Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/icfp18-futhark-modules.pdf).
+* Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin E. Oancea. __Static Interpretation of Higher-Order Modules in Futhark__. In _Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP '18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/icfp18-futhark-modules.pdf).
 
-* Danil Annenkov and Martin Elsman. __Certified Compilation of Financial Contracts__. In _Proceedings of the 20th International Symposium on Principles and Practice of Declarative Programming (PPDP'18)_. Frankfurt am Main, Germany. September 2018. [PDF](/pdf/annenkov-elsman-ppdp18.pdf).
+* Danil Annenkov and Martin Elsman. __Certified Compilation of Financial Contracts__. In _Proceedings of the 20th International Symposium on Principles and Practice of Declarative Programming (PPDP '18)_. Frankfurt am Main, Germany. September 2018. [PDF](/pdf/annenkov-elsman-ppdp18.pdf).
 
 * Anders Kiel Hovgaard, Troels Henriksen, and Martin Elsman. __High-Performance Defunctionalisation in Futhark__. In _Trends in Functional Programming (TFP '18)_. Gothenburg, Sweden. June 2018. [PDF](/pdf/tfp18.pdf).
 
 * Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, and Omri Ross. __Automated Execution of Financial Contracts on Blockchains__. In _Journal of Business and Information Systems Engineering (BISE)_. Nov 2017. [PDF](/pdf/autocontracts.pdf).
 
-* Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the 2017 ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI'17)_. Barcelona, Spain. June 2017. [PDF](/pdf/pldi17.pdf).
+* Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the 2017 ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI '17)_. Barcelona, Spain. June 2017. [PDF](/pdf/pldi17.pdf).
 
-* Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/))_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPTPayoffLang.pdf).
+* Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT '16](http://nwpt2016.cs.aau.dk/))_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPTPayoffLang.pdf).
 
-* Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16). [PDF](/pdf/fhpc16fcl.pdf).
+* Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC '16). [PDF](/pdf/fhpc16fcl.pdf).
 
-* Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [PDF](/pdf/fhpc16futhark.pdf).
+* Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '16)_. Nara, Japan. September, 2016. [PDF](/pdf/fhpc16futhark.pdf).
 
-* Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and Cosmin E. Oancea. __FinPar: A Parallel Financial Benchmark__. In _ACM Transactions on Architecture and Code Optimization (TACO)_. Volume 13, Issue 2, Article 18. 27 pages. June 2016. [DOI](http://dx.doi.org/10.1145/2898354). (Preliminary version appeared at CPC'15). [PDF](/pdf/a18-andreetta.pdf).
+* Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and Cosmin E. Oancea. __FinPar: A Parallel Financial Benchmark__. In _ACM Transactions on Architecture and Code Optimization (TACO)_. Volume 13, Issue 2, Article 18. 27 pages. June 2016. [DOI](http://dx.doi.org/10.1145/2898354). (Preliminary version appeared at CPC '15). [PDF](/pdf/a18-andreetta.pdf).
 
-* Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the 2015 ACM SIGPLAN International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September 2015. [PDF](/pdf/icfp15-contracts-final.pdf).
+* Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the 2015 ACM SIGPLAN International Conference on Functional Programming (ICFP '15)_. Vancouver, Canada. September 2015. [PDF](/pdf/icfp15-contracts-final.pdf).
 
 * Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop
-on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015. [PDF](/pdf/Array15BuddeDybdalElsman.pdf).
+on Libraries, Languages and Compilers for Array Programming (ARRAY '15)_. Portland, Oregon, USA. June, 2015. [PDF](/pdf/Array15BuddeDybdalElsman.pdf).
 
-* Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. Halmstad, SE. October, 2014. [PDF](/pdf/NWPT14Contracts.pdf).
+* Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT '14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. Halmstad, SE. October, 2014. [PDF](/pdf/NWPT14Contracts.pdf).
 
-* Troels Henriksen, Martin Elsman, and Cosmin E. Oancea. __Size Slicing - A Hybrid Approach to Size Inference in Futhark__. In _Proceedings of the 3rd ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'14)_. Guthenburg, SE. September, 2014. [PDF](/pdf/fhpc14.pdf).
+* Troels Henriksen, Martin Elsman, and Cosmin E. Oancea. __Size Slicing - A Hybrid Approach to Size Inference in Futhark__. In _Proceedings of the 3rd ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '14)_. Guthenburg, SE. September, 2014. [PDF](/pdf/fhpc14.pdf).
 
 * Martin Elsman and Martin Dybdal. __Compiling a Subset of APL Into a
 Typed Intermediate Language__. In _ACM SIGPLAN International Workshop
 on Libraries, Languages and Compilers for Array Programming
-(ARRAY'14)_. Edinburgh, UK. June, 2014. [pdf](/pdf/array14_final.pdf), [bibtex](/pdf/array14_final.bibtex.txt).
+(ARRAY '14)_. Edinburgh, UK. June, 2014. [pdf](/pdf/array14_final.pdf), [bibtex](/pdf/array14_final.bibtex.txt).
 
 * Martin Elsman and Anders Schack-Nielsen. __Typelets - A Rule-Based
 Evaluation Model for Dynamic, Statically Typed User Interfaces__. In
 _International Symposium on Practical Aspects of Declarative Languages
-(PADL'14)_. San Diego, USA. January, 2014. [pdf](/pdf/typelets_final.pdf).
+(PADL '14)_. San Diego, USA. January, 2014. [pdf](/pdf/typelets_final.pdf).
 
 * Martin Elsman. __SMLtoJs: Hosting a Standard ML Compiler in a Web
 Browser__. In _ACM SIGPLAN 2011 International Workshop on Programming
 Language And Systems Technologies for Internet Clients
-(PLASTIC'2011)_. Portland, Oregon, USA. October, 2011. [pdf](/pdf/smltojs-final.pdf).
+(PLASTIC '11)_. Portland, Oregon, USA. October, 2011. [pdf](/pdf/smltojs-final.pdf).
 
 * Martin Elsman. __Type-Specialized Serialization with Sharing__. In _Sixth
-Symposium on Trends in Functional Programming (TFP'05)_. Tallinn,
+Symposium on Trends in Functional Programming (TFP '05)_. Tallinn,
 Estonia. September 2005. [pdf](/pdf/TFP05final_mael.pdf), [bibtex](/pdf/TFP05final_mael.bibtex.txt).
 
 * Martin Elsman and Ken Friis Larsen. __Typing XHTML Web Applications in
 ML__. In _International Symposium on Practical Aspects of Declarative
-Languages (PADL'04)_. Dallas, USA. June 2004. [pdf](/pdf/padl2004.pdf), [bibtex](/pdf/padl2004.bibtex.txt).
+Languages (PADL '04)_. Dallas, USA. June 2004. [pdf](/pdf/padl2004.pdf), [bibtex](/pdf/padl2004.bibtex.txt).
 
 * Mads Tofte, Lars Birkedal, Martin Elsman, and Niels Hallenberg. __A
 Retrospective on Region-Based Memory Management__. Higher-Order and
@@ -69,25 +71,25 @@ Kluwer Academic Publishers. [pdf](/pdf/retro.pdf), [bibtex](/pdf/retro.bibtex.tx
 
 * Martin Elsman. __Garbage Collection Safety for Region-based Memory
 Management__. In _Proceedings of ACM SIGPLAN Workshop on Types in
-Language Design and Implementation (TLDI'03)_. New Orleans, Louisiana,
+Language Design and Implementation (TLDI '03)_. New Orleans, Louisiana,
 USA. January 2003. [pdf](/pdf/tldi03.pdf), [bibtex](/pdf/tldi03.bibtex.txt).
 
 * Martin Elsman and Niels Hallenberg. __Web Programming with SMLserver__. In
 _Fifth International Symposium on Practical Aspects of Declarative
-Languages (PADL'03)_. New Orleans, Louisiana, USA. January 2003. [pdf](/pdf/padl2003.pdf),
+Languages (PADL '03)_. New Orleans, Louisiana, USA. January 2003. [pdf](/pdf/padl2003.pdf),
 [bibtex](/pdf/padl2003.bibtex.txt).
 
 * Niels Hallenberg, Martin Elsman, and Mads Tofte. __Combining Region
 Inference and Garbage Collection__. In _ACM SIGPLAN 2002 Conference on
-Programming Language Design and Implementation (PLDI'02)_. Berlin,
+Programming Language Design and Implementation (PLDI '02)_. Berlin,
 Germany. June 2002. [pdf](/pdf/pldi2002.pdf), [bibtex](/pdf/pldi2002.bibtex.txt).
 
 * Martin Elsman. __Static Interpretation of Modules__. In _Fourth
-International Conference on Functional Programming (ICFP'99)_. Paris,
+International Conference on Functional Programming (ICFP '99)_. Paris,
 France. September 1999. [pdf](/pdf/icfp99.pdf), [bibtex](/pdf/icfp99.bibtex.txt).
 
 * Martin Elsman. __Polymorphic Equality - No Tags Required__. In _Second
-International Workshop on Types in Compilation (TIL'98)_. Kyoto,
+International Workshop on Types in Compilation (TIL '98)_. Kyoto,
 Japan. March 1998. [pdf](/pdf/equality.pdf), [bibtex](/pdf/equality.bibtex.txt).
 
 ### Theses
@@ -106,7 +108,7 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
 Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283.
-Extended version of CPC'15 paper. January 2015. [pdf](/pdf/finbenchmarkTR2015.pdf).
+Extended version of CPC '15 paper. January 2015. [pdf](/pdf/finbenchmarkTR2015.pdf).
 
 * Martin Elsman. __A Framework for Cut-Off Incremental Recompilation and
 Inter-Module Optimization__. IT University of Copenhagen, Denmark. IT
@@ -207,7 +209,7 @@ Boon. __SCIENCE Position paper on the ninth EU Research Framework Programme (FP9
 
 ### Selected Presentations
 
-* Martin Elsman. __Compiling a Subset of APL into Performance Efficient GPU Programs__. Dyalog'16 User Meeting. Glasgow. October, 2016. [pdf](/pdf/Dyalog16.pdf).
+* Martin Elsman. __Compiling a Subset of APL into Performance Efficient GPU Programs__. Dyalog '16 User Meeting. Glasgow. October, 2016. [pdf](/pdf/Dyalog16.pdf).
 
 * Martin Elsman. __Functional Programming for Trade Management and
 Valuation__. Seminar on Functional High Performance Computing in
