@@ -91,7 +91,7 @@ I am a (co-)designer and (co-)developer of the following tools:
 
 * [Futhark](https://futhark-lang.org/). A purely functional
 data-parallel language targeting GPGPUs
-[2014b, 2015, 2015a, 2016, 2016a, 2017, 2018a, 2018b, 2019]. Futhark is a statically typed,
+[2014b, 2015, 2015a, 2016, 2016a, 2017, 2018a, 2018b, 2019, 2019a]. Futhark is a statically typed,
 data-parallel, and purely functional array language in the ML
 family. It comes with a heavily optimising ahead-of-time compiler that
 generates efficient GPU code via OpenCL, using a number of fusion- and
@@ -329,6 +329,8 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 * Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
 
 #### Publications
+
+* [2019a] Martin Elsman, Troels Henriksen, and Niels G. W. Serup. Data-Parallel Flattening by Expansion. In Proceedings of the 6th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '19). Phoenix, AZ, USA. June, 2019.
 
 * [2019] Troels Henriksen, Frederik Thorøe, Martin Elsman, and Cosmin Oancea. Incremental Flattening for Nested Data Parallelism. In Proceedings of the 24th Symposium on Principles and Practice of Parallel Programming (PPoPP '19). Washington, DC, USA. February 2019.
 
