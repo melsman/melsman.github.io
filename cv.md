@@ -11,10 +11,10 @@ group: navigation
 <tr valign="top">
 <td width="35%"><b>Position:</b></td><td>Associate Professor, Department of Computer Science,
 University of Copenhagen, Denmark. <a href="http://www.hiperfit.dk">HIPERFIT</a>
-Research Center Manager.
+Research Center Manager, HEAD of <a href="https://studier.ku.dk/bachelor/datalogi-oekonomi/">BSc education on computer-science and economics</a>.
 </td></tr>
 <tr valign="top">
-<td width="35%"><b>Email:</b></td><td>mael at elsman.com</td>
+<td width="35%"><b>Email:</b></td><td>mael at di.ku.dk</td>
 </tr>
 <tr valign="top">
 <td width="35%"><b>Home page:</b></td><td><a href="http://www.elsman.com">http://www.elsman.com</a></td>
@@ -34,7 +34,7 @@ __Previous positions:__
 
 <table border="0" width="100%" padding="5%" spacing="0">
 <tr valign="top">
-<td width="35%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager.</td>
+<td width="35%">May 2012 -</td><td>Associate Professor, Department of Computer Science, University of Copenhagen, Denmark. HIPERFIT Research Center Manager, HEAD of BSc education on computer-science and economics (from 2019).</td>
 </tr>
 <tr valign="top">
 <td>May 2008 - April 2012</td><td>Chief System Development Consultant, Team Leader, <a href="http://www.simcorp.com">SimCorp</a>.</td>
