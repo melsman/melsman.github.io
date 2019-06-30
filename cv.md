@@ -330,6 +330,8 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
+* [2019b] Duc Minh Tran, Troels Henriksen, and Martin Elsman. Compositional Deep Learning in Futhark. In Proceedings of the 8th ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC '19). Berlin, Germany. August, 2019.
+
 * [2019a] Martin Elsman, Troels Henriksen, and Niels G. W. Serup. Data-Parallel Flattening by Expansion. In Proceedings of the 6th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '19). Phoenix, AZ, USA. June, 2019.
 
 * [2019] Troels Henriksen, Frederik Thorøe, Martin Elsman, and Cosmin Oancea. Incremental Flattening for Nested Data Parallelism. In Proceedings of the 24th Symposium on Principles and Practice of Parallel Programming (PPoPP '19). Washington, DC, USA. February 2019.
