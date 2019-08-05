@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. __A Functional Approach to Accelerating Monte Carlo based American Option Pricing__. In _31st symposium on Implementation and Application of Functional Languages (IFL '19)_. Singapore. September, 2019.
+
 * Duc Minh Tran, Troels Henriksen, and Martin Elsman. __Compositional Deep Learning in Futhark__. In _Proceedings of the 8th ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC '19)_. Berlin, Germany. August, 2019. [PDF](/pdf/fhpnc19.pdf).
 
 * Martin Elsman, Troels Henriksen, and Niels G. W. Serup. __Data-Parallel Flattening by Expansion__. In _Proceedings of the 6th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '19)_. Phoenix, AZ, USA. June, 2019. [PDF](/pdf/array19.pdf).
