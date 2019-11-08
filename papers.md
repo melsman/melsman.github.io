@@ -221,7 +221,7 @@ Boon. __SCIENCE Position paper on the ninth EU Research Framework Programme (FP9
 
 * Martin Elsman. __Blockchains and Bitcoins - how and why it works__. Blockchain Workshop, Dallund Slot. May 2018. [pdf](/pdf/Blockchain_intro.pdf).
 
-* Martin Elsman. __ APL on GPUs – A Progress Report with a Touch of Machine Learning__. Dyalog '17 User Meeting. Elsinore, Denmark. October, 2017. [pdf](/pdf/Dyalog17.pdf), [video](https://dyalog.tv/Dyalog17/?v=iucPNyTsRt4).
+* Martin Elsman. __APL on GPUs – A Progress Report with a Touch of Machine Learning__. Dyalog '17 User Meeting. Elsinore, Denmark. October, 2017. [pdf](/pdf/Dyalog17.pdf), [video](https://dyalog.tv/Dyalog17/?v=iucPNyTsRt4).
 
 * Martin Elsman. __Compiling a Subset of APL into Performance Efficient GPU Programs__. Dyalog '16 User Meeting. Glasgow, Scotland. October, 2016. [pdf](/pdf/Dyalog16.pdf), [video](https://www.youtube.com/watch?v=XwAkJbYBPZk).
 
