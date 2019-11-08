@@ -109,6 +109,8 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 ### Technical Reports
 
+* Martin Elsman and Niels Hallenberg. __Combining Region Inference and Generation Garbage Collection__. Department of Computer Science, University of Copenhagen (DIKU), Denmark. DIKU Technical report 2019/01. ISSN 0107-8283. November 2019. [pdf](/pdf/gengc-techreport.pdf).
+
 * Martin Elsman, Troels Henriksen, and Cosmin Oancea. __Parallel Programming in Futhark__. Edition 0.8. Department of Computer Science, University of Copenhagen. November 2018. [pdf](/pdf/futhark-book-0.8.0.pdf), [bibtex](/pdf/futhark-book.bibtex.txt), [latest-pdf](https://media.readthedocs.org/pdf/futhark-book/latest/futhark-book.pdf), [latest-html](https://futhark-book.readthedocs.io/en/latest/).
 
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
@@ -214,6 +216,12 @@ Boon. __SCIENCE Position paper on the ninth EU Research Framework Programme (FP9
 
 
 ### Selected Presentations
+
+* Martin Elsman. __Smarter Blockchains - from Transactions to Contracts__. Blockchain Workshop, Dallund Slot. May 2018. [pdf](/pdf/Blockchain_smart.pdf).
+
+* Martin Elsman. __Blockchains and Bitcoins - how and why it works__. Blockchain Workshop, Dallund Slot. May 2018. [pdf](/pdf/Blockchain_intro.pdf).
+
+* Martin Elsman. __Compiling a Subset of APL into Performance Efficient GPU Programs__. Dyalog '16 User Meeting. Glasgow. October, 2016. [pdf](/pdf/Dyalog16.pdf).
 
 * Martin Elsman. __Compiling a Subset of APL into Performance Efficient GPU Programs__. Dyalog '16 User Meeting. Glasgow. October, 2016. [pdf](/pdf/Dyalog16.pdf).
 
