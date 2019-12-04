@@ -16,7 +16,7 @@ Mono, an open-source implementation of Microsoft's Common Intermediate
 Runtime (CLR). We will see that it is perfectly possible, with certain
 restrictions, to develop portable programs and code that runs on a
 variety of platforms, including MacOS, Microsoft Windows, Linux, and,
-last but not least, a large varity of mobile platforms out there.
+last but not least, a large variety of mobile platforms out there.
 
 We will, essentially, be using a number of open-source tools. The most
 essential tool is the _terminal program_, which allows the developer
@@ -93,7 +93,7 @@ interpreter, type the command `#q;;`.
 F# has support for a large number of built-in types, including
 integers (`int`), double-precision floats (`float`), strings
 (`string`), and booleans (`bool`). As we shall see later, it is
-also possible for the developer to declare his or her's own types. F#
+also possible for the developer to declare his or her own types. F#
 also has a number of built-in operations on values of the various
 types; we have seen how the operation `+` operates on two integers,
 resulting in a new integer. The fact that `+` behaves like this can
@@ -265,7 +265,7 @@ val it : bool = true
 Notice that because the comparison operators (here `<` and `>=`)
 bind strong than `&&`, parentheses are not needed in this example.
 
-Booleans may also be used for controling program evaluation paths
+Booleans may also be used for controlling program evaluation paths
 through the use of _conditional_ expressions, also called if-then-else
 expressions:
 
@@ -280,7 +280,7 @@ val it : string = "driving is not ok"
 ## Functions
 
 We have already seen the use of some built-in functions, including
-functions for arithmetics (sine, addition, multiplication), for
+functions for arithmetic (sine, addition, multiplication), for
 comparison testing, and for performing string operations.
 
 In F#, it is straightforward to define your own functions built on top
@@ -385,7 +385,7 @@ An important feature here is that the product type is just as good as
 any other type meaning that functions can be declared to take pairs as
 arguments and return pairs as results just as well as they can accept
 integers and return strings. As an example, here is a function that,
-given a readius value, returns a pair containing the circumference and
+given a radius value, returns a pair containing the circumference and
 the area of a circle:
 
 ```fsharp
@@ -610,7 +610,7 @@ interaction with the program:
     30
 
 **Exercise 8:** _Write a program `christmas` that reads an integer `n`
-and prints out a christmas tree of height `n`. The program may use the
+and prints out a Christmas tree of height `n`. The program may use the
 function `printf` to print a string without printing a newline
 character. Here is what the program should output when the number 3 is
 given as input:_
@@ -654,7 +654,7 @@ functions to construct larger functions.
 1. [Programming with Lists (continued) and
 Arrays](/fsharp/lecture_list2.pdf). We continue with the introduction
 of list programming and demonstrate also how programmers may use
-arrays of different dimensionality to solve various tasks.
+arrays of different dimensions to solve various tasks.
 
 1. [Recursion](/fsharp/lecture_rec1.pdf). We illustrate the concept of
 recursion by introducing a number of basic functions on integers and
@@ -669,7 +669,7 @@ sort, insertion sort, selection sort, merge sort and quick sort.
 <img align='right' width='103px' src='/images/square_triangle_3.png' style='padding:20px;'/>
 We demonstrate how we can implement functionality (rules) that allow for
 a human to play the "Towers of Hanoi" game in the F# shell. We then
-present the hanoi algorithm, which allows the computer to play (and
+present the Hanoi algorithm, which allows the computer to play (and
 win) the game for any number of pegs, by applying a recursive
 algorithm. We also show how we can use recursion to draw simple
 fractals on a canvas using the [ImgUtil](/fsharp/img_util) library.
@@ -692,7 +692,7 @@ also demonstrate how the drawings can be effectuated by writing an
 interpreter for the turtle EDSL that converts instructions into bitmap
 lines, which can be shown on a canvas.
 
-1. [Stacks, Queues, and Rekursion Revisited](/fsharp/lecture_type3.pdf).
+1. [Stacks, Queues, and Recursion Revisited](/fsharp/lecture_type3.pdf).
 We give a solution to the classical _maximum segment sum_ problem,
 using recursion. We also define interfaces for stacks and queues and
 provide efficient implementations of both.
