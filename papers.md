@@ -8,7 +8,7 @@ group: navigation
 
 * Martin Elsman and Niels Hallenberg. __On the Effects of Integrating Region-based Memory Management and Generational Garbage Collection in ML__. In
 _International Symposium on Practical Aspects of Declarative Languages
-(PADL '20)_. New Orleans, USA. January, 2020.
+(PADL '20)_. New Orleans, USA. January, 2020. [PDF](/pdf/padl2020-final.pdf).
 
 * Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. __A Functional Approach to Accelerating Monte Carlo based American Option Pricing__. In _31st symposium on Implementation and Application of Functional Languages (IFL '19)_. Singapore. September, 2019.
 
