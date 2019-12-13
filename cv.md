@@ -133,15 +133,15 @@ compiler for the programming language Standard ML [2002c]. In the
 context of the MLKit, I have been working on combining dynamic garbage
 collection techniques and region-based memory management to gain a
 higher degree of control over memory resources
-[2004b, 2003a, 2002a]. Whereas the runtime system of the MLKit is
+[2019e, 2004b, 2003a, 2002a]. Whereas the runtime system of the MLKit is
 written in C and assembler, the MLKit compiler itself is written in
 Standard ML.
 
 * Carillon. A tool to find Y2K problems in C programs [1999a].
 
 In the context of the HIPERFIT research center, I have also worked on
-techniques for specifying and managing financial contracts
-[2015c, 2016c, 2018], in particular, in the context of blockchain technology [2017a].
+techniques for specifying, managing, and pricing financial contracts
+[2015c, 2016c, 2018, 2019c, 2019d], in particular, in the context of blockchain technology [2017a].
 
 I have also participated in a research project on bigraphical
 programming languages, which aims at modeling and controling
@@ -233,6 +233,9 @@ applications.
 #### Teaching
 
 I have taught the following courses:
+
+* Programming and Problem Solving in F# (BSc intro course). University of
+  Copenhagen, DIKU. One third of course. Fall 2019.
 
 * Programming and Problem Solving in F# (BSc intro course). University of
   Copenhagen, DIKU. One third of course. Fall 2018.
@@ -329,6 +332,12 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 * Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
 
 #### Publications
+
+* [2019e] Martin Elsman and Niels Hallenberg. On the Effects of Integrating Region-based Memory Management and Generational Garbage Collection in ML. In International Symposium on Practical Aspects of Declarative Languages (PADL ‘20). New Orleans, USA. January, 2020.
+
+* [2019d] Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. A Functional Approach to Accelerating Monte Carlo based American Option Pricing. In 31st symposium on Implementation and Application of Functional Languages (IFL ‘19). Singapore. September, 2019.
+
+* [2019c] Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. Extended Abstract: A Functional Approach to Accelerating Monte Carlo based American Option Pricing. Presented at the 8th ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC ‘19). Berlin, Germany. August, 2019.
 
 * [2019b] Duc Minh Tran, Troels Henriksen, and Martin Elsman. Compositional Deep Learning in Futhark. In Proceedings of the 8th ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC '19). Berlin, Germany. August, 2019.
 
