@@ -6,9 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Martin Elsman and Ken Friis Larsen. __Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract)__. In Draft
-  Proceedings of _the 21st International Symposium on Trends in Functional Programming (TFP '20)_. Krakow, Poland. February
-  2020. [PDF](/pdf/fut-comprehensions.pdf).
+* Martin Elsman and Ken Friis Larsen. __Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract)__. In Draft Proceedings of _the 21st International Symposium on Trends in Functional Programming (TFP '20)_. Krakow, Poland. February 2020. [PDF](/pdf/fut-comprehensions.pdf).
 
 * Martin Elsman and Niels Hallenberg. __On the Effects of Integrating Region-based Memory Management and Generational Garbage Collection in ML__. In
 _International Symposium on Practical Aspects of Declarative Languages
