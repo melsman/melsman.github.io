@@ -16,7 +16,7 @@ University of Copenhagen, Denmark. HEAD of <a href="https://studier.ku.dk/bachel
 <td width="35%"><b>Email:</b></td><td>mael at di.ku.dk</td>
 </tr>
 <tr valign="top">
-<td width="35%"><b>Home page:</b></td><td><a href="http://www.elsman.com">http://www.elsman.com</a></td>
+<td width="35%"><b>Home page:</b></td><td><a href="http://www.elsman.com">http://elsman.com</a></td>
 </tr>
 <tr valign="top">
 <td width="35%"><b>Address:</b></td><td>Universitetsparken 5, DK-2100 Copenhagen O, Denmark</td>
