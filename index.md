@@ -9,7 +9,7 @@ layout: front
      <img alt="Martin Elsman" align="left" src="/images/elsman_small.jpg">
   </div>
   <div class="span7" style="padding:5px;">
-     Associate Professor<br />
+     Professor<br />
      Department of Computer Science<br />
      University of Copenhagen<br />
      Universitetsparken 5, Building B<br />
@@ -21,6 +21,5 @@ layout: front
      <a href="https://scholar.google.com/citations?user=B_kB3DUAAAAJ&hl=en">Google scholar</a><br />
      <a href="/blob.html">bio blob</a><br /><br />
      <a href="http://github.com/melsman">github/melsman</a><br /><br />
-     <a href="http://www.hiperfit.dk">HIPERFIT</a> Research Center Manager.
   </div>
 </div>
