@@ -5,10 +5,17 @@ group: navigation
 ---
 {% include JB/setup %}
 
-I'm Associate Professor at the Department of Computer Science at the
-University of Copenhagen and manager for the [HIPERFIT Research
-Center](http://www.hiperfit.dk). Here is my background at a glance:
- 
+I'm Professor at the Department of Computer Science, University of
+Copenhagen and head of studies for the BSc eduction on Computer
+Science and Econnomics. Here is my background at a glance:
+
+* From May 2012 to December 2020, Associate Professor at the
+Department of Computer Science, University of Copenhagen and
+Center Manager for the HIPERFIT Research Center, which, with special
+attention to the finance industry, has focused on solving problems
+within the domains of high-performance computing and management of
+financial contracts and risks.
+
 * From April 2008 to May 2012, Chief System Development Consultant and
 Team Leader in [SimCorp](http://www.simcorp.com) - a Danish company
 specializing in software for the financial industry.
