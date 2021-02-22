@@ -135,7 +135,7 @@ compiler for the programming language Standard ML [2002c]. In the
 context of the MLKit, I have been working on combining dynamic garbage
 collection techniques and region-based memory management to gain a
 higher degree of control over memory resources
-[2019e, 2004b, 2003a, 2002a]. Whereas the runtime system of the MLKit is
+[2021, 2020, 2004b, 2003a, 2002a]. Whereas the runtime system of the MLKit is
 written in C and assembler, the MLKit compiler itself is written in
 Standard ML.
 
@@ -338,9 +338,13 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
-* [2019e] Martin Elsman and Niels Hallenberg. On the Effects of Integrating Region-based Memory Management and Generational Garbage Collection in ML. In International Symposium on Practical Aspects of Declarative Languages (PADL ‘20). New Orleans, USA. January, 2020.
+* [2021] Martin Elsman and Niels Hallenberg. Integrating region memory management and tag-free generational garbage collection. In Journal of Functional Programming (JFP). Volume 31, E4. Cambridge University Press. February 2021.
 
-* [2019d] Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. A Functional Approach to Accelerating Monte Carlo based American Option Pricing. In 31st symposium on Implementation and Application of Functional Languages (IFL ‘19). Singapore. September, 2019.
+* [2020a] Martin Elsman and Ken Friis Larsen. Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract). In Draft Proceedings of the 21st International Symposium on Trends in Functional Programming (TFP '20). Krakow, Poland. February 2020. PDF.
+
+* [2020] Martin Elsman and Niels Hallenberg. On the Effects of Integrating Region-based Memory Management and Generational Garbage Collection in ML. In International Symposium on Practical Aspects of Declarative Languages (PADL '20). New Orleans, USA. January, 2020.
+
+* [2019d] Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. A Functional Approach to Accelerating Monte Carlo based American Option Pricing. In 31st symposium on Implementation and Application of Functional Languages (IFL '19). Singapore. September, 2019.
 
 * [2019c] Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. Extended Abstract: A Functional Approach to Accelerating Monte Carlo based American Option Pricing. Presented at the 8th ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC ‘19). Berlin, Germany. August, 2019.
 
