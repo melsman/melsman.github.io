@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman and Niels Hallenberg. __Integrating region memory management and tag-free generational garbage collection__. In _Journal of Functional Programming (JFP)_. Volume 31, E4. [DOI](http://dx.doi.org/10.1017/S0956796821000010). Cambridge University Press. February 2021.
+
 * Martin Elsman and Ken Friis Larsen. __Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract)__. In Draft Proceedings of _the 21st International Symposium on Trends in Functional Programming (TFP '20)_. Krakow, Poland. February 2020. [PDF](/pdf/fut-comprehensions.pdf).
 
 * Martin Elsman and Niels Hallenberg. __On the Effects of Integrating Region-based Memory Management and Generational Garbage Collection in ML__. In
