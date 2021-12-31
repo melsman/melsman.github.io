@@ -119,6 +119,10 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 ### Technical Reports
 
+* Mads Tofte, Lars Birkedal, Martin Elsman, Niels Hallenberg, Tommy
+Højfeld Olesen, and Peter Sestoft. __Programming with Regions in the
+MLKit (revised for Version 4.6.0)__. Department of Computer Science, University of Copenhagen. December 2021. [pdf](/pdf/mlkit-4.6.0.pdf), [bibtex](/pdf/mlkit-4.6.0-bibtex.txt).
+
 * Martin Elsman and Niels Hallenberg. __Combining Region Inference and Generational Garbage Collection__. Department of Computer Science, University of Copenhagen (DIKU), Denmark. DIKU Technical report 2019/01. ISSN 0107-8283. November 2019. [pdf](/pdf/gengc-techreport.pdf).
 
 * Martin Elsman, Troels Henriksen, and Cosmin Oancea. __Parallel Programming in Futhark__. Edition 0.8. Department of Computer Science, University of Copenhagen. November 2018. [pdf](/pdf/futhark-book-0.8.0.pdf), [bibtex](/pdf/futhark-book.bibtex.txt), [latest-pdf](https://media.readthedocs.org/pdf/futhark-book/latest/futhark-book.pdf), [latest-html](https://futhark-book.readthedocs.io/en/latest/).
