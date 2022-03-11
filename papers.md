@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman, Fritz Henglein, Robin Kaarsgaard, Mikkel K. Mathiesen, and Robert Schenck. __Combinatory adjoints and differentiation__. In _Ninth Workshop on Mathematically Structured Functional Programming (MSFP 2022)_. Munich, Germany. April, 2022.
+
 * Troels Henriksen and Martin Elsman. __Towards Size-Dependent Types for Array Programming__. In _Proceedings of the 8th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '21)_. Virtual Event. June, 2021. [PDF](/pdf/array21-final-publ.pdf).
 
 * Martin Elsman and Niels Hallenberg. __Integrating region memory management and tag-free generational garbage collection__. In _Journal of Functional Programming (JFP)_. Volume 31, E4. [DOI](http://dx.doi.org/10.1017/S0956796821000010). Cambridge University Press. February 2021.
