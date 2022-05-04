@@ -238,6 +238,8 @@ Boon. __SCIENCE Position paper on the ninth EU Research Framework Programme (FP9
 
 ### Selected Presentations
 
+* Martin Elsman. __Size-Dependent Types for Practical Data-Parallel Programming__. Oxford Seminar on Tensor Computation. December 2, 2021. [pdf](/pdf/tensor2021.pdf), [video](https://www.youtube.com/watch?v=x5nYJ_Kk3dU).
+
 * Martin Elsman. __Smarter Blockchains - from Transactions to Contracts__. Blockchain Workshop, Dallund Slot. May 2018. [pdf](/pdf/Blockchain_smart.pdf).
 
 * Martin Elsman. __Blockchains and Bitcoins - how and why it works__. Blockchain Workshop, Dallund Slot. May 2018. [pdf](/pdf/Blockchain_intro.pdf).
