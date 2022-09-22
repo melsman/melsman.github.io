@@ -6,8 +6,10 @@ group: navigation
 {% include JB/setup %}
 
 I'm Professor at the Department of Computer Science, University of
-Copenhagen and head of studies for the BSc eduction on Computer
-Science and Econnomics. Here is my background at a glance:
+Copenhagen. I serve as head of the <a
+href="https://di.ku.dk/english/research/pltc/">PLTC Section</a> and
+head of studies for the BSc eduction on Computer Science and
+Econnomics. Here is my background at a glance:
 
 * From May 2012 to December 2020, Associate Professor at the
 Department of Computer Science, University of Copenhagen and

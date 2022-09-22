@@ -9,7 +9,7 @@ group: navigation
 
 <table border="0" width="100%" padding="5%" spacing="0">
 <tr valign="top">
-<td width="35%"><b>Position:</b></td><td>Professor, Department of Computer Science, HEAD of <a href="https://studier.ku.dk/bachelor/datalogi-oekonomi/">BSc education on Computer Science and Economics</a>.
+<td width="35%"><b>Position:</b></td><td>Professor, Department of Computer Science. Head of <a href="https://di.ku.dk/english/research/pltc/">PLTC Section</a>. Head of <a href="https://studier.ku.dk/bachelor/datalogi-oekonomi/">BSc education on Computer Science and Economics</a>.
 </td></tr>
 <tr valign="top">
 <td width="35%"><b>Email:</b></td><td>mael at di.ku.dk</td>
@@ -58,8 +58,9 @@ __Previous positions:__
 
 I am Professor in the Programming Languages and Theory of Computation
 section at the Department of Computer Science, University of
-Copenhagen, where I also serve as head of studies for a BSc education
-on Computer Science and Economics.
+Copenhagen, where I serve as head of the <a
+href="https://di.ku.dk/english/research/pltc/">PLTC Section</a> and
+head of studies for the BSc education on Computer Science and Economics.
 
 Until 2018, I served as Center Manager for the
 HIPERFIT Research Center, which, with special attention to the finance
