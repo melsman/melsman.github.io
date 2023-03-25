@@ -10,7 +10,7 @@ group: navigation
 
 * Troels Henriksen and Martin Elsman. __Towards Size-Dependent Types for Array Programming__. In _Proceedings of the 8th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '21)_. Virtual Event. June, 2021. [PDF](/pdf/array21-final-publ.pdf).
 
-* Martin Elsman and Niels Hallenberg. __Integrating region memory management and tag-free generational garbage collection__. In _Journal of Functional Programming (JFP)_. Volume 31, E4. [DOI](http://dx.doi.org/10.1017/S0956796821000010). Cambridge University Press. February 2021.
+* Martin Elsman and Niels Hallenberg. __Integrating region memory management and tag-free generational garbage collection__. In _Journal of Functional Programming (JFP)_. Volume 31, E4. [DOI](http://dx.doi.org/10.1017/S0956796821000010). Cambridge University Press. February 2021. [PDF](/pdf/jfp2021.pdf).
 
 * Martin Elsman and Ken Friis Larsen. __Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract)__. In Draft Proceedings of _the 21st International Symposium on Trends in Functional Programming (TFP '20)_. Krakow, Poland. February 2020. [PDF](/pdf/fut-comprehensions.pdf).
 
