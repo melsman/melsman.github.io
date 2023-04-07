@@ -6,6 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
+
+* Martin Elsman and Troels Henriksen. __Parallelism in a Region Inference Context__. In _Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23)_, Orlando, Florida, USA. June 17-21, 2023. [DOI](https://doi.org/10.1145/3591256), [Abstract](https://pldi23.sigplan.org/details/pldi-2023-pldi/37/Parallelism-in-a-Region-Inference-Context).
+
+* Martin Elsman. __Garbage-Collection Safety for Region-Based Type-Polymorphic Programs__. In _Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23)_, Orlando, Florida, USA. June 17-21, 2023. [DOI](https://doi.org/10.1145/3591229), [Abstract](https://pldi23.sigplan.org/details/pldi-2023-pldi/37/Parallelism-in-a-Region-Inference-Context).
+
 * Martin Elsman, Fritz Henglein, Robin Kaarsgaard, Mikkel K. Mathiesen, and Robert Schenck. __Combinatory adjoints and differentiation__. In _Ninth Workshop on Mathematically Structured Functional Programming (MSFP 2022)_. Munich, Germany. April, 2022. [PDF](/pdf/msfp22.pdf).
 
 * Troels Henriksen and Martin Elsman. __Towards Size-Dependent Types for Array Programming__. In _Proceedings of the 8th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '21)_. Virtual Event. June, 2021. [PDF](/pdf/array21-final-publ.pdf).
