@@ -339,6 +339,14 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
+* [2023b] Martin Elsman and Troels Henriksen. Parallelism in a Region Inference Context. In Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23), Orlando, Florida, USA. June 17-21, 2023.
+
+* [2023a] Martin Elsman. Garbage-Collection Safety for Region-Based Type-Polymorphic Programs. In Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23), Orlando, Florida, USA. June 17-21, 2023.
+
+* [2022] Martin Elsman, Fritz Henglein, Robin Kaarsgaard, Mikkel K. Mathiesen, and Robert Schenck. Combinatory adjoints and differentiation. In Ninth Workshop on Mathematically Structured Functional Programming (MSFP 2022). Munich, Germany. April, 2022.
+
+* [2021a Troels Henriksen and Martin Elsman. Towards Size-Dependent Types for Array Programming. In Proceedings of the 8th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY ‘21). Virtual Event. June, 2021.
+
 * [2021] Martin Elsman and Niels Hallenberg. Integrating region memory management and tag-free generational garbage collection. In Journal of Functional Programming (JFP). Volume 31, E4. Cambridge University Press. February 2021.
 
 * [2020a] Martin Elsman and Ken Friis Larsen. Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract). In Draft Proceedings of the 21st International Symposium on Trends in Functional Programming (TFP '20). Krakow, Poland. February 2020. PDF.
