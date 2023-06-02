@@ -7,9 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 
-* Martin Elsman and Troels Henriksen. __Parallelism in a Region Inference Context__. In _Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23)_, Orlando, Florida, USA. June 17-21, 2023. [DOI](https://doi.org/10.1145/3591256), [Abstract](https://pldi23.sigplan.org/details/pldi-2023-pldi/37/Parallelism-in-a-Region-Inference-Context).
+* Martin Elsman and Troels Henriksen. __Parallelism in a Region Inference Context__. In _Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23)_, Orlando, Florida, USA. June 17-21, 2023. [DOI](https://doi.org/10.1145/3591256), [Abstract](https://pldi23.sigplan.org/details/pldi-2023-pldi/37/Parallelism-in-a-Region-Inference-Context). [PDF](/pdf/parreg-pldi23.pdf).
 
-* Martin Elsman. __Garbage-Collection Safety for Region-Based Type-Polymorphic Programs__. In _Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23)_, Orlando, Florida, USA. June 17-21, 2023. [DOI](https://doi.org/10.1145/3591229), [Abstract](https://pldi23.sigplan.org/details/pldi-2023-pldi/10/Garbage-Collection-Safety-for-Region-Based-Type-Polymorphic-Programs).
+* Martin Elsman. __Garbage-Collection Safety for Region-Based Type-Polymorphic Programs__. In _Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23)_, Orlando, Florida, USA. June 17-21, 2023. [DOI](https://doi.org/10.1145/3591229), [Abstract](https://pldi23.sigplan.org/details/pldi-2023-pldi/10/Garbage-Collection-Safety-for-Region-Based-Type-Polymorphic-Programs). [PDF](/pdf/gcsafe-pldi23.pdf).
 
 * Martin Elsman, Fritz Henglein, Robin Kaarsgaard, Mikkel K. Mathiesen, and Robert Schenck. __Combinatory adjoints and differentiation__. In _Ninth Workshop on Mathematically Structured Functional Programming (MSFP 2022)_. Munich, Germany. April, 2022. [PDF](/pdf/msfp22.pdf).
 
