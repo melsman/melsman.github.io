@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Lubin Bailly, Troels Henriksen, Martin Elsman. __Shape-Constrained Array Programming with Size-Dependent Types__. In _Proceedings of the 2023 ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC '23)_. Seattle, Washington, USA. September, 2023.
+* Lubin Bailly, Troels Henriksen, Martin Elsman. __Shape-Constrained Array Programming with Size-Dependent Types__. In _Proceedings of the 2023 ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC '23)_. Seattle, Washington, USA. September, 2023. [PDF](pdf/fhpnc23.pdf)
 
 * Martin Elsman. __Programming with Explicit Effects in ReML__. In _Informal Proceeding of the 2023 ML Family Workshop (ML '23)_, Seattle, Washington, USA. September 2023. [Abstract](https://icfp23.sigplan.org/details/mlworkshop-2023/5/Programming-with-Explicit-Effects-in-ReML).
 
