@@ -339,6 +339,10 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
+* [2024] Martin Elsman. Explicit Effects and Effect Constraints in ReML. In Proceedings of the 51st ACM SIGPLAN Symposium on Principles of Programming Languages (POPL '24), London, United Kingdom. January 17-19, 2024.
+
+* [2023c] Lubin Bailly, Troels Henriksen, and Martin Elsman. Shape-Constrained Array Programming with Size-Dependent Types. In Proceedings of the 2023 ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC '23). Seattle, Washington, USA. September, 2023.
+
 * [2023b] Martin Elsman and Troels Henriksen. Parallelism in a Region Inference Context. In Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23), Orlando, Florida, USA. June 17-21, 2023.
 
 * [2023a] Martin Elsman. Garbage-Collection Safety for Region-Based Type-Polymorphic Programs. In Proceedings of the 44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI ’23), Orlando, Florida, USA. June 17-21, 2023.
