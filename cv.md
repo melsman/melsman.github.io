@@ -100,23 +100,23 @@ family. It comes with a heavily optimising ahead-of-time compiler that
 generates efficient GPU code via OpenCL, using a number of fusion- and
 special-purpose optimisation techniques.
 
-* [The TAIL APL compiler](http://www.github.com/melsman/apltail). A
+* [The TAIL APL compiler](http://github.com/melsman/apltail). A
 compiler for the APL programming language, which targets a typed
 intermediate language [2014a, 2015b, 2016a]. The ultimate goal of this project is to
 provide a way for APL programmers to target data-parallel
 architectures, using a subset of well-known APL functions and
 operators, many of which, by design, are naturally data-parallel.
 
-* [SMLtoJs](http://www.smlserver.org/smltojs). A compiler from
+* [SMLtoJs](http://smlserver.org/smltojs). A compiler from
 Standard ML to JavaScript. SMLtoJs allows for building AJAX
 applications using a statically typed language. It compiles all of
 Standard ML and has support for calling JavaScript functions and for
 executing JavaScript statements. It also allows for type safe
 integration with SMLserver using, for instance, XML-RPC; see
 below. SMLtoJs may compile itself - the result is [a Standard ML
-compiler running in a browser](http://www.smlserver.org/ide) [2011, 2018c].
+compiler running in a browser](http://smlserver.org/ide) [2011, 2018c].
 
-* [SMLserver](http://www.smlserver.org). An efficient multi-threaded
+* [SMLserver](http://smlserver.org). An efficient multi-threaded
 Web server platform for Standard ML programs
 [2002, 2002b, 2003b, 2004, 2018c]. The aim of the SMLserver project has been to
 push advanced programming concepts, such as higher-order functions and
@@ -131,7 +131,7 @@ lines of Standard ML). SMLserver has been built as a Web server module
 database connections for Oracle (based on OCI), Postgres, and MySQL
 databases.
 
-* [MLKit](http://www.elsman.com/mlkit/). An optimizing
+* [MLKit](http://elsman.com/mlkit/). An optimizing
 compiler for the programming language Standard ML [2002c]. In the
 context of the MLKit, I have been working on combining dynamic garbage
 collection techniques and region-based memory management to gain a
@@ -140,7 +140,7 @@ higher degree of control over memory resources
 written in C and assembler, the MLKit compiler itself is written in
 Standard ML.
 
-* Carillon. A tool to find Y2K problems in C programs [1999a].
+* [Carillon](http://elsman.com/pdf/carillon-press-8.02.99.pdf). A tool to find Y2K problems in C programs [1999a].
 
 In the context of the HIPERFIT research center, I have also worked on
 techniques for specifying, managing, and pricing financial contracts
