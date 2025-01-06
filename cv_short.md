@@ -69,55 +69,53 @@ HIPERFIT Research Center, which, with special attention to the finance
 industry, focused on solving problems within the domains of
 high-performance computing and big data.
 
-I conduct research related to the design and implementation of
-high-level programming languages. My research interests cover
-the areas of data-parallel programming languages, module systems, platforms and type systems for Web
-applications, program optimisation, type systems for static memory
-management, transient fault tolerant computing, garbage collection
-techniques, and instruction selection for virtual machines and
-different microprocessors, including the x86 microprocessor. I have
-also done work in the area of constraint-based program analyses.
+I conduct research related to the design and implementation of high-level
+programming languages. My research interests cover the areas of data-parallel
+programming languages, module systems, platforms and type systems for Web
+applications, program optimisation, type systems for static memory management,
+transient fault tolerant computing, garbage collection techniques, and
+instruction selection for virtual machines and different microprocessors,
+including the x86 microprocessor. I have also done work in the area of
+constraint-based program analyses and recently, I have been involved in research
+in quantum circuit simulation.
 
 #### Teaching
 
-I have taught a large number of courses, including general
-introductory courses on programming, on web-programming and databases,
-and courses on more advanced classes related to parallel programming,
-program analysis, and program optimisation.
+I have taught a large number of courses, including general introductory courses
+on programming, on web-programming and databases, and courses on more advanced
+classes related to parallel programming, quantum programming languages, program
+analysis, and program optimisation.
 
-I have supervised a high number of M.Sc. thesis students, B.Sc. thesis
-students, and other projects. The projects have covered blockchain
-technology, compiler technology, type systems, and the development,
-documentation, and testing of Web-based and traditional GUI-style,
-database-enabled, systems in Java, C#, PHP, TCL, Haskell, and Standard
-ML. I am currently supervising two Ph.D. students within areas
-coverered by HIPERFIT. One PhD student has graduated.
+I have supervised a high number of M.Sc. thesis students, B.Sc. thesis students,
+and other projects. The projects have covered areas such as financial
+engineering (e.g., portfolio optimation theory, OTC contracts, risk-analyses),
+blockchain technology, compiler technology, type systems, and the development of
+Web-based and traditional GUI-style, database-enabled, systems in Java, C#, PHP,
+TCL, Haskell, and Standard ML. I have successfully supervised three Phd
+students.
 
 #### Organisational Work
 
-From May 2009 to 2012, I worked as Team Leader in the Instrument
-Modeling Language team at SimCorp. From August 2007 to May 2008, I
-served as the head of the international technical ITU program Software
-Development and Technology. From November 2003 to January 2005, I
-served as Head of the ITU Internet and Software Technology Study
-Program. During 2004, I have attended a management course at SHL
-Denmark. During the educational year 2001-2002, I have attended a
-pedagogical education program for assistant professors at KVL, in
-addition to a course on project supervision. I have been a
-co-organiser of the DIKU International Summer School on Region-Based
-Memory Management, August 18-22, 1997, held at the University of
-Copenhagen, Denmark. I have reviewed papers for a series of
-conferences, workshops, and journals, including PLDI'96, PLILP'96,
-IFL'97, POPL'97, SAS'97, PLDI'99, ESOP'01, ESOP'03, HOSC, JFP, and
-TOPLAS. I have served on the programme committees for the 2008
-International Conference on Compiler Construction (CC'08), the 2007
-Nordic Workshop on Secure IT Systems (NordSec'07), the 2005 ACM
-SIGPLAN Workshop on ML (ML'05), held in Tallinn, Estonia, September
-2005, on ARRAY'2017, and on ICFP'18. I have also served as programme co-chair for
-the 2006 ACM Workshop on Semantics, Program Analysis, and Computing
-Environments for Memory Management (SPACE'06), held in South Carolina,
-January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
-on Libraries, Languages and Compilers for Programming (ARRAY'2016).
+From May 2009 to 2012, I worked as Team Leader in the Instrument Modeling
+Language team at SimCorp. From August 2007 to May 2008, I served as the head of
+the international technical ITU program Software Development and
+Technology. From November 2003 to January 2005, I served as Head of the ITU
+Internet and Software Technology Study Program. During 2004, I attended a
+management course at SHL Denmark. During the educational year 2001-2002, I
+attended a pedagogical education program for assistant professors at KVL, in
+addition to a course on project supervision. I have been a co-organiser of the
+DIKU International Summer School on Region-Based Memory Management, August
+18-22, 1997, held at the University of Copenhagen, Denmark. I have reviewed
+papers for a series of conferences, workshops, and journals, including PLDI'96,
+PLILP'96, IFL'97, POPL'97, SAS'97, PLDI'99, ESOP'01, ESOP'03, HOSC, JFP, and
+TOPLAS. I have served on the programme committees for the 2008 International
+Conference on Compiler Construction (CC'08), the 2007 Nordic Workshop on Secure
+IT Systems (NordSec'07), the 2005 ACM SIGPLAN Workshop on ML (ML'05), held in
+Tallinn, Estonia, September 2005, on ARRAY'2017, and on ICFP '18, '24. I have
+also served as programme co-chair for the 2006 ACM Workshop on Semantics,
+Program Analysis, and Computing Environments for Memory Management (SPACE'06)
+and for the 2016 ACM SIGPLAN 3rd International Workshop on Libraries, Languages
+and Compilers for Programming (ARRAY'2016).
 
 #### Full CV
 
