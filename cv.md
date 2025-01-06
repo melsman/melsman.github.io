@@ -339,6 +339,10 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
+* [2024c] Robert Schenck, Nikolaj Hey Hinnerskov, Troels Henriksen, Magnus Madsen, Martin Elsman. AUTOMAP: Inferring Rank-Polymorphic Function Applications with Integer Linear Programming. In Proceedings of the ACM on Programming Languages, Volume 8, Issue OOPSLA2. Article No.: 334, 27 pages. Pasadena, USA. October, 2024.
+
+* [2024b] Martin Elsman. Double-Ended Bit-Stealing for Algebraic Data Types. In Proceedings of the 2024 ACM SIGPLAN International Conference on Functional Programming (ICFP '24). Milan, Italy. September 4-6, 2024.
+
 * [2024] Martin Elsman. Explicit Effects and Effect Constraints in ReML. In Proceedings of the 51st ACM SIGPLAN Symposium on Principles of Programming Languages (POPL '24), London, United Kingdom. January 17-19, 2024.
 
 * [2023c] Lubin Bailly, Troels Henriksen, and Martin Elsman. Shape-Constrained Array Programming with Size-Dependent Types. In Proceedings of the 2023 ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing (FHPNC '23). Seattle, Washington, USA. September, 2023.
