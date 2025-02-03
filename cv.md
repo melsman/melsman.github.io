@@ -593,6 +593,9 @@ Most publications (except Journal papers) are available [online](/papers.html).
 - Kasper Unn Weihe. Convex Optimization and Parallel Computing for Portfolio
   Optimization. MSc Project. June 2023.
 
+- Oscar Nelin. Parallel Bytecode Interpretation in Futhark. MSc 7.5 ECTS
+  Project. January 2023.
+
 - Kristian Knudsen Olesen. Extracting Certified Futhark Code from Coq. BSc
   Project. November 2021.
 
