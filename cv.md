@@ -237,6 +237,9 @@ applications.
 
 I have taught the following courses:
 
+* Advanced Topics in Programming Languages (MSc course, PL for Quantum Computing
+  theme). University of Copenhagen, DIKU. One fourth of course. Fall 2024.
+
 * Programming and Problem Solving in F# (BSc intro course). University of
   Copenhagen, DIKU. One third of course. Fall 2020.
 
@@ -328,14 +331,6 @@ ACM Workshop on Semantics, Program Analysis, and Computing
 Environments for Memory Management (SPACE'06), held in South Carolina,
 January 2006 and for the 2016 ACM SIGPLAN 3rd International Workshop
 on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
-
-#### PhD Students
-
-* Martin Dybdal (finished August 2017)
-
-* Danil Annenkov (finished October 2017)
-
-* Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
 
 #### Publications
 
@@ -538,3 +533,118 @@ Implementation. Master's thesis. Department of Computer Science,
 Technical University of Denmark. August 1994.
 
 Most publications (except Journal papers) are available [online](/papers.html).
+
+#### PhD Students
+
+* Martin Dybdal (finished August 2017)
+
+* Danil Annenkov (finished October 2017)
+
+* Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
+
+#### Project Supervision (selected projects)
+
+- Mark Seemann. On the Relationship between Referential Transparency and Haskell
+  Purity. BSc Project. January 2025.
+
+- Daniel Enemark Riegels. Migration and Inequality in Mexico. BSc Project,
+  Computer Science and Economics. September 2024.
+
+- Frederik Julius Palmø. BSc Project. Optimising JavaScript Performance with
+  Web-Assembly. BSc Project. July 2024.
+
+- Mathias Kilde Overgaard Hansen, Jeppe Hoffmann Hansen. Implementation of
+  Artificial Intelligence in Soccer. BSc Project, KomIT. In Danish. June 2024.
+
+- Axel Prütz Kanne, Svante Geisshirt. Unikernels with Region Inference. BSc
+  Project. June 2024.
+
+- Ferdinand Bjerre Wahl, Gustav Frederik Byberg, Mathias Lausten
+  Schandorph. Sustainable Portfolio Management. BSc Project, Computer Science
+  and Economics. July 2023.
+
+- Oscar Halvoring Augustinus, Jesper Klose Dahlfelt. ESG Investments and Modern
+  Portfolio Theory. BSc Project, Computer Science and Economics. July 2023.
+
+- Magnus Holm Jensen, Johannes Munkedal Tange. Sustainable Investing with
+  ESG-Weighted Modern portfolio Optimization. BSc Project, Computer Science and
+  Economics. July 2023.
+
+- Julius Husted Volden, Mattias Nørgaard Matsushita, Rasmus Julius Høy
+  Petersen. Portfolio Optimization with ESG. BSc Project, Computer Science and
+  Economics. July 2023.
+
+- Tor Rosenberg Osted, Nicolai Veiglin Arends, Olivia Sommer
+  Nørgaard. Optimising Sustainable Financial Portfolios. BSc Project, Computer
+  Science and Economics. July 2023.
+
+- Kasper Nicolaj Schiller. A Domain-Specific Language for Financial
+  Contracts. BSc Project, Computer Science and Economics. July 2023.
+
+- Ajanthan Veeravagu. Optimising Sustainable Financial Portfolios. BSc Project,
+  Computer Science and Economics. July 2023.
+
+- Emil Kragh Toft, Jonathan Weinreich Hansen. Determining Feature Importance
+  Using OLS Regression and Random Forest in the Context of Factor Models. BSc
+  Project, Machine Learning and Data Science. July 2023.
+
+- Kasper Unn Weihe. Convex Optimization and Parallel Computing for Portfolio
+  Optimization. MSc Project. June 2023.
+
+- Kristian Knudsen Olesen. Extracting Certified Futhark Code from Coq. BSc
+  Project. November 2021.
+
+- Louis Krog Kaufmann. Acceleration of CVA Calculations using Futhark. BSc
+  Project. December 2020.
+
+- Robert Schenck. Sum Types in Futhark. MSc Thesis Project. January 2020.
+
+- Anna Sofie Kiehn, Henriks Urms. Refinement types in Futhark. MSc Project.
+  September 2019.
+
+- Jens Egholm Pedersen. Modelling learning systems in artificial and spiking
+  neural networks. MSc Thesis Project, IT and Cognition. March 2019.
+
+- Anders Kiel Hovgaard. Higher-Order Functions for a High-Performance
+  Programming Language for GPUs. MSc Thesis Project. May 2018.
+
+- Nicholas Christian Langkjær Ipsen, Erik Ledertoug. Accelerated Image
+  Recognition in Futhark. BSc Project. June 2018.
+
+- Christian Kjær Larsen. Formalization of Array Combinators and their Fusion
+  Rules in Coq. BSc Project. June 2017.
+
+- Jonas Aslet. Visualising Portfolio Evolution. BSc Project. January 2016.
+
+- Christian Grønnegaard Nielsen, Mathias Frederik Kærlev. Chow - An Interpreted
+  C-like Language for Game Development. BSc Project. June 2017.
+
+- Jakob Høiberg Rasmussen. A GUI fpr a Blockchain-based Financial Contract
+  System. BSc Project. June 2017.
+
+- Anders Lau Svendsen, Mads Jørgensen, Peter Emil Jensen. Freechain - A
+  Universal Blockchain Framework. BSc Project. June 2017.
+
+- Christopher Mulvad Groot. Blockchain Consensus Mechanisms. BSc Project. June
+  2017.
+
+- Martin Paarse. Historic Volatilities and Correlations for Underlyings in the
+  HIPERFIT Portfolio Management Prototype. BSc Project. June 2016.
+
+- Mikkel Storgaard Knudsen. Modules in Futhark. BSc Project. June, 2016.
+
+- Frederik Bøgelund Larsen. Reactive Functional GUI Abstractions in Haskell. BSc
+  Project. January 2016.
+
+- Anna Sofie Kiehn, Henrik Urms. Compiling TAIL to Futhark. BSc Project. June 2015.
+
+- Benjamin Brandt Ohrt. Implementing Data Validation in an External
+  Environment. BSc Company Project. October 2015.
+
+- Niels G. W. Serup. Kernel Fission for GPGPUs. BSc Project. June 2014.
+
+- Rasmus Borgsmidt. Functional Array Programming Compiled to a Virtual
+  Machine. BSc Project. June 2013.
+
+- Philip Munksgaard. SmlCL - An ML Library for Utilizing Parallel Architectures
+  using OpenCL. BSc Project. June 2013.
