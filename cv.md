@@ -544,6 +544,8 @@ Most publications (except Journal papers) are available [online](/papers.html).
 
 #### Project Supervision (selected projects)
 
+- Kristian Laudrup Hansen. Combinatory AD for Python. BSc Project (ongoing).
+
 - Mark Seemann. On the Relationship between Referential Transparency and Haskell
   Purity. BSc Project. January 2025.
 
