@@ -8,7 +8,7 @@ group: navigation
 
 * __Martin Elsman__. ___Deriving a Kronecker-Free Functional Quantum Simulator___. In _Informal Proceeding of the 2nd Workshop on Quantum Software (WQS '25)_, Seoul, Republic of Korea. June 2025. [Abstract](https://pldi25.sigplan.org/details/wqs-2025-papers/4/Deriving-a-Kronecker-Free-Functional-Quantum-Simulator). [PDF](pdf/wqs25-final.pdf).
 
-* __Martin Elsman__ and Troels Henriksen. ___Gate Fusion is Map Fusion___. In _Proceedings of the 11th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '25)_. Seoul, Republic of Korea. June, 2025. [Abstract](https://pldi25.sigplan.org/details/ARRAY-2025-papers/7/Gate-Fusion-is-Map-Fusion).
+* __Martin Elsman__ and Troels Henriksen. ___Gate Fusion is Map Fusion___. In _Proceedings of the 11th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '25)_. Seoul, Republic of Korea. June, 2025. [Abstract](https://pldi25.sigplan.org/details/ARRAY-2025-papers/7/Gate-Fusion-is-Map-Fusion). [PDF](pdf/array25-publ.pdf).
 
 * Robert Schenck, Nikolaj Hey Hinnerskov, Troels Henriksen, Magnus Madsen, __Martin Elsman__. ___AUTOMAP: Inferring Rank-Polymorphic Function Applications with Integer Linear Programming___. In _Proceedings of the ACM on Programming Languages, Volume 8, Issue OOPSLA2_. Article No.: 334, 27 pages. Pasadena, USA. October, 2024. [ACM DL](https://doi.org/10.1145/3689774). [PDF](pdf/oopslab24main-p607-final.pdf).
 
