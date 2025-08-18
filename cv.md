@@ -334,6 +334,10 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
+* [2025a] Martin Elsman. Deriving a Kronecker-Free Functional Quantum Simulator. In Informal Proceeding of the 2nd Workshop on Quantum Software (WQS '25), Seoul, Republic of Korea. June 2025.
+
+* [2025] Martin Elsman and Troels Henriksen. Gate Fusion is Map Fusion. In Proceedings of the 11th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '25). Seoul, Republic of Korea. June, 2025.
+
 * [2024c] Robert Schenck, Nikolaj Hey Hinnerskov, Troels Henriksen, Magnus Madsen, Martin Elsman. AUTOMAP: Inferring Rank-Polymorphic Function Applications with Integer Linear Programming. In Proceedings of the ACM on Programming Languages, Volume 8, Issue OOPSLA2. Article No.: 334, 27 pages. Pasadena, USA. October, 2024.
 
 * [2024b] Martin Elsman. Double-Ended Bit-Stealing for Algebraic Data Types. In Proceedings of the 2024 ACM SIGPLAN International Conference on Functional Programming (ICFP '24). Milan, Italy. September 4-6, 2024.
@@ -544,7 +548,14 @@ Most publications (except Journal papers) are available [online](/papers.html).
 
 #### Project Supervision (selected projects)
 
-- Kristian Laudrup Hansen. Combinatory AD for Python. BSc Project (ongoing).
+- Mikkel Willén. Measurements in Quantum Simulations. MSc Student project. June
+  2025.
+
+- Andreas Toft Neldeberg. Using Machine Learning to Predict Stock Market
+  Betas. BSc Project, Computer Science and Economics. June 2025.
+
+- Kristian Laudrup Hansen. Application of Combinatory Automatic Differentiation
+  in a Python Context. BSc Project. April 2025. [pdf](/studpdf/python-ad-mlk299.pdf)
 
 - Mark Seemann. On the Relationship between Referential Transparency and Haskell
   Purity. BSc Project. January 2025.
@@ -559,7 +570,7 @@ Most publications (except Journal papers) are available [online](/papers.html).
   Artificial Intelligence in Soccer. BSc Project, KomIT. In Danish. June 2024.
 
 - Axel Prütz Kanne, Svante Geisshirt. Unikernels with Region Inference. BSc
-  Project. June 2024.
+  Project. June 2024. [pdf](/studpdf/unikernels-mlkit-bsc.pdf)
 
 - Ferdinand Bjerre Wahl, Gustav Frederik Byberg, Mathias Lausten
   Schandorph. Sustainable Portfolio Management. BSc Project, Computer Science
@@ -597,10 +608,13 @@ Most publications (except Journal papers) are available [online](/papers.html).
   Project. January 2023.
 
 - Kristian Knudsen Olesen. Extracting Certified Futhark Code from Coq. BSc
-  Project. November 2021.
+  Project. November 2021. [pdf](/studpdf/futhark-extract-bsc-2021.pdf)
+
+- Christian Kjær Larsen. Extending MLKit with vector instructions. MSc Student
+  project. January, 2021. [pdf](/studpdf/vector-mlkit-pocs.pdf)
 
 - Louis Krog Kaufmann. Acceleration of CVA Calculations using Futhark. BSc
-  Project. December 2020.
+  Project. December 2020. [pdf](/studpdf/louis_bsc_thesis.pdf)
 
 - Robert Schenck. Sum Types in Futhark. MSc Thesis Project. January 2020.
 
@@ -617,7 +631,7 @@ Most publications (except Journal papers) are available [online](/papers.html).
   Recognition in Futhark. BSc Project. June 2018.
 
 - Christian Kjær Larsen. Formalization of Array Combinators and their Fusion
-  Rules in Coq. BSc Project. June 2017.
+  Rules in Coq. BSc Project. June 2017. [pdf](/studpdf/futhark-fusion-coq-bsc2017.pdf)
 
 - Jonas Aslet. Visualising Portfolio Evolution. BSc Project. January 2016.
 
