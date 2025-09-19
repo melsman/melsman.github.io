@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* __Martin Elsman__. ___Compositional Deep Argument Flattening___. In _Informal Proceeding of the 2025 ML Family Workshop (ML '25)_, Singapore. October 2025. [PDF](pdf/ml25-deep-flattening.pdf).
+
 * __Martin Elsman__. ___Deriving a Kronecker-Free Functional Quantum Simulator___. In _Informal Proceeding of the 2nd Workshop on Quantum Software (WQS '25)_, Seoul, Republic of Korea. June 2025. [Abstract](https://pldi25.sigplan.org/details/wqs-2025-papers/4/Deriving-a-Kronecker-Free-Functional-Quantum-Simulator). [PDF](pdf/wqs25-final.pdf).
 
 * __Martin Elsman__ and Troels Henriksen. ___Gate Fusion is Map Fusion___. In _Proceedings of the 11th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '25)_. Seoul, Republic of Korea. June, 2025. [Abstract](https://pldi25.sigplan.org/details/ARRAY-2025-papers/7/Gate-Fusion-is-Map-Fusion). [PDF](pdf/array25-publ.pdf).
