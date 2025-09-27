@@ -226,9 +226,9 @@ Science, University of Copenhagen. July 1995. [pdf](/pdf/backend.pdf).
 ### Notes
 
 * __Martin Elsman__. ___Dynamic Programming in Futhark___. Note on using the
-`dpsolver` dynamic programming library in Futhark. Department of
+`dpsolve` dynamic programming library in Futhark. Department of
 Computer Science, University of
-Copenhagen. October 23, 2021. [pdf](/pdf/dpsolver_demo.pdf).
+Copenhagen. September 27, 2025. [pdf](/pdf/dpsolve-2025-09-27.pdf). [earlier version pdf](/pdf/dpsolver_demo.pdf).
 
 * __Martin Elsman__. ___Efficient Online User Tracking___. Note on using
 unification for efficient online user tracking. Work done while at
