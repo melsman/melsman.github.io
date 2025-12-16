@@ -143,6 +143,10 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 * Mads Tofte, Lars Birkedal, __Martin Elsman__, Niels Hallenberg, Tommy
 Højfeld Olesen, and Peter Sestoft. ___Programming with Regions in the
+MLKit (revised for Version 4.7.16)___. Department of Computer Science, University of Copenhagen. December 2025. [pdf](/pdf/mlkit-4.7.16.pdf), [bibtex](/pdf/mlkit-4.7.16-bibtex.txt).
+
+* Mads Tofte, Lars Birkedal, __Martin Elsman__, Niels Hallenberg, Tommy
+Højfeld Olesen, and Peter Sestoft. ___Programming with Regions in the
 MLKit (revised for Version 4.7.2)___. Department of Computer Science, University of Copenhagen. December 2022. [pdf](/pdf/mlkit-4.7.2.pdf), [bibtex](/pdf/mlkit-4.7.2-bibtex.txt).
 
 * __Martin Elsman__. ___Garbage-Collection Safety for Region-Based Type-Polymorphic Programs___. Department of Computer Science, University of Copenhagen (DIKU), Denmark. DIKU Technical report. December 2022. [pdf](/pdf/gcsafety-revisited-tr-2022.pdf).
