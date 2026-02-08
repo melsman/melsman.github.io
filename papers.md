@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* William Henrich Due, __Martin Elsman__, and Troels Henriksen. Hash Maps in a Functional Array Language. In Draft Proceedings of _the 26th International Symposium on Trends in Functional Programming (TFP '25)_. Odense, Denmark. February 2025. [PDF](/pdf/tfp26-paper-07.pdf).
+* William Henrich Due, __Martin Elsman__, and Troels Henriksen. Hash Maps in a Functional Array Language. In Draft Proceedings of _the 26th International Symposium on Trends in Functional Programming (TFP '26)_. Odense, Denmark. February 2026. [PDF](/pdf/tfp26-paper-07.pdf).
 
 * __Martin Elsman__. ___Compositional Deep Argument Flattening___. In _Informal Proceeding of the 2025 ML Family Workshop (ML '25)_, Singapore. October 2025. [PDF](pdf/ml25-deep-flattening.pdf).
 
