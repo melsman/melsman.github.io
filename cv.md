@@ -334,6 +334,10 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
+* [2026] William Henrich Due, Martin Elsman, and Troels Henriksen. Hash Maps in a Functional Array Language. In Draft Proceedings of the 26th International Symposium on Trends in Functional Programming (TFP ‘26). Odense, Denmark. February 2026.
+
+* [2025b] Martin Elsman. Compositional Deep Argument Flattening. In Informal Proceeding of the 2025 ML Family Workshop (ML ‘25), Singapore. October 2025.
+
 * [2025a] Martin Elsman. Deriving a Kronecker-Free Functional Quantum Simulator. In Informal Proceeding of the 2nd Workshop on Quantum Software (WQS '25), Seoul, Republic of Korea. June 2025.
 
 * [2025] Martin Elsman and Troels Henriksen. Gate Fusion is Map Fusion. In Proceedings of the 11th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '25). Seoul, Republic of Korea. June, 2025.
@@ -547,6 +551,12 @@ Most publications (except Journal papers) are available [online](/papers.html).
 * Wojciech Michal Pawlak (industrial PhD student in collaboration with SimCorp)
 
 #### Project Supervision (selected projects)
+
+- Axel Kanne, Svante Geisshirt. Implementing a Modular Protocol Stack using
+  Region-Based Memory Management. MSc project. January 2026.
+
+- Caroline Amalie Kierkegaard. GPU Acceleration of Block Sparse LU
+  Factorisation. MSc thesis project (with TICRA). January 2026.
 
 - Mikkel Willén. Measurements in Quantum Simulations. MSc Student project. June
   2025.
