@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* __Martin Elsman__. ___Deriving a Kronecker-Free Functional Quantum Simulator___. In _Proceeding of the 28th International Symposium on Principles and Practice of Declarative Programming (PPDP/LOPSTR '26)_, Indianapolis, Indiana, USA. August 2026. [Abstract](https://icfp26.sigplan.org/details/lopstr-ppdp-2026-papers/14/Deriving-a-Kronecker-Free-Functional-Quantum-Simulator). [PDF](pdf/ppdp26-final.pdf).
+
 * William Henrich Due, __Martin Elsman__, and Troels Henriksen. Hash Maps in a Functional Array Language. In Draft Proceedings of _the 26th International Symposium on Trends in Functional Programming (TFP '26)_. Odense, Denmark. February 2026. [PDF](/pdf/tfp26-paper-07.pdf).
 
 * __Martin Elsman__. ___Compositional Deep Argument Flattening___. In _Informal Proceeding of the 2025 ML Family Workshop (ML '25)_, Singapore. October 2025. [PDF](pdf/ml25-deep-flattening.pdf).
