@@ -145,6 +145,8 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 ### Technical Reports
 
+* __Martin Elsman__. ___Generic Combinators for Monoid Nesting in Futhark - Towards a library for data-parallel one-touch queries in constant space___. DIKU Technical Report. Department of Computer Science, University of Copenhagen. September 2026. [pdf](/pdf/monoids.pdf)
+
 * Mads Tofte, Lars Birkedal, __Martin Elsman__, Niels Hallenberg, Tommy
 Højfeld Olesen, and Peter Sestoft. ___Programming with Regions in the
 MLKit (revised for Version 4.7.16)___. Department of Computer Science, University of Copenhagen. December 2025. [pdf](/pdf/mlkit-4.7.16.pdf), [bibtex](/pdf/mlkit-4.7.16-bibtex.txt).
