@@ -145,6 +145,8 @@ Thesis. Technical University of Denmark. August 1994. [pdf](/pdf/masters.pdf), [
 
 ### Technical Reports
 
+* __Martin Elsman__. ___Crafting a REPL for HOT Compiled Execution___. DIKU Technical Report. Department of Computer Science, University of Copenhagen. September 2026. [pdf](/pdf/repl.pdf)
+
 * __Martin Elsman__. ___Generic Combinators for Monoid Nesting in Futhark - Towards a library for data-parallel one-touch queries in constant space___. DIKU Technical Report. Department of Computer Science, University of Copenhagen. September 2026. [pdf](/pdf/monoids.pdf)
 
 * Mads Tofte, Lars Birkedal, __Martin Elsman__, Niels Hallenberg, Tommy
