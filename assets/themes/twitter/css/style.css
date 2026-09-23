@@ -301,3 +301,49 @@ pre code, pre tt {
   background-color: transparent;
   border: none;
 }
+
+/* Front page: profile beneath portrait, with two-thirds for recent posts. */
+.home-profile > img {
+  display: block;
+  height: auto;
+  margin-bottom: 36px;
+}
+
+.home-profile-info {
+  overflow-wrap: break-word;
+}
+
+@media (max-width: 767px) {
+  body {
+    padding: 0 16px;
+  }
+
+  .navbar .brand {
+    float: none;
+    display: block;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .navbar .nav {
+    float: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0;
+  }
+
+  .home-posts-column .nav-list a {
+    overflow-wrap: break-word;
+  }
+
+  .home-columns > .home-profile-column,
+  .home-columns > .home-posts-column {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .home-posts-column {
+    margin-top: 24px;
+  }
+}

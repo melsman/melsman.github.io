@@ -4,11 +4,9 @@ layout: front
 ---
 {% include JB/setup %}
 
-<div class="row-fluid">
-  <div class="span5">
-     <img alt="Martin Elsman" align="left" style="margin-right:1em;" src="/images/elsman_small.jpg">
-  </div>
-  <div class="span7" style="padding:5px;">
+<div class="home-profile">
+  <img alt="Martin Elsman" src="/images/elsman_small.jpg">
+  <div class="home-profile-info">
      Professor<br />
      Department of Computer Science<br />
      University of Copenhagen<br />
