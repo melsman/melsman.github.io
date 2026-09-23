@@ -39,8 +39,7 @@ know. Here are some possible topics:
 
 I have recently started using
 [Smackage](http://github.com/standardml/smackage) for maintaining
-Standard ML libraries; see my blog entry on [Getting Started with
-Smackage](/lessons/2014/10/02/getting-started-with-smackage). Smackage
+Standard ML libraries. Smackage
 is a relative new invention and more infrastructure is needed for
 easing the daily life with Smackage, including work on library
 documentation tools (e.g., improvement of
