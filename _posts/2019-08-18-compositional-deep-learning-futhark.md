@@ -7,6 +7,9 @@ tags: ["Futhark", "parallel programming"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 Our paper *Compositional Deep Learning in Futhark*, with Duc Minh Tran and
 Troels Henriksen, was accepted for presentation at FHPNC 2019 in Berlin on
 August 18.
@@ -19,3 +22,5 @@ leaving opportunities for fusion and other GPU optimisations. The result
 connects a modular way of describing networks with efficient generated code.
 
 [Read the paper (PDF)](/pdf/fhpnc19.pdf).
+
+<div style="clear: both;"></div>

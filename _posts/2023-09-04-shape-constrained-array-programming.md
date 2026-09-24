@@ -7,6 +7,9 @@ tags: ["Futhark", "parallel programming"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 Our paper *Shape-Constrained Array Programming with Size-Dependent Types*,
 with Lubin Bailly and Troels Henriksen, was accepted for presentation at FHPNC
 2023 in Seattle on September 4.
@@ -20,3 +23,5 @@ necessary. We establish its soundness and explain how to bring the design into
 Futhark.
 
 [Read the paper (PDF)](/pdf/fhpnc23.pdf).
+
+<div style="clear: both;"></div>

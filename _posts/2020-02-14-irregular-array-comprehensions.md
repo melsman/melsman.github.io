@@ -7,6 +7,9 @@ tags: ["Futhark", "parallel programming"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 Our extended abstract *Efficient Translation of Certain Irregular
 Data-Parallel Array Comprehensions*, with Ken Friis Larsen, was accepted for
 presentation at TFP 2020 in Krakow, held alongside Lambda Days. The talk was
@@ -22,3 +25,5 @@ while still producing efficient parallel code.
 [Read the paper (PDF)](/pdf/fut-comprehensions.pdf).
 
 [Conference programme and abstract](https://lambdadays.org/lambdadays2020/ken-friis-larsen/).
+
+<div style="clear: both;"></div>

@@ -7,6 +7,9 @@ tags: ["Futhark", "parallel programming"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 {% include video-preview.html url="https://www.youtube.com/watch?v=g7PoouwWqeU" image="https://i.ytimg.com/vi/g7PoouwWqeU/hqdefault.jpg" alt="Video thumbnail for Data-Parallel Flattening by Expansion at ARRAY 2019" %}
 
 Our paper *Data-Parallel Flattening by Expansion*, with Troels Henriksen and

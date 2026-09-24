@@ -7,6 +7,13 @@ tags: ["MLKit", "Standard ML", "memory management"]
 ---
 {% include JB/setup %}
 
+<figure style="float: right; width: 30%; margin: 0 0 1em 1.5em;">
+  <a href="https://elsman.com/mlkit/">
+    <img src="/images/ml_kit.svg" alt="MLKit logo"
+       style="display: block; width: 100%; height: auto; margin: 0;">
+  </a>
+</figure>
+
 The technical report *Programming with Regions in the MLKit* is now
 available in a revised edition for MLKit 4.7.16, written with Mads Tofte,
 Lars Birkedal, Niels Hallenberg, Tommy Højfeld Olesen, and Peter Sestoft.
@@ -25,3 +32,5 @@ rest of the report remains a practical guide to region-based memory
 management, program representations, and profiling.
 
 [Read the revised manual (PDF)](/pdf/mlkit-4.7.16.pdf).
+
+<div style="clear: both;"></div>

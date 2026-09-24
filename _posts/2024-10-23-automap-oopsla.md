@@ -7,6 +7,9 @@ tags: ["Futhark", "type systems", "array programming", "OOPSLA"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 Our paper *AUTOMAP: Inferring Rank-Polymorphic Function Applications with
 Integer Linear Programming*, with Robert Schenck, Nikolaj Hey Hinnerskov,
 Troels Henriksen, and Magnus Madsen, was accepted for presentation at
@@ -23,3 +26,5 @@ in Futhark.
 [Read the paper (PDF)](/pdf/oopslab24main-p607-final.pdf) or see the
 [published article](https://doi.org/10.1145/3689774) and
 [OOPSLA programme](https://2024.splashcon.org/track/splash-2024-OOPSLA).
+
+<div style="clear: both;"></div>

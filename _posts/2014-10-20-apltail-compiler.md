@@ -7,6 +7,9 @@ tags: ["APL", "TAIL", "compilers", "Futhark"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 [apltail](https://github.com/melsman/apltail) is a compiler for a subset of
 APL, built around TAIL, a typed array intermediate language. It turns compact
 APL expressions into explicit array computations that can be inspected,
@@ -26,3 +29,5 @@ at Dyalog '17 in Elsinore, Denmark. It follows the APL–TAIL–Futhark tool cha
 through to GPU execution, including training a neural network to recognise
 handwritten digits. The [presentation slides (PDF)](/pdf/Dyalog17.pdf)
 are also available.
+
+<div style="clear: both;"></div>

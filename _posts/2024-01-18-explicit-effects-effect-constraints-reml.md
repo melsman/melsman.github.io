@@ -12,6 +12,13 @@ tags: ["ReML", "MLKit", "effect systems"]
 My paper *Explicit Effects and Effect Constraints in ReML* was accepted for
 presentation at POPL 2024 in London on January 18.
 
+<figure style="float: right; clear: right; width: 30%; margin: 0 0 1em 1.5em;">
+  <a href="https://elsman.com/mlkit/">
+    <img src="/images/reml.svg" alt="ReML logo"
+       style="display: block; width: 100%; height: auto; margin: 0;">
+  </a>
+</figure>
+
 For some programs, controlling memory use and other effects is as important as
 computing the right answer. ReML lets programmers state where values should
 live and place constraints on the effects that code may perform. The compiler

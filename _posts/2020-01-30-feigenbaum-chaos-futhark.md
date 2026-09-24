@@ -8,7 +8,9 @@ tags: ["Futhark", "parallel programming", "graphics", "chaos"]
 {% include JB/setup %}
 
 <div style="display: flow-root;" markdown="1">
-<figure style="float: right; width: 30%; margin: 0 0 1em 1.5em;">
+
+
+<figure style="float: right; clear: right; width: 30%; margin: 0 0 1em 1.5em;">
   <a href="https://raw.githubusercontent.com/melsman/feigenbaum/master/images/bif_logistic.png">
     <img src="https://raw.githubusercontent.com/melsman/feigenbaum/master/images/bif_logistic.png" alt="Bifurcation diagram of the logistic map."
          style="display: block; width: 100%; height: auto; margin: 0;" loading="lazy">
@@ -29,7 +31,7 @@ between several recurrence equations while exploring their behaviour.
 </div>
 
 <div style="display: flow-root;" markdown="1">
-<figure style="float: right; width: 30%; margin: 0 0 1em 1.5em;">
+<figure style="float: right; clear: right; width: 30%; margin: 0 0 1em 1.5em;">
   <a href="https://raw.githubusercontent.com/melsman/feigenbaum/master/images/bif_sincos.png">
     <img src="https://raw.githubusercontent.com/melsman/feigenbaum/master/images/bif_sincos.png" alt="Bifurcation diagram of the SinCos map."
          style="display: block; width: 100%; height: auto; margin: 0;" loading="lazy">
@@ -51,7 +53,7 @@ can be explored independently.
 </div>
 
 <div style="display: flow-root;" markdown="1">
-<figure style="float: right; width: 30%; margin: 0 0 1em 1.5em;">
+<figure style="float: right; clear: right; width: 30%; margin: 0 0 1em 1.5em;">
   <a href="https://raw.githubusercontent.com/melsman/feigenbaum/master/images/bif_henon.png">
     <img src="https://raw.githubusercontent.com/melsman/feigenbaum/master/images/bif_henon.png" alt="Bifurcation diagram of the Hénon map."
          style="display: block; width: 100%; height: auto; margin: 0;" loading="lazy">
@@ -73,3 +75,4 @@ full size.
 
 </div>
 
+<div style="clear: both;"></div>

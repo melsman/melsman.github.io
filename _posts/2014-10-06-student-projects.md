@@ -2,7 +2,7 @@
 layout: post
 author: Martin Elsman
 category : lessons
-tags : [student projects,mlkit,smackage,Standard ML,HIPERFIT]
+tags : [student projects,MLKit,smackage,Standard ML,HIPERFIT]
 ---
 {% include JB/setup %}
 

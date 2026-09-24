@@ -7,6 +7,9 @@ tags: ["Standard ML", "package management", "Futhark"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 [smlpkg](https://github.com/diku-dk/smlpkg) makes it easier to share and reuse
 Standard ML libraries. It downloads and upgrades dependencies from repositories
 such as GitHub and GitLab, using semantic versioning to identify releases.
@@ -26,3 +29,5 @@ Henriksen. His post,
 explains the design and its emphasis on simple, transparent operations.
 For installation instructions and a collection of available Standard ML
 packages, see the [smlpkg repository](https://github.com/diku-dk/smlpkg).
+
+<div style="clear: both;"></div>

@@ -7,6 +7,9 @@ tags: ["Futhark", "quantum computing", "parallel programming", "ARRAY"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 {% include video-preview.html url="https://doi.org/10.1145/3736112.3736143" image="/images/dq-gate-fusion-circuit.png" alt="Quantum circuit from Figure 1 of Gate Fusion Is Map Fusion" note=" (ACM Supplemental Material). Circuit: Elsman and Henriksen, Figure 1, <a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0</a>." %}
 
 Our paper *Gate Fusion Is Map Fusion*, with Troels Henriksen, was accepted

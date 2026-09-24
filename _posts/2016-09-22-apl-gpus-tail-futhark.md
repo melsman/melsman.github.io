@@ -7,6 +7,9 @@ tags: ["APL", "TAIL", "compilers", "Futhark"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 Our paper *APL on GPUs: A TAIL from the Past, Scribbled in Futhark*,
 with Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn,
 Daniel Gavin, Hjalte Abelskov, and Cosmin Oancea, was accepted for presentation
@@ -25,3 +28,5 @@ on some benchmarks.
 
 See also the [apltail project post]({% post_url 2014-10-20-apltail-compiler %}),
 which links to my later Dyalog presentation of the compiler tool chain.
+
+<div style="clear: both;"></div>

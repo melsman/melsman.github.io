@@ -7,6 +7,9 @@ tags: ["quantum computing", "Standard ML", "Futhark", "parallel programming"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 [dq, the DIKU Quantum Simulation Framework](https://github.com/diku-dk/dq),
 provides tools for specifying, drawing, and simulating quantum circuits.
 It separates a circuit's description from its execution, making it possible
@@ -14,7 +17,7 @@ to explore several simulation strategies using the same circuit.
 These range from constructing the matrix that a circuit denotes to operating
 directly on a state vector and generating parallel Futhark code for GPUs.
 
-<figure style="float: right; width: 30%; margin: 0 0 1em 1.5em;">
+<figure style="float: right; clear: right; width: 30%; margin: 0 0 1em 1.5em;">
   <a href="/pdf/array25-publ.pdf#page=2">
     <img src="/images/dq-gate-fusion-circuit.png" width="615" height="368"
          style="display: block; width: 100%; height: auto; margin: 0;"

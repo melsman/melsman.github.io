@@ -7,6 +7,8 @@ tags: ["Standard ML", "automatic differentiation", "functional programming"]
 ---
 {% include JB/setup %}
 
+
+
 [Caddie](https://github.com/diku-dk/caddie) is an experimental implementation
 of combinatory automatic differentiation, written in Standard ML. It explores
 how to turn a description of a calculation into code that computes its
@@ -33,3 +35,5 @@ constructing code for another language, with efficient gradient generation
 for languages such as Futhark as a longer-term aim. See the
 [code and examples](https://github.com/diku-dk/caddie) to explore the
 transformations step by step.
+
+<div style="clear: both;"></div>

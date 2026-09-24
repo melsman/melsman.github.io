@@ -7,6 +7,9 @@ tags: ["Futhark", "parallel programming", "monoids"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 My new DIKU technical report, *Generic Combinators for Monoid Nesting in
 Futhark*, explores how to combine parsing and aggregation into a single
 parallel query.
@@ -20,3 +23,5 @@ experiments show how the choice of representation and the way input is
 divided into blocks affect performance.
 
 [Read the technical report (PDF)](/pdf/monoids.pdf).
+
+<div style="clear: both;"></div>

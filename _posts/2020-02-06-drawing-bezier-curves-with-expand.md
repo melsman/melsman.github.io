@@ -7,7 +7,10 @@ tags: ["Futhark", "parallel programming", "graphics"]
 ---
 {% include JB/setup %}
 
-<figure style="float: right; width: 30%; margin: 0 0 1em 1.5em;">
+{% include futhark-logo.html %}
+
+
+<figure style="float: right; clear: right; width: 30%; margin: 0 0 1em 1.5em;">
   <a href="https://github.com/melsman/futhark-bezier">
     <img src="https://raw.githubusercontent.com/melsman/futhark-bezier/master/images/bezier.png" alt="Bézier curve example from the futhark-bezier application"
          style="display: block; width: 100%; height: auto; margin: 0;">

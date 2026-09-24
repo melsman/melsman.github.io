@@ -7,6 +7,9 @@ tags: ["Futhark", "parallel programming"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 <!-- Post dated to the first day of IFL 2019; the individual presentation day could not be verified. -->
 
 Our paper *A Functional Approach to Accelerating Monte Carlo based American
@@ -21,3 +24,5 @@ CUDA implementation optimised by NVIDIA engineers. The functional formulation
 also makes the algorithm easier to inspect and change.
 
 [Read the paper (PDF)](https://futhark-lang.org/publications/ifl19.pdf).
+
+<div style="clear: both;"></div>

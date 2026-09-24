@@ -7,6 +7,13 @@ tags: ["MLKit", "memory management"]
 ---
 {% include JB/setup %}
 
+<figure style="float: right; clear: right; width: 30%; margin: 0 0 1em 1.5em;">
+  <a href="https://elsman.com/mlkit/">
+    <img src="/images/ml_kit.svg" alt="MLKit logo"
+         style="display: block; width: 100%; height: auto; margin: 0;">
+  </a>
+</figure>
+
 {% include video-preview.html url="https://www.youtube.com/watch?v=3BEHTVi9UNM" image="https://i.ytimg.com/vi/3BEHTVi9UNM/hqdefault.jpg" alt="Video thumbnail for Double-Ended Bit-Stealing at ICFP 2024" %}
 
 My paper *Double-Ended Bit-Stealing for Algebraic Data Types* was accepted for

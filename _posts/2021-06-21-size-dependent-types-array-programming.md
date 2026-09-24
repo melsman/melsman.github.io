@@ -7,6 +7,9 @@ tags: ["Futhark", "parallel programming"]
 ---
 {% include JB/setup %}
 
+{% include futhark-logo.html %}
+
+
 Our paper *Towards Size-Dependent Types for Array Programming*, with Troels
 Henriksen, was accepted for presentation at the virtual ARRAY 2021 workshop on
 June 21.
@@ -22,3 +25,5 @@ simple design works in practice.
 [Read the paper (PDF)](/pdf/array21-final-publ.pdf).
 
 [Conference programme and abstract](https://pldi21.sigplan.org/details/ARRAY-2021-papers/5/Towards-size-dependent-types-for-array-programming).
+
+<div style="clear: both;"></div>
