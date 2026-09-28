@@ -7,7 +7,6 @@ tags: ["APL", "TAIL", "compilers", "Futhark"]
 ---
 {% include JB/setup %}
 
-{% include futhark-logo.html %}
 
 
 Our paper *Compiling a Subset of APL Into a Typed Intermediate Language*,

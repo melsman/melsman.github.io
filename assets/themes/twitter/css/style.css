@@ -347,3 +347,27 @@ pre code, pre tt {
     margin-top: 24px;
   }
 }
+
+/* Keep project artwork beside its own bullet, including on small screens. */
+.project-list > li {
+  margin-bottom: 20px;
+}
+.project-list > li::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.project-logos {
+  float: right;
+  width: 15%;
+  margin: 0 0 12px 20px;
+}
+.project-logos a,
+.project-logos img {
+  display: block;
+}
+.project-logos img {
+  width: 100%;
+  height: auto;
+  margin: 0 0 12px;
+}
