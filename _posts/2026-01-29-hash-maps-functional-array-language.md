@@ -10,7 +10,7 @@ tags: ["Futhark", "parallel programming", "hash maps", "TFP"]
 {% include futhark-logo.html %}
 
 
-Our paper *Hash Maps in a Functional Array Language*, with William Henrich
+Our paper *Hash Maps in a Functional Array Language*, with Lilje Henrich
 Due and Troels Henriksen, was accepted for presentation at TFP 2026 in
 Odense and appears in the draft proceedings. It was scheduled for January
 29.
