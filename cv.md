@@ -334,7 +334,7 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'16).
 
 #### Publications
 
-* [2026] William Henrich Due, Martin Elsman, and Troels Henriksen. Hash Maps in a Functional Array Language. In Draft Proceedings of the 26th International Symposium on Trends in Functional Programming (TFP ‘26). Odense, Denmark. February 2026.
+* [2026] Lilje Henrich Due, Martin Elsman, and Troels Henriksen. Hash Maps in a Functional Array Language. In Draft Proceedings of the 26th International Symposium on Trends in Functional Programming (TFP ‘26). Odense, Denmark. February 2026.
 
 * [2025b] Martin Elsman. Compositional Deep Argument Flattening. In Informal Proceeding of the 2025 ML Family Workshop (ML ‘25), Singapore. October 2025.
 
